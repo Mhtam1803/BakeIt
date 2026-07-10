@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BakeIt Admin Dashboard</title>
+    <link rel="stylesheet" href="../../css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="./Dashboard.js" defer></script>
+</head>
+<body>
+<div class="admin-dashboard product-management-page">
+    <aside class="sidebar">
+        <div>
+            <div class="logo"><img src="../../assets/logo.jpg" alt="BakeIt"></div>
+
+            <nav class="nav-menu">
+                <a href="../Dashboard/Dashboard.html" class="nav-item active">
+                    <i class="fa-solid fa-house nav-icon"></i>
+                    Dashboard
+                </a>
+
+                <a href="../Product Management/ProductManagement.html#productlist" class="nav-item">
+                    <i class="fa-solid fa-cube nav-icon"></i>
+                    Product Management
+                </a>
+
+                <a href="../Order Management/OrderManagement.html#ordermanagement" class="nav-item">
+                    <i class="fa-solid fa-cart-shopping nav-icon"></i>
+                    Order Management
+                </a>
+
+                <a href="../Customer management/CustomerManagement.html#customermanagment" class="nav-item">
+                    <i class="fa-regular fa-user nav-icon"></i>
+                    Customer Management
+                </a>
+
+                <div class="nav-section-title">Content & Engagement</div>
+
+                <a href="../Blog Management/BlogManagement.html#blog" class="nav-item">
+                    <i class="fa-regular fa-file-lines nav-icon"></i>
+                    Blog Management
+                </a>
+
+                <a href="../Banner Management/BannerManagement.html#banner" class="nav-item">
+                    <i class="fa-regular fa-image nav-icon"></i>
+                    Banner Management
+                </a>
+
+                <a href="../Notifications & Campaigns/NotificationsCampaigns.html#notifications" class="nav-item">
+                    <i class="fa-regular fa-bell nav-icon"></i>
+                    Notifications & Campaigns
+                </a>
+
+                <a href="../Product Reviews/ProductReviews.html#reviews" class="nav-item">
+                    <i class="fa-regular fa-star nav-icon"></i>
+                    Product Reviews
+                </a>
+
+                <a href="../Community Q&A/CommunityQA.html#community" class="nav-item">
+                    <i class="fa-regular fa-comments nav-icon"></i>
+                    Community Q&A
+                </a>
+
+                <div class="nav-section-title">System Settings</div>
+
+                <a href="../System Settings/SystemSettings.html#setting" class="nav-item">
+                    <i class="fa-solid fa-gear nav-icon"></i>
+                    System Settings
+                </a>
+
+                <a href="../Administrator/Administrator.html#administratormanagement" class="nav-item">
+                    <i class="fa-solid fa-user-shield nav-icon"></i>
+                    Administrator
+                </a>
+            </nav>
+        </div>
+
+        <div class="sidebar-profile" id="sidebarProfileCard">
+            <img id="sidebarAvatar" src="" alt="Current user">
+            <div class="profile-info">
+                <div class="profile-name" id="sidebarName"></div>
+                <div class="profile-role" id="sidebarRole"></div>
+            </div>
+            <i class="fa-solid fa-chevron-down" id="profileArrow"></i>
+            <div class="profile-menu" id="profileMenu">
+                <button class="profile-menu-item" id="logoutBtn">
+                    <i class="fa-solid fa-power-off"></i>
+                    Log out
+                </button>
+            </div>
+        </div>
+    </aside>
+
+    <main class="main-content product-main">
+        <div class="product-topbar">
+            <button class="icon-text-btn" type="button" aria-label="Toggle navigation">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <h1>Dashboard</h1>
+            <div class="topbar-spacer"></div>
+            <div class="search-box product-global-search">
+                <input type="text" id="dashboardSearchInput" placeholder="Search orders, customers, products...">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+            <div class="notification" id="notificationBtn">
+                <i class="fa-regular fa-bell"></i>
+                <span class="notification-badge" id="dashboardNotificationCount">0</span>
+                <div class="notification-panel" id="notificationPanel">
+                    <div class="notification-header">
+                        <h3>Notifications</h3>
+                        <i class="fa-solid fa-ellipsis"></i>
+                    </div>
+                    <div class="notification-list" id="dashboardNotificationList"></div>
+                    <a class="view-all-btn" href="../Product Management/ProductManagement.html#inventorymanagement">View inventory</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="breadcrumb">
+            <span>Home</span>
+            <i class="fa-solid fa-chevron-right"></i>
+            <strong>Dashboard</strong>
+        </div>
+
+        <section class="dashboard-layout" aria-label="Admin overview">
+            <div class="dashboard-main-column">
+                <section class="dashboard-kpi-grid" aria-label="Performance summary">
+                    <article class="dashboard-kpi-card">
+                        <div class="dashboard-kpi-icon gold"><i class="fa-solid fa-sack-dollar"></i></div>
+                        <div>
+                            <p>Total Sales</p>
+                            <h2 id="totalSalesValue">0</h2>
+                            <span id="salesDeltaText">Current dataset</span>
+                        </div>
+                    </article>
+                    <article class="dashboard-kpi-card">
+                        <div class="dashboard-kpi-icon blue"><i class="fa-solid fa-cart-shopping"></i></div>
+                        <div>
+                            <p>Orders</p>
+                            <h2 id="totalOrdersValue">0</h2>
+                            <span id="ordersDeltaText">Current dataset</span>
+                        </div>
+                    </article>
+                    <article class="dashboard-kpi-card">
+                        <div class="dashboard-kpi-icon green"><i class="fa-solid fa-receipt"></i></div>
+                        <div>
+                            <p>Average Order Value</p>
+                            <h2 id="aovValue">0</h2>
+                            <span id="aovDeltaText">Current dataset</span>
+                        </div>
+                    </article>
+                    <article class="dashboard-kpi-card">
+                        <div class="dashboard-kpi-icon brown"><i class="fa-solid fa-boxes-stacked"></i></div>
+                        <div>
+                            <p>Low Stock Items</p>
+                            <h2 id="lowStockValue">0</h2>
+                            <span id="stockDeltaText">Need attention</span>
+                        </div>
+                    </article>
+                </section>
+
+                <section class="dashboard-panel sales-panel">
+                    <div class="dashboard-panel-header">
+                        <div>
+                            <h2>Sales Analytics</h2>
+                            <p id="salesRangeText">Monthly sales from order payments</p>
+                        </div>
+                        <div class="dashboard-segmented">
+                            <button type="button" class="active" data-chart-mode="monthly">Monthly</button>
+                            <button type="button" data-chart-mode="status">Status</button>
+                        </div>
+                    </div>
+                    <div class="sales-chart-wrap" id="salesChartWrap"></div>
+                    <div class="sales-chart-summary">
+                        <div class="dashboard-mini-insight">
+                            <div class="dashboard-mini-icon blue"><i class="fa-solid fa-chart-column"></i></div>
+                            <div><strong id="bestMonthText">Best month</strong><span id="bestMonthSales">0</span></div>
+                        </div>
+                        <div class="dashboard-mini-insight">
+                            <div class="dashboard-mini-icon gold"><i class="fa-solid fa-arrow-trend-up"></i></div>
+                            <div><strong id="growthTrendText">Growth trend</strong><span id="growthTrendValue">0%</span></div>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="dashboard-panel">
+                    <div class="dashboard-panel-header">
+                        <div>
+                            <h2>Recent Orders</h2>
+                            <p>Latest order activity and fulfillment status</p>
+                        </div>
+                        <a class="secondary-btn product-action-btn" href="../Order Management/OrderManagement.html#ordermanagement">View all</a>
+                    </div>
+                    <div class="product-table-wrap dashboard-table-wrap">
+                        <table class="product-table dashboard-table">
+                            <thead>
+                            <tr>
+                                <th>Order</th>
+                                <th>Customer</th>
+                                <th>Date</th>
+                                <th>Total</th>
+                                <th>Payment</th>
+                                <th>Status</th>
+                            </tr>
+                            </thead>
+                            <tbody id="recentOrdersBody"></tbody>
+                        </table>
+                    </div>
+                </section>
+            </div>
+
+            <aside class="dashboard-side-column">
+                <section class="dashboard-panel dashboard-side-panel">
+                    <div class="dashboard-panel-header compact">
+                        <h2>Customer Insights</h2>
+                    </div>
+                    <div class="insight-list">
+                        <div class="insight-row">
+                            <div class="dashboard-mini-icon blue"><i class="fa-regular fa-user"></i></div>
+                            <div><strong>New Customers</strong><span>This month</span></div>
+                            <b id="newCustomersValue">0</b>
+                        </div>
+                        <div class="insight-row">
+                            <div class="dashboard-mini-icon gold"><i class="fa-solid fa-crown"></i></div>
+                            <div><strong>VIP Customers</strong><span>High loyalty points</span></div>
+                            <b id="vipCustomersValue">0</b>
+                        </div>
+                        <div class="insight-row">
+                            <div class="dashboard-mini-icon green"><i class="fa-solid fa-users"></i></div>
+                            <div><strong>Total Customers</strong><span>All time</span></div>
+                            <b id="totalCustomersValue">0</b>
+                        </div>
+                    </div>
+                    <div class="dashboard-divider"></div>
+                    <div class="dashboard-subheader">
+                        <h3>Top Customers</h3>
+                        <a href="../Customer management/CustomerManagement.html#customermanagment">View all</a>
+                    </div>
+                    <div class="top-customers-list" id="topCustomersList"></div>
+                </section>
+
+                <section class="dashboard-panel dashboard-side-panel">
+                    <div class="dashboard-panel-header compact split">
+                        <h2>Stock Health</h2>
+                        <strong id="stockHealthPercent">0%</strong>
+                    </div>
+                    <div class="dashboard-progress">
+                        <span id="stockHealthBar"></span>
+                    </div>
+                    <p class="dashboard-muted" id="stockHealthText">Inventory health</p>
+                    <div class="stock-alert-list" id="stockAlertList"></div>
+                </section>
+
+                <section class="dashboard-panel dashboard-side-panel">
+                    <div class="dashboard-panel-header compact">
+                        <h2>Order Status</h2>
+                    </div>
+                    <div class="status-donut-wrap">
+                        <div class="status-donut" id="statusDonut"></div>
+                        <div class="status-legend" id="statusLegend"></div>
+                    </div>
+                </section>
+            </aside>
+        </section>
+    </main>
+</div>
+</body>
+</html>

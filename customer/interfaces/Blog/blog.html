@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Công Thức - Bake it!</title>
+    <link rel="stylesheet" href="blog.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="global-header-placeholder"></div>
+
+    <div class="container">
+        <div id="blog-list-view">
+            <div class="blog-banner-container" style="margin-bottom: 30px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+        <img src="Images/banner.png" alt="Banner Công thức" style="width: 100%; height: auto; display: block;">
+    </div>
+            <div id="recipes-grid" class="recipes-grid">
+                </div>
+        </div>
+
+        <div id="recipe-detail-view" class="hidden">
+            <button id="btn-back-to-list" class="btn-back">← Quay lại danh sách</button>
+            
+            <div class="recipe-content-wrapper">
+                <div class="recipe-header">
+                    <h1 id="detail-title" class="detail-title">Tiêu đề bài viết</h1>
+                    <div class="detail-meta">
+                        Đăng bởi <strong id="detail-author">Admin</strong> vào ngày <span id="detail-date">01/01/2026</span>
+                    </div>
+                    <img id="detail-image" class="detail-image" src="" alt="Hình ảnh công thức">
+                    <p id="detail-desc" class="detail-desc"></p>
+                </div>
+
+                <div class="recipe-body-grid">
+                    <aside class="recipe-ingredients">
+                        <h3>🛒 Chuẩn Bị Nguyên Liệu</h3>
+                        
+                        <p class="instruction-text" style="color: #d4591d; font-weight: bold;">Hãy tick vào ô nguyên liệu bạn muốn mua nhé!</p>
+                        
+                        <div id="ingredients-checklist" class="checklist-container">
+                            </div>
+                            
+                        <button id="btn-add-recipe-cart" class="btn-add-recipe-cart">
+                            Thêm nguyên liệu đã chọn vào giỏ 🛒
+                        </button>
+                    </aside>
+
+                    <main class="recipe-steps">
+                        <h3>👩‍🍳 Các Bước Thực Hiện</h3>
+                        <div id="steps-container" class="steps-container">
+                            </div>
+                    </main>
+                </div>
+
+                <div class="recipe-faq-section">
+                    <h3>💬 Hỏi đáp & Thảo luận</h3>
+                    <div class="faq-list"></div>
+                    
+                    <form id="recipe-comment-form" class="faq-form">
+                        <label style="font-weight:bold; color:#4a3329;">Để lại bình luận hoặc câu hỏi của bạn</label>
+                        <textarea rows="3" placeholder="Nhập bình luận..."></textarea>
+                        <button type="submit">Gửi bình luận</button>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div id="global-footer-placeholder"></div>
+
+    <script src="../../../datasets/product-recipes.js"></script>
+    <script src="../../shared/cart-storage.js"></script>
+    <script src="../../shared/global-layout.js"></script>
+    <script src="blog.js"></script>
+</body>
+</html>

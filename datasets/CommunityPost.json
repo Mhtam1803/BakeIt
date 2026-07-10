@@ -1,0 +1,57 @@
+[
+  {
+    "PostID": 1,
+    "CustomerID": 12,
+    "AdminID": null,
+    "ParentPostID": null,
+    "Content": "Can anyone recommend a good whipping cream for cheesecake?",
+    "CreatedAt": "2025-06-10 14:20:00",
+    "PostStatus": "Published"
+  },
+  {
+    "PostID": 2,
+    "CustomerID": null,
+    "AdminID": 1,
+    "ParentPostID": 1,
+    "Content": "Anchor Whipping Cream is one of our most recommended products.",
+    "CreatedAt": "2025-06-10 15:00:00",
+    "PostStatus": "Published"
+  },
+  {
+    "PostID": 3,
+    "CustomerID": 8,
+    "AdminID": null,
+    "ParentPostID": 1,
+    "Content": "I also use Elle & Vire. It works very well.",
+    "CreatedAt": "2025-06-10 15:30:00",
+    "PostStatus": "Published"
+  },
+  {
+    "PostID": 4,
+    "CustomerID": 1011,
+    "CustomerName": "TEAM M LCHHTTT",
+    "CustomerEmail": "teammlchhttt@gmail.com",
+    "AdminID": null,
+    "ParentPostID": null,
+    "BlogID": 1,
+    "BlogTitle": "Cách làm Bánh Tiramisu Ý chuẩn vị, không cần lò nướng",
+    "SourceType": "BlogComment",
+    "Content": "bánh này làm lâu kô ạ",
+    "CreatedAt": "2026-07-09 15:04:20",
+    "PostStatus": "Published"
+  },
+  {
+    "PostID": 5,
+    "CustomerID": 1012,
+    "CustomerName": "Bùi Lê Hạnh Nguyên",
+    "CustomerEmail": "nguyenblhk24411e@st.uel.edu.vn",
+    "AdminID": null,
+    "ParentPostID": null,
+    "BlogID": 1,
+    "BlogTitle": "Cách làm Bánh Tiramisu Ý chuẩn vị, không cần lò nướng",
+    "SourceType": "BlogComment",
+    "Content": "bánh này ngon ko ạ",
+    "CreatedAt": "2026-07-10 09:15:29",
+    "PostStatus": "Published"
+  }
+]

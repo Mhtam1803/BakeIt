@@ -1,0 +1,4452 @@
+[
+  {
+    "CustomerID": 1001,
+    "FullName": "Nguyễn Minh Anh",
+    "Email": "nguyenminhanh@gmail.com",
+    "Phone": "0900000000",
+    "CreatedAt": "2026-01-01T08:00:00",
+    "LoyaltyPoint": 0,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7001,
+        "OrderID": 8001,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-01T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7002,
+        "OrderID": 8002,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-01T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1002,
+    "FullName": "Trần Hoàng Nam",
+    "Email": "tranhoangnam@gmail.com",
+    "Phone": "0900007919",
+    "CreatedAt": "2026-02-02T09:07:00",
+    "LoyaltyPoint": 137,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7004,
+        "OrderID": 8002,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-02T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1003,
+    "FullName": "Lê Thu Hà",
+    "Email": "lethuha@gmail.com",
+    "Phone": "0900015838",
+    "CreatedAt": "2026-03-03T10:14:00",
+    "LoyaltyPoint": 274,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7007,
+        "OrderID": 8003,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-03T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1004,
+    "FullName": "Phạm Gia Bảo",
+    "Email": "phamgiabao@gmail.com",
+    "Phone": "0900023757",
+    "CreatedAt": "2026-04-04T11:21:00",
+    "LoyaltyPoint": 411,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7010,
+        "OrderID": 8004,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-04T09:15:00",
+        "ResolvedAt": "2026-07-06T10:33:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1005,
+    "FullName": "Hoàng Linh Chi",
+    "Email": "hoanglinhchi@gmail.com",
+    "Phone": "0900031676",
+    "CreatedAt": "2026-05-05T12:28:00",
+    "LoyaltyPoint": 548,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7013,
+        "OrderID": 8005,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-05T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7014,
+        "OrderID": 8006,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-05T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1006,
+    "FullName": "Phan Quốc Huy",
+    "Email": "phanquochuy@gmail.com",
+    "Phone": "0900039595",
+    "CreatedAt": "2026-06-06T13:35:00",
+    "LoyaltyPoint": 685,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7016,
+        "OrderID": 8006,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-06T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1007,
+    "FullName": "Vũ Bảo Ngọc",
+    "Email": "vubaongoc@gmail.com",
+    "Phone": "0900047514",
+    "CreatedAt": "2026-01-07T14:42:00",
+    "LoyaltyPoint": 822,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7019,
+        "OrderID": 8007,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-07T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1008,
+    "FullName": "Đặng Đức Anh",
+    "Email": "dangducanh@gmail.com",
+    "Phone": "0900055433",
+    "CreatedAt": "2026-02-08T15:49:00",
+    "LoyaltyPoint": 959,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7022,
+        "OrderID": 8008,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-08T09:35:00",
+        "ResolvedAt": "2026-07-10T10:17:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1009,
+    "FullName": "Bùi Thanh Tâm",
+    "Email": "buithanhtam@gmail.com",
+    "Phone": "0900063352",
+    "CreatedAt": "2026-03-09T16:56:00",
+    "LoyaltyPoint": 1096,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7025,
+        "OrderID": 8009,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-09T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7026,
+        "OrderID": 8010,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-09T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1010,
+    "FullName": "Đỗ Mỹ Linh",
+    "Email": "domylinh@gmail.com",
+    "Phone": "0900071271",
+    "CreatedAt": "2026-04-10T17:03:00",
+    "LoyaltyPoint": 1233,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7028,
+        "OrderID": 8010,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-10T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1011,
+    "FullName": "Nguyễn An Anh",
+    "Email": "nguyenananh1011@gmail.com",
+    "Phone": "0900079190",
+    "CreatedAt": "2026-05-11T08:10:00",
+    "LoyaltyPoint": 1370,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7031,
+        "OrderID": 8011,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-11T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1012,
+    "FullName": "Nguyễn An Bình",
+    "Email": "nguyenanbinh1012@gmail.com",
+    "Phone": "0900087109",
+    "CreatedAt": "2026-06-12T09:17:00",
+    "LoyaltyPoint": 1507,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7034,
+        "OrderID": 8012,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-12T09:55:00",
+        "ResolvedAt": "2026-07-14T10:01:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1013,
+    "FullName": "Nguyễn An Châu",
+    "Email": "nguyenanchau1013@gmail.com",
+    "Phone": "0900095028",
+    "CreatedAt": "2026-01-13T10:24:00",
+    "LoyaltyPoint": 1644,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7037,
+        "OrderID": 8013,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-13T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7038,
+        "OrderID": 8014,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-13T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1014,
+    "FullName": "Nguyễn An Dũng",
+    "Email": "nguyenandung1014@gmail.com",
+    "Phone": "0900102947",
+    "CreatedAt": "2026-02-14T11:31:00",
+    "LoyaltyPoint": 1781,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7040,
+        "OrderID": 8014,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-14T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1015,
+    "FullName": "Nguyễn An Giang",
+    "Email": "nguyenangiang1015@gmail.com",
+    "Phone": "0900110866",
+    "CreatedAt": "2026-03-15T12:38:00",
+    "LoyaltyPoint": 1918,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7043,
+        "OrderID": 8015,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-15T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1016,
+    "FullName": "Nguyễn An Hà",
+    "Email": "nguyenanha1016@gmail.com",
+    "Phone": "0900118785",
+    "CreatedAt": "2026-04-16T13:45:00",
+    "LoyaltyPoint": 2055,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7046,
+        "OrderID": 8016,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-16T09:15:00",
+        "ResolvedAt": "2026-07-18T10:45:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1017,
+    "FullName": "Nguyễn An Hân",
+    "Email": "nguyenanhan1017@gmail.com",
+    "Phone": "0900126704",
+    "CreatedAt": "2026-05-17T14:52:00",
+    "LoyaltyPoint": 2192,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7049,
+        "OrderID": 8017,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-17T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7050,
+        "OrderID": 8018,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-17T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1018,
+    "FullName": "Nguyễn An Huy",
+    "Email": "nguyenanhuy1018@gmail.com",
+    "Phone": "0900134623",
+    "CreatedAt": "2026-06-18T15:59:00",
+    "LoyaltyPoint": 2329,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7052,
+        "OrderID": 8018,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-18T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1019,
+    "FullName": "Nguyễn An Khang",
+    "Email": "nguyenankhang1019@gmail.com",
+    "Phone": "0900142542",
+    "CreatedAt": "2026-01-19T16:06:00",
+    "LoyaltyPoint": 2466,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7055,
+        "OrderID": 8019,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-19T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1020,
+    "FullName": "Nguyễn An Lâm",
+    "Email": "nguyenanlam1020@gmail.com",
+    "Phone": "0900150461",
+    "CreatedAt": "2026-02-20T17:13:00",
+    "LoyaltyPoint": 2603,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7058,
+        "OrderID": 8020,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-20T09:35:00",
+        "ResolvedAt": "2026-07-22T10:29:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1021,
+    "FullName": "Nguyễn An Linh",
+    "Email": "nguyenanlinh1021@gmail.com",
+    "Phone": "0900158380",
+    "CreatedAt": "2026-03-21T08:20:00",
+    "LoyaltyPoint": 2740,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7061,
+        "OrderID": 8021,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-21T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7062,
+        "OrderID": 8022,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-21T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1022,
+    "FullName": "Nguyễn An Long",
+    "Email": "nguyenanlong1022@gmail.com",
+    "Phone": "0900166299",
+    "CreatedAt": "2026-04-22T09:27:00",
+    "LoyaltyPoint": 2877,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7064,
+        "OrderID": 8022,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-22T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1023,
+    "FullName": "Nguyễn An Mai",
+    "Email": "nguyenanmai1023@gmail.com",
+    "Phone": "0900174218",
+    "CreatedAt": "2026-05-23T10:34:00",
+    "LoyaltyPoint": 3014,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7067,
+        "OrderID": 8023,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-23T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1024,
+    "FullName": "Nguyễn An Nam",
+    "Email": "nguyenannam1024@gmail.com",
+    "Phone": "0900182137",
+    "CreatedAt": "2026-06-24T11:41:00",
+    "LoyaltyPoint": 3151,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7070,
+        "OrderID": 8024,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-24T09:55:00",
+        "ResolvedAt": "2026-07-26T10:13:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1025,
+    "FullName": "Nguyễn An Nhi",
+    "Email": "nguyenannhi1025@gmail.com",
+    "Phone": "0900190056",
+    "CreatedAt": "2026-01-25T12:48:00",
+    "LoyaltyPoint": 3288,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7073,
+        "OrderID": 8025,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-25T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7074,
+        "OrderID": 8026,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-25T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1026,
+    "FullName": "Nguyễn An Phong",
+    "Email": "nguyenanphong1026@gmail.com",
+    "Phone": "0900197975",
+    "CreatedAt": "2026-02-26T13:55:00",
+    "LoyaltyPoint": 3425,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7076,
+        "OrderID": 8026,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-26T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1027,
+    "FullName": "Nguyễn An Quân",
+    "Email": "nguyenanquan1027@gmail.com",
+    "Phone": "0900205894",
+    "CreatedAt": "2026-03-01T14:02:00",
+    "LoyaltyPoint": 3562,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7079,
+        "OrderID": 8027,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-01T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1028,
+    "FullName": "Nguyễn An Sơn",
+    "Email": "nguyenanson1028@gmail.com",
+    "Phone": "0900213813",
+    "CreatedAt": "2026-04-02T15:09:00",
+    "LoyaltyPoint": 3699,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7082,
+        "OrderID": 8028,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-02T09:15:00",
+        "ResolvedAt": "2026-07-04T10:57:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1029,
+    "FullName": "Nguyễn An Tâm",
+    "Email": "nguyenantam1029@gmail.com",
+    "Phone": "0900221732",
+    "CreatedAt": "2026-05-03T16:16:00",
+    "LoyaltyPoint": 3836,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7085,
+        "OrderID": 8029,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-03T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7086,
+        "OrderID": 8030,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-03T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1030,
+    "FullName": "Nguyễn An Trang",
+    "Email": "nguyenantrang1030@gmail.com",
+    "Phone": "0900229651",
+    "CreatedAt": "2026-06-04T17:23:00",
+    "LoyaltyPoint": 3973,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7088,
+        "OrderID": 8030,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-04T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1031,
+    "FullName": "Nguyễn An Uyên",
+    "Email": "nguyenanuyen1031@gmail.com",
+    "Phone": "0900237570",
+    "CreatedAt": "2026-01-05T08:30:00",
+    "LoyaltyPoint": 4110,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7091,
+        "OrderID": 8031,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-05T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1032,
+    "FullName": "Nguyễn An Việt",
+    "Email": "nguyenanviet1032@gmail.com",
+    "Phone": "0900245489",
+    "CreatedAt": "2026-02-06T09:37:00",
+    "LoyaltyPoint": 4247,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7094,
+        "OrderID": 8032,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-06T09:35:00",
+        "ResolvedAt": "2026-07-08T10:41:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1033,
+    "FullName": "Nguyễn An Vy",
+    "Email": "nguyenanvy1033@gmail.com",
+    "Phone": "0900253408",
+    "CreatedAt": "2026-03-07T10:44:00",
+    "LoyaltyPoint": 4384,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7097,
+        "OrderID": 8033,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-07T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7098,
+        "OrderID": 8034,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-07T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1034,
+    "FullName": "Nguyễn An Yến",
+    "Email": "nguyenanyen1034@gmail.com",
+    "Phone": "0900261327",
+    "CreatedAt": "2026-04-08T11:51:00",
+    "LoyaltyPoint": 4521,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7100,
+        "OrderID": 8034,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-08T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1035,
+    "FullName": "Nguyễn Bảo Anh",
+    "Email": "nguyenbaoanh1035@gmail.com",
+    "Phone": "0900269246",
+    "CreatedAt": "2026-05-09T12:58:00",
+    "LoyaltyPoint": 4658,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7103,
+        "OrderID": 8035,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-09T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1036,
+    "FullName": "Nguyễn Bảo Bình",
+    "Email": "nguyenbaobinh1036@gmail.com",
+    "Phone": "0900277165",
+    "CreatedAt": "2026-06-10T13:05:00",
+    "LoyaltyPoint": 4795,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7106,
+        "OrderID": 8036,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-10T09:55:00",
+        "ResolvedAt": "2026-07-12T10:25:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1037,
+    "FullName": "Nguyễn Bảo Châu",
+    "Email": "nguyenbaochau1037@gmail.com",
+    "Phone": "0900285084",
+    "CreatedAt": "2026-01-11T14:12:00",
+    "LoyaltyPoint": 4932,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7109,
+        "OrderID": 8037,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-11T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7110,
+        "OrderID": 8038,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-11T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1038,
+    "FullName": "Nguyễn Bảo Dũng",
+    "Email": "nguyenbaodung1038@gmail.com",
+    "Phone": "0900293003",
+    "CreatedAt": "2026-02-12T15:19:00",
+    "LoyaltyPoint": 69,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7112,
+        "OrderID": 8038,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-12T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1039,
+    "FullName": "Nguyễn Bảo Giang",
+    "Email": "nguyenbaogiang1039@gmail.com",
+    "Phone": "0900300922",
+    "CreatedAt": "2026-03-13T16:26:00",
+    "LoyaltyPoint": 206,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7115,
+        "OrderID": 8039,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-13T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1040,
+    "FullName": "Nguyễn Bảo Hà",
+    "Email": "nguyenbaoha1040@gmail.com",
+    "Phone": "0900308841",
+    "CreatedAt": "2026-04-14T17:33:00",
+    "LoyaltyPoint": 343,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7118,
+        "OrderID": 8040,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-14T09:15:00",
+        "ResolvedAt": "2026-07-16T10:09:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1041,
+    "FullName": "Nguyễn Bảo Hân",
+    "Email": "nguyenbaohan1041@gmail.com",
+    "Phone": "0900316760",
+    "CreatedAt": "2026-05-15T08:40:00",
+    "LoyaltyPoint": 480,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7121,
+        "OrderID": 8041,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-15T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7122,
+        "OrderID": 8042,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-15T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1042,
+    "FullName": "Nguyễn Bảo Huy",
+    "Email": "nguyenbaohuy1042@gmail.com",
+    "Phone": "0900324679",
+    "CreatedAt": "2026-06-16T09:47:00",
+    "LoyaltyPoint": 617,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7124,
+        "OrderID": 8042,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-16T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1043,
+    "FullName": "Nguyễn Bảo Khang",
+    "Email": "nguyenbaokhang1043@gmail.com",
+    "Phone": "0900332598",
+    "CreatedAt": "2026-01-17T10:54:00",
+    "LoyaltyPoint": 754,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7127,
+        "OrderID": 8043,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-17T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1044,
+    "FullName": "Nguyễn Bảo Lâm",
+    "Email": "nguyenbaolam1044@gmail.com",
+    "Phone": "0900340517",
+    "CreatedAt": "2026-02-18T11:01:00",
+    "LoyaltyPoint": 891,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7130,
+        "OrderID": 8044,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-18T09:35:00",
+        "ResolvedAt": "2026-07-20T10:53:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1045,
+    "FullName": "Nguyễn Bảo Linh",
+    "Email": "nguyenbaolinh1045@gmail.com",
+    "Phone": "0900348436",
+    "CreatedAt": "2026-03-19T12:08:00",
+    "LoyaltyPoint": 1028,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7133,
+        "OrderID": 8045,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-19T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7134,
+        "OrderID": 8046,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-19T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1046,
+    "FullName": "Nguyễn Bảo Long",
+    "Email": "nguyenbaolong1046@gmail.com",
+    "Phone": "0900356355",
+    "CreatedAt": "2026-04-20T13:15:00",
+    "LoyaltyPoint": 1165,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7136,
+        "OrderID": 8046,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-20T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1047,
+    "FullName": "Nguyễn Bảo Mai",
+    "Email": "nguyenbaomai1047@gmail.com",
+    "Phone": "0900364274",
+    "CreatedAt": "2026-05-21T14:22:00",
+    "LoyaltyPoint": 1302,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7139,
+        "OrderID": 8047,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-21T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1048,
+    "FullName": "Nguyễn Bảo Nam",
+    "Email": "nguyenbaonam1048@gmail.com",
+    "Phone": "0900372193",
+    "CreatedAt": "2026-06-22T15:29:00",
+    "LoyaltyPoint": 1439,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7142,
+        "OrderID": 8048,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-22T09:55:00",
+        "ResolvedAt": "2026-07-24T10:37:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1049,
+    "FullName": "Nguyễn Bảo Nhi",
+    "Email": "nguyenbaonhi1049@gmail.com",
+    "Phone": "0900380112",
+    "CreatedAt": "2026-01-23T16:36:00",
+    "LoyaltyPoint": 1576,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7145,
+        "OrderID": 8049,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-23T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7146,
+        "OrderID": 8050,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-23T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1050,
+    "FullName": "Nguyễn Bảo Phong",
+    "Email": "nguyenbaophong1050@gmail.com",
+    "Phone": "0900388031",
+    "CreatedAt": "2026-02-24T17:43:00",
+    "LoyaltyPoint": 1713,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7148,
+        "OrderID": 8050,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-24T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1051,
+    "FullName": "Nguyễn Bảo Quân",
+    "Email": "nguyenbaoquan1051@gmail.com",
+    "Phone": "0900395950",
+    "CreatedAt": "2026-03-25T08:50:00",
+    "LoyaltyPoint": 1850,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7151,
+        "OrderID": 8051,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-25T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1052,
+    "FullName": "Nguyễn Bảo Sơn",
+    "Email": "nguyenbaoson1052@gmail.com",
+    "Phone": "0900403869",
+    "CreatedAt": "2026-04-26T09:57:00",
+    "LoyaltyPoint": 1987,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7154,
+        "OrderID": 8052,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-26T09:15:00",
+        "ResolvedAt": "2026-07-02T10:21:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1053,
+    "FullName": "Nguyễn Bảo Tâm",
+    "Email": "nguyenbaotam1053@gmail.com",
+    "Phone": "0900411788",
+    "CreatedAt": "2026-05-01T10:04:00",
+    "LoyaltyPoint": 2124,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7157,
+        "OrderID": 8053,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-01T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7158,
+        "OrderID": 8054,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-01T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1054,
+    "FullName": "Nguyễn Bảo Trang",
+    "Email": "nguyenbaotrang1054@gmail.com",
+    "Phone": "0900419707",
+    "CreatedAt": "2026-06-02T11:11:00",
+    "LoyaltyPoint": 2261,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7160,
+        "OrderID": 8054,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-02T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1055,
+    "FullName": "Nguyễn Bảo Uyên",
+    "Email": "nguyenbaouyen1055@gmail.com",
+    "Phone": "0900427626",
+    "CreatedAt": "2026-01-03T12:18:00",
+    "LoyaltyPoint": 2398,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7163,
+        "OrderID": 8055,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-03T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1056,
+    "FullName": "Nguyễn Bảo Việt",
+    "Email": "nguyenbaoviet1056@gmail.com",
+    "Phone": "0900435545",
+    "CreatedAt": "2026-02-04T13:25:00",
+    "LoyaltyPoint": 2535,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7166,
+        "OrderID": 8056,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-04T09:35:00",
+        "ResolvedAt": "2026-07-06T10:05:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1057,
+    "FullName": "Nguyễn Bảo Vy",
+    "Email": "nguyenbaovy1057@gmail.com",
+    "Phone": "0900443464",
+    "CreatedAt": "2026-03-05T14:32:00",
+    "LoyaltyPoint": 2672,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7169,
+        "OrderID": 8057,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-05T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7170,
+        "OrderID": 8058,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-05T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1058,
+    "FullName": "Nguyễn Bảo Yến",
+    "Email": "nguyenbaoyen1058@gmail.com",
+    "Phone": "0900451383",
+    "CreatedAt": "2026-04-06T15:39:00",
+    "LoyaltyPoint": 2809,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7172,
+        "OrderID": 8058,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-06T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1059,
+    "FullName": "Nguyễn Gia Anh",
+    "Email": "nguyengiaanh1059@gmail.com",
+    "Phone": "0900459302",
+    "CreatedAt": "2026-05-07T16:46:00",
+    "LoyaltyPoint": 2946,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7175,
+        "OrderID": 8059,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-07T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1060,
+    "FullName": "Nguyễn Gia Bình",
+    "Email": "nguyengiabinh1060@gmail.com",
+    "Phone": "0900467221",
+    "CreatedAt": "2026-06-08T17:53:00",
+    "LoyaltyPoint": 3083,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7178,
+        "OrderID": 8060,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-08T09:55:00",
+        "ResolvedAt": "2026-07-10T10:49:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1061,
+    "FullName": "Nguyễn Gia Châu",
+    "Email": "nguyengiachau1061@gmail.com",
+    "Phone": "0900475140",
+    "CreatedAt": "2026-01-09T08:00:00",
+    "LoyaltyPoint": 3220,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7181,
+        "OrderID": 8061,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-09T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7182,
+        "OrderID": 8062,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-09T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1062,
+    "FullName": "Nguyễn Gia Dũng",
+    "Email": "nguyengiadung1062@gmail.com",
+    "Phone": "0900483059",
+    "CreatedAt": "2026-02-10T09:07:00",
+    "LoyaltyPoint": 3357,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7184,
+        "OrderID": 8062,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-10T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1063,
+    "FullName": "Nguyễn Gia Giang",
+    "Email": "nguyengiagiang1063@gmail.com",
+    "Phone": "0900490978",
+    "CreatedAt": "2026-03-11T10:14:00",
+    "LoyaltyPoint": 3494,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7187,
+        "OrderID": 8063,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-11T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1064,
+    "FullName": "Nguyễn Gia Hà",
+    "Email": "nguyengiaha1064@gmail.com",
+    "Phone": "0900498897",
+    "CreatedAt": "2026-04-12T11:21:00",
+    "LoyaltyPoint": 3631,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7190,
+        "OrderID": 8064,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-12T09:15:00",
+        "ResolvedAt": "2026-07-14T10:33:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1065,
+    "FullName": "Nguyễn Gia Hân",
+    "Email": "nguyengiahan1065@gmail.com",
+    "Phone": "0900506816",
+    "CreatedAt": "2026-05-13T12:28:00",
+    "LoyaltyPoint": 3768,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7193,
+        "OrderID": 8065,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-13T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7194,
+        "OrderID": 8066,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-13T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1066,
+    "FullName": "Nguyễn Gia Huy",
+    "Email": "nguyengiahuy1066@gmail.com",
+    "Phone": "0900514735",
+    "CreatedAt": "2026-06-14T13:35:00",
+    "LoyaltyPoint": 3905,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7196,
+        "OrderID": 8066,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-14T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1067,
+    "FullName": "Nguyễn Gia Khang",
+    "Email": "nguyengiakhang1067@gmail.com",
+    "Phone": "0900522654",
+    "CreatedAt": "2026-01-15T14:42:00",
+    "LoyaltyPoint": 4042,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7199,
+        "OrderID": 8067,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-15T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1068,
+    "FullName": "Nguyễn Gia Lâm",
+    "Email": "nguyengialam1068@gmail.com",
+    "Phone": "0900530573",
+    "CreatedAt": "2026-02-16T15:49:00",
+    "LoyaltyPoint": 4179,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7202,
+        "OrderID": 8068,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-16T09:35:00",
+        "ResolvedAt": "2026-07-18T10:17:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1069,
+    "FullName": "Nguyễn Gia Linh",
+    "Email": "nguyengialinh1069@gmail.com",
+    "Phone": "0900538492",
+    "CreatedAt": "2026-03-17T16:56:00",
+    "LoyaltyPoint": 4316,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7205,
+        "OrderID": 8069,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-17T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7206,
+        "OrderID": 8070,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-17T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1070,
+    "FullName": "Nguyễn Gia Long",
+    "Email": "nguyengialong1070@gmail.com",
+    "Phone": "0900546411",
+    "CreatedAt": "2026-04-18T17:03:00",
+    "LoyaltyPoint": 4453,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7208,
+        "OrderID": 8070,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-18T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1071,
+    "FullName": "Nguyễn Gia Mai",
+    "Email": "nguyengiamai1071@gmail.com",
+    "Phone": "0900554330",
+    "CreatedAt": "2026-05-19T08:10:00",
+    "LoyaltyPoint": 4590,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7211,
+        "OrderID": 8071,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-19T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1072,
+    "FullName": "Nguyễn Gia Nam",
+    "Email": "nguyengianam1072@gmail.com",
+    "Phone": "0900562249",
+    "CreatedAt": "2026-06-20T09:17:00",
+    "LoyaltyPoint": 4727,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7214,
+        "OrderID": 8072,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-20T09:55:00",
+        "ResolvedAt": "2026-07-22T10:01:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1073,
+    "FullName": "Nguyễn Gia Nhi",
+    "Email": "nguyengianhi1073@gmail.com",
+    "Phone": "0900570168",
+    "CreatedAt": "2026-01-21T10:24:00",
+    "LoyaltyPoint": 4864,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7217,
+        "OrderID": 8073,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-21T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7218,
+        "OrderID": 8074,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-21T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1074,
+    "FullName": "Nguyễn Gia Phong",
+    "Email": "nguyengiaphong1074@gmail.com",
+    "Phone": "0900578087",
+    "CreatedAt": "2026-02-22T11:31:00",
+    "LoyaltyPoint": 1,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7220,
+        "OrderID": 8074,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-22T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1075,
+    "FullName": "Nguyễn Gia Quân",
+    "Email": "nguyengiaquan1075@gmail.com",
+    "Phone": "0900586006",
+    "CreatedAt": "2026-03-23T12:38:00",
+    "LoyaltyPoint": 138,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7223,
+        "OrderID": 8075,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-23T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1076,
+    "FullName": "Nguyễn Gia Sơn",
+    "Email": "nguyengiason1076@gmail.com",
+    "Phone": "0900593925",
+    "CreatedAt": "2026-04-24T13:45:00",
+    "LoyaltyPoint": 275,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7226,
+        "OrderID": 8076,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-24T09:15:00",
+        "ResolvedAt": "2026-07-26T10:45:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1077,
+    "FullName": "Nguyễn Gia Tâm",
+    "Email": "nguyengiatam1077@gmail.com",
+    "Phone": "0900601844",
+    "CreatedAt": "2026-05-25T14:52:00",
+    "LoyaltyPoint": 412,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7229,
+        "OrderID": 8077,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-25T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7230,
+        "OrderID": 8078,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-25T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1078,
+    "FullName": "Nguyễn Gia Trang",
+    "Email": "nguyengiatrang1078@gmail.com",
+    "Phone": "0900609763",
+    "CreatedAt": "2026-06-26T15:59:00",
+    "LoyaltyPoint": 549,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7232,
+        "OrderID": 8078,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-26T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1079,
+    "FullName": "Nguyễn Gia Uyên",
+    "Email": "nguyengiauyen1079@gmail.com",
+    "Phone": "0900617682",
+    "CreatedAt": "2026-01-01T16:06:00",
+    "LoyaltyPoint": 686,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7235,
+        "OrderID": 8079,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-01T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1080,
+    "FullName": "Nguyễn Gia Việt",
+    "Email": "nguyengiaviet1080@gmail.com",
+    "Phone": "0900625601",
+    "CreatedAt": "2026-02-02T17:13:00",
+    "LoyaltyPoint": 823,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7238,
+        "OrderID": 8080,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-02T09:35:00",
+        "ResolvedAt": "2026-07-04T10:29:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1081,
+    "FullName": "Nguyễn Gia Vy",
+    "Email": "nguyengiavy1081@gmail.com",
+    "Phone": "0900633520",
+    "CreatedAt": "2026-03-03T08:20:00",
+    "LoyaltyPoint": 960,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7241,
+        "OrderID": 8081,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-03T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7242,
+        "OrderID": 8082,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-03T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1082,
+    "FullName": "Nguyễn Gia Yến",
+    "Email": "nguyengiayen1082@gmail.com",
+    "Phone": "0900641439",
+    "CreatedAt": "2026-04-04T09:27:00",
+    "LoyaltyPoint": 1097,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7244,
+        "OrderID": 8082,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-04T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1083,
+    "FullName": "Nguyễn Hải Anh",
+    "Email": "nguyenhaianh1083@gmail.com",
+    "Phone": "0900649358",
+    "CreatedAt": "2026-05-05T10:34:00",
+    "LoyaltyPoint": 1234,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7247,
+        "OrderID": 8083,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-05T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1084,
+    "FullName": "Nguyễn Hải Bình",
+    "Email": "nguyenhaibinh1084@gmail.com",
+    "Phone": "0900657277",
+    "CreatedAt": "2026-06-06T11:41:00",
+    "LoyaltyPoint": 1371,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7250,
+        "OrderID": 8084,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-06T09:55:00",
+        "ResolvedAt": "2026-07-08T10:13:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1085,
+    "FullName": "Nguyễn Hải Châu",
+    "Email": "nguyenhaichau1085@gmail.com",
+    "Phone": "0900665196",
+    "CreatedAt": "2026-01-07T12:48:00",
+    "LoyaltyPoint": 1508,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7253,
+        "OrderID": 8085,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-07T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7254,
+        "OrderID": 8086,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-07T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1086,
+    "FullName": "Nguyễn Hải Dũng",
+    "Email": "nguyenhaidung1086@gmail.com",
+    "Phone": "0900673115",
+    "CreatedAt": "2026-02-08T13:55:00",
+    "LoyaltyPoint": 1645,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7256,
+        "OrderID": 8086,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-08T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1087,
+    "FullName": "Nguyễn Hải Giang",
+    "Email": "nguyenhaigiang1087@gmail.com",
+    "Phone": "0900681034",
+    "CreatedAt": "2026-03-09T14:02:00",
+    "LoyaltyPoint": 1782,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7259,
+        "OrderID": 8087,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-09T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1088,
+    "FullName": "Nguyễn Hải Hà",
+    "Email": "nguyenhaiha1088@gmail.com",
+    "Phone": "0900688953",
+    "CreatedAt": "2026-04-10T15:09:00",
+    "LoyaltyPoint": 1919,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7262,
+        "OrderID": 8088,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-10T09:15:00",
+        "ResolvedAt": "2026-07-12T10:57:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1089,
+    "FullName": "Nguyễn Hải Hân",
+    "Email": "nguyenhaihan1089@gmail.com",
+    "Phone": "0900696872",
+    "CreatedAt": "2026-05-11T16:16:00",
+    "LoyaltyPoint": 2056,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7265,
+        "OrderID": 8089,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-11T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7266,
+        "OrderID": 8090,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-11T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1090,
+    "FullName": "Nguyễn Hải Huy",
+    "Email": "nguyenhaihuy1090@gmail.com",
+    "Phone": "0900704791",
+    "CreatedAt": "2026-06-12T17:23:00",
+    "LoyaltyPoint": 2193,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7268,
+        "OrderID": 8090,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-12T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1091,
+    "FullName": "Nguyễn Hải Khang",
+    "Email": "nguyenhaikhang1091@gmail.com",
+    "Phone": "0900712710",
+    "CreatedAt": "2026-01-13T08:30:00",
+    "LoyaltyPoint": 2330,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7271,
+        "OrderID": 8091,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-13T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1092,
+    "FullName": "Nguyễn Hải Lâm",
+    "Email": "nguyenhailam1092@gmail.com",
+    "Phone": "0900720629",
+    "CreatedAt": "2026-02-14T09:37:00",
+    "LoyaltyPoint": 2467,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7274,
+        "OrderID": 8092,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-14T09:35:00",
+        "ResolvedAt": "2026-07-16T10:41:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1093,
+    "FullName": "Nguyễn Hải Linh",
+    "Email": "nguyenhailinh1093@gmail.com",
+    "Phone": "0900728548",
+    "CreatedAt": "2026-03-15T10:44:00",
+    "LoyaltyPoint": 2604,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7277,
+        "OrderID": 8093,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-15T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7278,
+        "OrderID": 8094,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-15T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1094,
+    "FullName": "Nguyễn Hải Long",
+    "Email": "nguyenhailong1094@gmail.com",
+    "Phone": "0900736467",
+    "CreatedAt": "2026-04-16T11:51:00",
+    "LoyaltyPoint": 2741,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7280,
+        "OrderID": 8094,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-16T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1095,
+    "FullName": "Nguyễn Hải Mai",
+    "Email": "nguyenhaimai1095@gmail.com",
+    "Phone": "0900744386",
+    "CreatedAt": "2026-05-17T12:58:00",
+    "LoyaltyPoint": 2878,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7283,
+        "OrderID": 8095,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-17T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1096,
+    "FullName": "Nguyễn Hải Nam",
+    "Email": "nguyenhainam1096@gmail.com",
+    "Phone": "0900752305",
+    "CreatedAt": "2026-06-18T13:05:00",
+    "LoyaltyPoint": 3015,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7286,
+        "OrderID": 8096,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-18T09:55:00",
+        "ResolvedAt": "2026-07-20T10:25:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1097,
+    "FullName": "Nguyễn Hải Nhi",
+    "Email": "nguyenhainhi1097@gmail.com",
+    "Phone": "0900760224",
+    "CreatedAt": "2026-01-19T14:12:00",
+    "LoyaltyPoint": 3152,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7289,
+        "OrderID": 8097,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-19T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7290,
+        "OrderID": 8098,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-19T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1098,
+    "FullName": "Nguyễn Hải Phong",
+    "Email": "nguyenhaiphong1098@gmail.com",
+    "Phone": "0900768143",
+    "CreatedAt": "2026-02-20T15:19:00",
+    "LoyaltyPoint": 3289,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7292,
+        "OrderID": 8098,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-20T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1099,
+    "FullName": "Nguyễn Hải Quân",
+    "Email": "nguyenhaiquan1099@gmail.com",
+    "Phone": "0900776062",
+    "CreatedAt": "2026-03-21T16:26:00",
+    "LoyaltyPoint": 3426,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7295,
+        "OrderID": 8099,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-21T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1100,
+    "FullName": "Nguyễn Hải Sơn",
+    "Email": "nguyenhaison1100@gmail.com",
+    "Phone": "0900783981",
+    "CreatedAt": "2026-04-22T17:33:00",
+    "LoyaltyPoint": 3563,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7298,
+        "OrderID": 8100,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-22T09:15:00",
+        "ResolvedAt": "2026-07-24T10:09:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1101,
+    "FullName": "Nguyễn Hải Tâm",
+    "Email": "nguyenhaitam1101@gmail.com",
+    "Phone": "0900791900",
+    "CreatedAt": "2026-05-23T08:40:00",
+    "LoyaltyPoint": 3700,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7301,
+        "OrderID": 8101,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-23T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7302,
+        "OrderID": 8102,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-23T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1102,
+    "FullName": "Nguyễn Hải Trang",
+    "Email": "nguyenhaitrang1102@gmail.com",
+    "Phone": "0900799819",
+    "CreatedAt": "2026-06-24T09:47:00",
+    "LoyaltyPoint": 3837,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7304,
+        "OrderID": 8102,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-24T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1103,
+    "FullName": "Nguyễn Hải Uyên",
+    "Email": "nguyenhaiuyen1103@gmail.com",
+    "Phone": "0900807738",
+    "CreatedAt": "2026-01-25T10:54:00",
+    "LoyaltyPoint": 3974,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7307,
+        "OrderID": 8103,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-25T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1104,
+    "FullName": "Nguyễn Hải Việt",
+    "Email": "nguyenhaiviet1104@gmail.com",
+    "Phone": "0900815657",
+    "CreatedAt": "2026-02-26T11:01:00",
+    "LoyaltyPoint": 4111,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7310,
+        "OrderID": 8104,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-26T09:35:00",
+        "ResolvedAt": "2026-07-02T10:53:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1105,
+    "FullName": "Nguyễn Hải Vy",
+    "Email": "nguyenhaivy1105@gmail.com",
+    "Phone": "0900823576",
+    "CreatedAt": "2026-03-01T12:08:00",
+    "LoyaltyPoint": 4248,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7313,
+        "OrderID": 8105,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-01T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7314,
+        "OrderID": 8106,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-01T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1106,
+    "FullName": "Nguyễn Hải Yến",
+    "Email": "nguyenhaiyen1106@gmail.com",
+    "Phone": "0900831495",
+    "CreatedAt": "2026-04-02T13:15:00",
+    "LoyaltyPoint": 4385,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7316,
+        "OrderID": 8106,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-02T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1107,
+    "FullName": "Nguyễn Khánh Anh",
+    "Email": "nguyenkhanhanh1107@gmail.com",
+    "Phone": "0900839414",
+    "CreatedAt": "2026-05-03T14:22:00",
+    "LoyaltyPoint": 4522,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7319,
+        "OrderID": 8107,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-03T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1108,
+    "FullName": "Nguyễn Khánh Bình",
+    "Email": "nguyenkhanhbinh1108@gmail.com",
+    "Phone": "0900847333",
+    "CreatedAt": "2026-06-04T15:29:00",
+    "LoyaltyPoint": 4659,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7322,
+        "OrderID": 8108,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-04T09:55:00",
+        "ResolvedAt": "2026-07-06T10:37:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1109,
+    "FullName": "Nguyễn Khánh Châu",
+    "Email": "nguyenkhanhchau1109@gmail.com",
+    "Phone": "0900855252",
+    "CreatedAt": "2026-01-05T16:36:00",
+    "LoyaltyPoint": 4796,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7325,
+        "OrderID": 8109,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-05T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7326,
+        "OrderID": 8110,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-05T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1110,
+    "FullName": "Nguyễn Khánh Dũng",
+    "Email": "nguyenkhanhdung1110@gmail.com",
+    "Phone": "0900863171",
+    "CreatedAt": "2026-02-06T17:43:00",
+    "LoyaltyPoint": 4933,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7328,
+        "OrderID": 8110,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-06T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1111,
+    "FullName": "Nguyễn Khánh Giang",
+    "Email": "nguyenkhanhgiang1111@gmail.com",
+    "Phone": "0900871090",
+    "CreatedAt": "2026-03-07T08:50:00",
+    "LoyaltyPoint": 70,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7331,
+        "OrderID": 8111,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-07T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1112,
+    "FullName": "Nguyễn Khánh Hà",
+    "Email": "nguyenkhanhha1112@gmail.com",
+    "Phone": "0900879009",
+    "CreatedAt": "2026-04-08T09:57:00",
+    "LoyaltyPoint": 207,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7334,
+        "OrderID": 8112,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-08T09:15:00",
+        "ResolvedAt": "2026-07-10T10:21:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1113,
+    "FullName": "Nguyễn Khánh Hân",
+    "Email": "nguyenkhanhhan1113@gmail.com",
+    "Phone": "0900886928",
+    "CreatedAt": "2026-05-09T10:04:00",
+    "LoyaltyPoint": 344,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7337,
+        "OrderID": 8113,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-09T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7338,
+        "OrderID": 8114,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-09T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1114,
+    "FullName": "Nguyễn Khánh Huy",
+    "Email": "nguyenkhanhhuy1114@gmail.com",
+    "Phone": "0900894847",
+    "CreatedAt": "2026-06-10T11:11:00",
+    "LoyaltyPoint": 481,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7340,
+        "OrderID": 8114,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-10T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1115,
+    "FullName": "Nguyễn Khánh Khang",
+    "Email": "nguyenkhanhkhang1115@gmail.com",
+    "Phone": "0900902766",
+    "CreatedAt": "2026-01-11T12:18:00",
+    "LoyaltyPoint": 618,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7343,
+        "OrderID": 8115,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-11T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1116,
+    "FullName": "Nguyễn Khánh Lâm",
+    "Email": "nguyenkhanhlam1116@gmail.com",
+    "Phone": "0900910685",
+    "CreatedAt": "2026-02-12T13:25:00",
+    "LoyaltyPoint": 755,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7346,
+        "OrderID": 8116,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-12T09:35:00",
+        "ResolvedAt": "2026-07-14T10:05:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1117,
+    "FullName": "Nguyễn Khánh Linh",
+    "Email": "nguyenkhanhlinh1117@gmail.com",
+    "Phone": "0900918604",
+    "CreatedAt": "2026-03-13T14:32:00",
+    "LoyaltyPoint": 892,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7349,
+        "OrderID": 8117,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-13T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7350,
+        "OrderID": 8118,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-13T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1118,
+    "FullName": "Nguyễn Khánh Long",
+    "Email": "nguyenkhanhlong1118@gmail.com",
+    "Phone": "0900926523",
+    "CreatedAt": "2026-04-14T15:39:00",
+    "LoyaltyPoint": 1029,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7352,
+        "OrderID": 8118,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-14T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1119,
+    "FullName": "Nguyễn Khánh Mai",
+    "Email": "nguyenkhanhmai1119@gmail.com",
+    "Phone": "0900934442",
+    "CreatedAt": "2026-05-15T16:46:00",
+    "LoyaltyPoint": 1166,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7355,
+        "OrderID": 8119,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-15T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1120,
+    "FullName": "Nguyễn Khánh Nam",
+    "Email": "nguyenkhanhnam1120@gmail.com",
+    "Phone": "0900942361",
+    "CreatedAt": "2026-06-16T17:53:00",
+    "LoyaltyPoint": 1303,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7358,
+        "OrderID": 8120,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-16T09:55:00",
+        "ResolvedAt": "2026-07-18T10:49:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1121,
+    "FullName": "Nguyễn Khánh Nhi",
+    "Email": "nguyenkhanhnhi1121@gmail.com",
+    "Phone": "0900950280",
+    "CreatedAt": "2026-01-17T08:00:00",
+    "LoyaltyPoint": 1440,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7361,
+        "OrderID": 8121,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-17T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7362,
+        "OrderID": 8122,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-17T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1122,
+    "FullName": "Nguyễn Khánh Phong",
+    "Email": "nguyenkhanhphong1122@gmail.com",
+    "Phone": "0900958199",
+    "CreatedAt": "2026-02-18T09:07:00",
+    "LoyaltyPoint": 1577,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7364,
+        "OrderID": 8122,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-18T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1123,
+    "FullName": "Nguyễn Khánh Quân",
+    "Email": "nguyenkhanhquan1123@gmail.com",
+    "Phone": "0900966118",
+    "CreatedAt": "2026-03-19T10:14:00",
+    "LoyaltyPoint": 1714,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7367,
+        "OrderID": 8123,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-19T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1124,
+    "FullName": "Nguyễn Khánh Sơn",
+    "Email": "nguyenkhanhson1124@gmail.com",
+    "Phone": "0900974037",
+    "CreatedAt": "2026-04-20T11:21:00",
+    "LoyaltyPoint": 1851,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7370,
+        "OrderID": 8124,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-20T09:15:00",
+        "ResolvedAt": "2026-07-22T10:33:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1125,
+    "FullName": "Nguyễn Khánh Tâm",
+    "Email": "nguyenkhanhtam1125@gmail.com",
+    "Phone": "0900981956",
+    "CreatedAt": "2026-05-21T12:28:00",
+    "LoyaltyPoint": 1988,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7373,
+        "OrderID": 8125,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-21T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7374,
+        "OrderID": 8126,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-21T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1126,
+    "FullName": "Nguyễn Khánh Trang",
+    "Email": "nguyenkhanhtrang1126@gmail.com",
+    "Phone": "0900989875",
+    "CreatedAt": "2026-06-22T13:35:00",
+    "LoyaltyPoint": 2125,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7376,
+        "OrderID": 8126,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-22T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1127,
+    "FullName": "Nguyễn Khánh Uyên",
+    "Email": "nguyenkhanhuyen1127@gmail.com",
+    "Phone": "0900997794",
+    "CreatedAt": "2026-01-23T14:42:00",
+    "LoyaltyPoint": 2262,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7379,
+        "OrderID": 8127,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-23T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1128,
+    "FullName": "Nguyễn Khánh Việt",
+    "Email": "nguyenkhanhviet1128@gmail.com",
+    "Phone": "0901005713",
+    "CreatedAt": "2026-02-24T15:49:00",
+    "LoyaltyPoint": 2399,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7382,
+        "OrderID": 8128,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-24T09:35:00",
+        "ResolvedAt": "2026-07-26T10:17:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1129,
+    "FullName": "Nguyễn Khánh Vy",
+    "Email": "nguyenkhanhvy1129@gmail.com",
+    "Phone": "0901013632",
+    "CreatedAt": "2026-03-25T16:56:00",
+    "LoyaltyPoint": 2536,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7385,
+        "OrderID": 8129,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-25T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7386,
+        "OrderID": 8130,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-25T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1130,
+    "FullName": "Nguyễn Khánh Yến",
+    "Email": "nguyenkhanhyen1130@gmail.com",
+    "Phone": "0901021551",
+    "CreatedAt": "2026-04-26T17:03:00",
+    "LoyaltyPoint": 2673,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7388,
+        "OrderID": 8130,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-26T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1131,
+    "FullName": "Nguyễn Minh Bình",
+    "Email": "nguyenminhbinh1131@gmail.com",
+    "Phone": "0901029470",
+    "CreatedAt": "2026-05-01T08:10:00",
+    "LoyaltyPoint": 2810,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7391,
+        "OrderID": 8131,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-01T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1132,
+    "FullName": "Nguyễn Minh Châu",
+    "Email": "nguyenminhchau1132@gmail.com",
+    "Phone": "0901037389",
+    "CreatedAt": "2026-06-02T09:17:00",
+    "LoyaltyPoint": 2947,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7394,
+        "OrderID": 8132,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-02T09:55:00",
+        "ResolvedAt": "2026-07-04T10:01:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1133,
+    "FullName": "Nguyễn Minh Dũng",
+    "Email": "nguyenminhdung1133@gmail.com",
+    "Phone": "0901045308",
+    "CreatedAt": "2026-01-03T10:24:00",
+    "LoyaltyPoint": 3084,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7397,
+        "OrderID": 8133,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-03T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7398,
+        "OrderID": 8134,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-03T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1134,
+    "FullName": "Nguyễn Minh Giang",
+    "Email": "nguyenminhgiang1134@gmail.com",
+    "Phone": "0901053227",
+    "CreatedAt": "2026-02-04T11:31:00",
+    "LoyaltyPoint": 3221,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7400,
+        "OrderID": 8134,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-04T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1135,
+    "FullName": "Nguyễn Minh Hà",
+    "Email": "nguyenminhha1135@gmail.com",
+    "Phone": "0901061146",
+    "CreatedAt": "2026-03-05T12:38:00",
+    "LoyaltyPoint": 3358,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7403,
+        "OrderID": 8135,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-05T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1136,
+    "FullName": "Nguyễn Minh Hân",
+    "Email": "nguyenminhhan1136@gmail.com",
+    "Phone": "0901069065",
+    "CreatedAt": "2026-04-06T13:45:00",
+    "LoyaltyPoint": 3495,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7406,
+        "OrderID": 8136,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-06T09:15:00",
+        "ResolvedAt": "2026-07-08T10:45:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1137,
+    "FullName": "Nguyễn Minh Huy",
+    "Email": "nguyenminhhuy1137@gmail.com",
+    "Phone": "0901076984",
+    "CreatedAt": "2026-05-07T14:52:00",
+    "LoyaltyPoint": 3632,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7409,
+        "OrderID": 8137,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-07T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7410,
+        "OrderID": 8138,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-07T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1138,
+    "FullName": "Nguyễn Minh Khang",
+    "Email": "nguyenminhkhang1138@gmail.com",
+    "Phone": "0901084903",
+    "CreatedAt": "2026-06-08T15:59:00",
+    "LoyaltyPoint": 3769,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7412,
+        "OrderID": 8138,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-08T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1139,
+    "FullName": "Nguyễn Minh Lâm",
+    "Email": "nguyenminhlam1139@gmail.com",
+    "Phone": "0901092822",
+    "CreatedAt": "2026-01-09T16:06:00",
+    "LoyaltyPoint": 3906,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7415,
+        "OrderID": 8139,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-09T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1140,
+    "FullName": "Nguyễn Minh Linh",
+    "Email": "nguyenminhlinh1140@gmail.com",
+    "Phone": "0901100741",
+    "CreatedAt": "2026-02-10T17:13:00",
+    "LoyaltyPoint": 4043,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7418,
+        "OrderID": 8140,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-10T09:35:00",
+        "ResolvedAt": "2026-07-12T10:29:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1141,
+    "FullName": "Nguyễn Minh Long",
+    "Email": "nguyenminhlong1141@gmail.com",
+    "Phone": "0901108660",
+    "CreatedAt": "2026-03-11T08:20:00",
+    "LoyaltyPoint": 4180,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7421,
+        "OrderID": 8141,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-11T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7422,
+        "OrderID": 8142,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-11T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1142,
+    "FullName": "Nguyễn Minh Mai",
+    "Email": "nguyenminhmai1142@gmail.com",
+    "Phone": "0901116579",
+    "CreatedAt": "2026-04-12T09:27:00",
+    "LoyaltyPoint": 4317,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7424,
+        "OrderID": 8142,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-12T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1143,
+    "FullName": "Nguyễn Minh Nam",
+    "Email": "nguyenminhnam1143@gmail.com",
+    "Phone": "0901124498",
+    "CreatedAt": "2026-05-13T10:34:00",
+    "LoyaltyPoint": 4454,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7427,
+        "OrderID": 8143,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-13T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1144,
+    "FullName": "Nguyễn Minh Nhi",
+    "Email": "nguyenminhnhi1144@gmail.com",
+    "Phone": "0901132417",
+    "CreatedAt": "2026-06-14T11:41:00",
+    "LoyaltyPoint": 4591,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7430,
+        "OrderID": 8144,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-14T09:55:00",
+        "ResolvedAt": "2026-07-16T10:13:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1145,
+    "FullName": "Nguyễn Minh Phong",
+    "Email": "nguyenminhphong1145@gmail.com",
+    "Phone": "0901140336",
+    "CreatedAt": "2026-01-15T12:48:00",
+    "LoyaltyPoint": 4728,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7433,
+        "OrderID": 8145,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-15T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7434,
+        "OrderID": 8146,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-15T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1146,
+    "FullName": "Nguyễn Minh Quân",
+    "Email": "nguyenminhquan1146@gmail.com",
+    "Phone": "0901148255",
+    "CreatedAt": "2026-02-16T13:55:00",
+    "LoyaltyPoint": 4865,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7436,
+        "OrderID": 8146,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-16T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1147,
+    "FullName": "Nguyễn Minh Sơn",
+    "Email": "nguyenminhson1147@gmail.com",
+    "Phone": "0901156174",
+    "CreatedAt": "2026-03-17T14:02:00",
+    "LoyaltyPoint": 2,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7439,
+        "OrderID": 8147,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-17T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1148,
+    "FullName": "Nguyễn Minh Tâm",
+    "Email": "nguyenminhtam1148@gmail.com",
+    "Phone": "0901164093",
+    "CreatedAt": "2026-04-18T15:09:00",
+    "LoyaltyPoint": 139,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7442,
+        "OrderID": 8148,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-18T09:15:00",
+        "ResolvedAt": "2026-07-20T10:57:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1149,
+    "FullName": "Nguyễn Minh Trang",
+    "Email": "nguyenminhtrang1149@gmail.com",
+    "Phone": "0901172012",
+    "CreatedAt": "2026-05-19T16:16:00",
+    "LoyaltyPoint": 276,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7445,
+        "OrderID": 8149,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-19T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7446,
+        "OrderID": 8150,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-19T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1150,
+    "FullName": "Nguyễn Minh Uyên",
+    "Email": "nguyenminhuyen1150@gmail.com",
+    "Phone": "0901179931",
+    "CreatedAt": "2026-06-20T17:23:00",
+    "LoyaltyPoint": 413,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7448,
+        "OrderID": 8150,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-20T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1151,
+    "FullName": "Nguyễn Minh Việt",
+    "Email": "nguyenminhviet1151@gmail.com",
+    "Phone": "0901187850",
+    "CreatedAt": "2026-01-21T08:30:00",
+    "LoyaltyPoint": 550,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7451,
+        "OrderID": 8151,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-21T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1152,
+    "FullName": "Nguyễn Minh Vy",
+    "Email": "nguyenminhvy1152@gmail.com",
+    "Phone": "0901195769",
+    "CreatedAt": "2026-02-22T09:37:00",
+    "LoyaltyPoint": 687,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7454,
+        "OrderID": 8152,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-22T09:35:00",
+        "ResolvedAt": "2026-07-24T10:41:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1153,
+    "FullName": "Nguyễn Minh Yến",
+    "Email": "nguyenminhyen1153@gmail.com",
+    "Phone": "0901203688",
+    "CreatedAt": "2026-03-23T10:44:00",
+    "LoyaltyPoint": 824,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7457,
+        "OrderID": 8153,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-23T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7458,
+        "OrderID": 8154,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-23T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1154,
+    "FullName": "Nguyễn Ngọc Anh",
+    "Email": "nguyenngocanh1154@gmail.com",
+    "Phone": "0901211607",
+    "CreatedAt": "2026-04-24T11:51:00",
+    "LoyaltyPoint": 961,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7460,
+        "OrderID": 8154,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-24T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1155,
+    "FullName": "Nguyễn Ngọc Bình",
+    "Email": "nguyenngocbinh1155@gmail.com",
+    "Phone": "0901219526",
+    "CreatedAt": "2026-05-25T12:58:00",
+    "LoyaltyPoint": 1098,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7463,
+        "OrderID": 8155,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-25T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1156,
+    "FullName": "Nguyễn Ngọc Châu",
+    "Email": "nguyenngocchau1156@gmail.com",
+    "Phone": "0901227445",
+    "CreatedAt": "2026-06-26T13:05:00",
+    "LoyaltyPoint": 1235,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7466,
+        "OrderID": 8156,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-26T09:55:00",
+        "ResolvedAt": "2026-07-02T10:25:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1157,
+    "FullName": "Nguyễn Ngọc Dũng",
+    "Email": "nguyenngocdung1157@gmail.com",
+    "Phone": "0901235364",
+    "CreatedAt": "2026-01-01T14:12:00",
+    "LoyaltyPoint": 1372,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7469,
+        "OrderID": 8157,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-01T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7470,
+        "OrderID": 8158,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-01T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1158,
+    "FullName": "Nguyễn Ngọc Giang",
+    "Email": "nguyenngocgiang1158@gmail.com",
+    "Phone": "0901243283",
+    "CreatedAt": "2026-02-02T15:19:00",
+    "LoyaltyPoint": 1509,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7472,
+        "OrderID": 8158,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-02T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1159,
+    "FullName": "Nguyễn Ngọc Hà",
+    "Email": "nguyenngocha1159@gmail.com",
+    "Phone": "0901251202",
+    "CreatedAt": "2026-03-03T16:26:00",
+    "LoyaltyPoint": 1646,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7475,
+        "OrderID": 8159,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-03T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1160,
+    "FullName": "Nguyễn Ngọc Hân",
+    "Email": "nguyenngochan1160@gmail.com",
+    "Phone": "0901259121",
+    "CreatedAt": "2026-04-04T17:33:00",
+    "LoyaltyPoint": 1783,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7478,
+        "OrderID": 8160,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-04T09:15:00",
+        "ResolvedAt": "2026-07-06T10:09:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1161,
+    "FullName": "Nguyễn Ngọc Huy",
+    "Email": "nguyenngochuy1161@gmail.com",
+    "Phone": "0901267040",
+    "CreatedAt": "2026-05-05T08:40:00",
+    "LoyaltyPoint": 1920,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7481,
+        "OrderID": 8161,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-05T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7482,
+        "OrderID": 8162,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-05T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1162,
+    "FullName": "Nguyễn Ngọc Khang",
+    "Email": "nguyenngockhang1162@gmail.com",
+    "Phone": "0901274959",
+    "CreatedAt": "2026-06-06T09:47:00",
+    "LoyaltyPoint": 2057,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7484,
+        "OrderID": 8162,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-06T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1163,
+    "FullName": "Nguyễn Ngọc Lâm",
+    "Email": "nguyenngoclam1163@gmail.com",
+    "Phone": "0901282878",
+    "CreatedAt": "2026-01-07T10:54:00",
+    "LoyaltyPoint": 2194,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7487,
+        "OrderID": 8163,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-07T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1164,
+    "FullName": "Nguyễn Ngọc Linh",
+    "Email": "nguyenngoclinh1164@gmail.com",
+    "Phone": "0901290797",
+    "CreatedAt": "2026-02-08T11:01:00",
+    "LoyaltyPoint": 2331,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7490,
+        "OrderID": 8164,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-08T09:35:00",
+        "ResolvedAt": "2026-07-10T10:53:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1165,
+    "FullName": "Nguyễn Ngọc Long",
+    "Email": "nguyenngoclong1165@gmail.com",
+    "Phone": "0901298716",
+    "CreatedAt": "2026-03-09T12:08:00",
+    "LoyaltyPoint": 2468,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7493,
+        "OrderID": 8165,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-09T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7494,
+        "OrderID": 8166,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-09T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1166,
+    "FullName": "Nguyễn Ngọc Mai",
+    "Email": "nguyenngocmai1166@gmail.com",
+    "Phone": "0901306635",
+    "CreatedAt": "2026-04-10T13:15:00",
+    "LoyaltyPoint": 2605,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7496,
+        "OrderID": 8166,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-10T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1167,
+    "FullName": "Nguyễn Ngọc Nam",
+    "Email": "nguyenngocnam1167@gmail.com",
+    "Phone": "0901314554",
+    "CreatedAt": "2026-05-11T14:22:00",
+    "LoyaltyPoint": 2742,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7499,
+        "OrderID": 8167,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-11T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1168,
+    "FullName": "Nguyễn Ngọc Nhi",
+    "Email": "nguyenngocnhi1168@gmail.com",
+    "Phone": "0901322473",
+    "CreatedAt": "2026-06-12T15:29:00",
+    "LoyaltyPoint": 2879,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7502,
+        "OrderID": 8168,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-12T09:55:00",
+        "ResolvedAt": "2026-07-14T10:37:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1169,
+    "FullName": "Nguyễn Ngọc Phong",
+    "Email": "nguyenngocphong1169@gmail.com",
+    "Phone": "0901330392",
+    "CreatedAt": "2026-01-13T16:36:00",
+    "LoyaltyPoint": 3016,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7505,
+        "OrderID": 8169,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-13T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7506,
+        "OrderID": 8170,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-13T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1170,
+    "FullName": "Nguyễn Ngọc Quân",
+    "Email": "nguyenngocquan1170@gmail.com",
+    "Phone": "0901338311",
+    "CreatedAt": "2026-02-14T17:43:00",
+    "LoyaltyPoint": 3153,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7508,
+        "OrderID": 8170,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-14T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1171,
+    "FullName": "Nguyễn Ngọc Sơn",
+    "Email": "nguyenngocson1171@gmail.com",
+    "Phone": "0901346230",
+    "CreatedAt": "2026-03-15T08:50:00",
+    "LoyaltyPoint": 3290,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7511,
+        "OrderID": 8171,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-15T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1172,
+    "FullName": "Nguyễn Ngọc Tâm",
+    "Email": "nguyenngoctam1172@gmail.com",
+    "Phone": "0901354149",
+    "CreatedAt": "2026-04-16T09:57:00",
+    "LoyaltyPoint": 3427,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7514,
+        "OrderID": 8172,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-16T09:15:00",
+        "ResolvedAt": "2026-07-18T10:21:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1173,
+    "FullName": "Nguyễn Ngọc Trang",
+    "Email": "nguyenngoctrang1173@gmail.com",
+    "Phone": "0901362068",
+    "CreatedAt": "2026-05-17T10:04:00",
+    "LoyaltyPoint": 3564,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7517,
+        "OrderID": 8173,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-17T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7518,
+        "OrderID": 8174,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-17T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1174,
+    "FullName": "Nguyễn Ngọc Uyên",
+    "Email": "nguyenngocuyen1174@gmail.com",
+    "Phone": "0901369987",
+    "CreatedAt": "2026-06-18T11:11:00",
+    "LoyaltyPoint": 3701,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7520,
+        "OrderID": 8174,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-18T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1175,
+    "FullName": "Nguyễn Ngọc Việt",
+    "Email": "nguyenngocviet1175@gmail.com",
+    "Phone": "0901377906",
+    "CreatedAt": "2026-01-19T12:18:00",
+    "LoyaltyPoint": 3838,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7523,
+        "OrderID": 8175,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-19T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1176,
+    "FullName": "Nguyễn Ngọc Vy",
+    "Email": "nguyenngocvy1176@gmail.com",
+    "Phone": "0901385825",
+    "CreatedAt": "2026-02-20T13:25:00",
+    "LoyaltyPoint": 3975,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7526,
+        "OrderID": 8176,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-20T09:35:00",
+        "ResolvedAt": "2026-07-22T10:05:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1177,
+    "FullName": "Nguyễn Ngọc Yến",
+    "Email": "nguyenngocyen1177@gmail.com",
+    "Phone": "0901393744",
+    "CreatedAt": "2026-03-21T14:32:00",
+    "LoyaltyPoint": 4112,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7529,
+        "OrderID": 8177,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-21T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7530,
+        "OrderID": 8178,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-21T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1178,
+    "FullName": "Nguyễn Nhật Anh",
+    "Email": "nguyennhatanh1178@gmail.com",
+    "Phone": "0901401663",
+    "CreatedAt": "2026-04-22T15:39:00",
+    "LoyaltyPoint": 4249,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7532,
+        "OrderID": 8178,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-22T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1179,
+    "FullName": "Nguyễn Nhật Bình",
+    "Email": "nguyennhatbinh1179@gmail.com",
+    "Phone": "0901409582",
+    "CreatedAt": "2026-05-23T16:46:00",
+    "LoyaltyPoint": 4386,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7535,
+        "OrderID": 8179,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-23T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1180,
+    "FullName": "Nguyễn Nhật Châu",
+    "Email": "nguyennhatchau1180@gmail.com",
+    "Phone": "0901417501",
+    "CreatedAt": "2026-06-24T17:53:00",
+    "LoyaltyPoint": 4523,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7538,
+        "OrderID": 8180,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-24T09:55:00",
+        "ResolvedAt": "2026-07-26T10:49:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1181,
+    "FullName": "Nguyễn Nhật Dũng",
+    "Email": "nguyennhatdung1181@gmail.com",
+    "Phone": "0901425420",
+    "CreatedAt": "2026-01-25T08:00:00",
+    "LoyaltyPoint": 4660,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7541,
+        "OrderID": 8181,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-25T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7542,
+        "OrderID": 8182,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-25T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1182,
+    "FullName": "Nguyễn Nhật Giang",
+    "Email": "nguyennhatgiang1182@gmail.com",
+    "Phone": "0901433339",
+    "CreatedAt": "2026-02-26T09:07:00",
+    "LoyaltyPoint": 4797,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7544,
+        "OrderID": 8182,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-26T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1183,
+    "FullName": "Nguyễn Nhật Hà",
+    "Email": "nguyennhatha1183@gmail.com",
+    "Phone": "0901441258",
+    "CreatedAt": "2026-03-01T10:14:00",
+    "LoyaltyPoint": 4934,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7547,
+        "OrderID": 8183,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-01T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1184,
+    "FullName": "Nguyễn Nhật Hân",
+    "Email": "nguyennhathan1184@gmail.com",
+    "Phone": "0901449177",
+    "CreatedAt": "2026-04-02T11:21:00",
+    "LoyaltyPoint": 71,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7550,
+        "OrderID": 8184,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-02T09:15:00",
+        "ResolvedAt": "2026-07-04T10:33:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1185,
+    "FullName": "Nguyễn Nhật Huy",
+    "Email": "nguyennhathuy1185@gmail.com",
+    "Phone": "0901457096",
+    "CreatedAt": "2026-05-03T12:28:00",
+    "LoyaltyPoint": 208,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7553,
+        "OrderID": 8185,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-03T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7554,
+        "OrderID": 8186,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-03T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1186,
+    "FullName": "Nguyễn Nhật Khang",
+    "Email": "nguyennhatkhang1186@gmail.com",
+    "Phone": "0901465015",
+    "CreatedAt": "2026-06-04T13:35:00",
+    "LoyaltyPoint": 345,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7556,
+        "OrderID": 8186,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-04T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1187,
+    "FullName": "Nguyễn Nhật Lâm",
+    "Email": "nguyennhatlam1187@gmail.com",
+    "Phone": "0901472934",
+    "CreatedAt": "2026-01-05T14:42:00",
+    "LoyaltyPoint": 482,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7559,
+        "OrderID": 8187,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-05T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1188,
+    "FullName": "Nguyễn Nhật Linh",
+    "Email": "nguyennhatlinh1188@gmail.com",
+    "Phone": "0901480853",
+    "CreatedAt": "2026-02-06T15:49:00",
+    "LoyaltyPoint": 619,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7562,
+        "OrderID": 8188,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-06T09:35:00",
+        "ResolvedAt": "2026-07-08T10:17:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1189,
+    "FullName": "Nguyễn Nhật Long",
+    "Email": "nguyennhatlong1189@gmail.com",
+    "Phone": "0901488772",
+    "CreatedAt": "2026-03-07T16:56:00",
+    "LoyaltyPoint": 756,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7565,
+        "OrderID": 8189,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-07T09:40:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7566,
+        "OrderID": 8190,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-07T10:40:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1190,
+    "FullName": "Nguyễn Nhật Mai",
+    "Email": "nguyennhatmai1190@gmail.com",
+    "Phone": "0901496691",
+    "CreatedAt": "2026-04-08T17:03:00",
+    "LoyaltyPoint": 893,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7568,
+        "OrderID": 8190,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-08T09:45:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1191,
+    "FullName": "Nguyễn Nhật Nam",
+    "Email": "nguyennhatnam1191@gmail.com",
+    "Phone": "0901504610",
+    "CreatedAt": "2026-05-09T08:10:00",
+    "LoyaltyPoint": 1030,
+    "CustomerStatus": "Blocked",
+    "SupportRequests": [
+      {
+        "RequestID": 7571,
+        "OrderID": 8191,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-09T09:50:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1192,
+    "FullName": "Nguyễn Nhật Nhi",
+    "Email": "nguyennhatnhi1192@gmail.com",
+    "Phone": "0901512529",
+    "CreatedAt": "2026-06-10T09:17:00",
+    "LoyaltyPoint": 1167,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7574,
+        "OrderID": 8192,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-10T09:55:00",
+        "ResolvedAt": "2026-07-12T10:01:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1193,
+    "FullName": "Nguyễn Nhật Phong",
+    "Email": "nguyennhatphong1193@gmail.com",
+    "Phone": "0901520448",
+    "CreatedAt": "2026-01-11T10:24:00",
+    "LoyaltyPoint": 1304,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7577,
+        "OrderID": 8193,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-11T09:00:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7578,
+        "OrderID": 8194,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-11T10:00:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1194,
+    "FullName": "Nguyễn Nhật Quân",
+    "Email": "nguyennhatquan1194@gmail.com",
+    "Phone": "0901528367",
+    "CreatedAt": "2026-02-12T11:31:00",
+    "LoyaltyPoint": 1441,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7580,
+        "OrderID": 8194,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-12T09:05:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1195,
+    "FullName": "Nguyễn Nhật Sơn",
+    "Email": "nguyennhatson1195@gmail.com",
+    "Phone": "0901536286",
+    "CreatedAt": "2026-03-13T12:38:00",
+    "LoyaltyPoint": 1578,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7583,
+        "OrderID": 8195,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-13T09:10:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1196,
+    "FullName": "Nguyễn Nhật Tâm",
+    "Email": "nguyennhattam1196@gmail.com",
+    "Phone": "0901544205",
+    "CreatedAt": "2026-04-14T13:45:00",
+    "LoyaltyPoint": 1715,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7586,
+        "OrderID": 8196,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-14T09:15:00",
+        "ResolvedAt": "2026-07-16T10:45:00"
+      }
+    ]
+  },
+  {
+    "CustomerID": 1197,
+    "FullName": "Nguyễn Nhật Trang",
+    "Email": "nguyennhattrang1197@gmail.com",
+    "Phone": "0901552124",
+    "CreatedAt": "2026-05-15T14:52:00",
+    "LoyaltyPoint": 1852,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7589,
+        "OrderID": 8197,
+        "RequestType": "Support",
+        "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Open",
+        "CreatedAt": "2026-06-15T09:20:00",
+        "ResolvedAt": null
+      },
+      {
+        "RequestID": 7590,
+        "OrderID": 8198,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-06-15T10:20:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1198,
+    "FullName": "Nguyễn Nhật Uyên",
+    "Email": "nguyennhatuyen1198@gmail.com",
+    "Phone": "0901560043",
+    "CreatedAt": "2026-06-16T15:59:00",
+    "LoyaltyPoint": 1989,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7592,
+        "OrderID": 8198,
+        "RequestType": "Feedback",
+        "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "InReview",
+        "CreatedAt": "2026-07-16T09:25:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1199,
+    "FullName": "Nguyễn Nhật Việt",
+    "Email": "nguyennhatviet1199@gmail.com",
+    "Phone": "0901567962",
+    "CreatedAt": "2026-01-17T16:06:00",
+    "LoyaltyPoint": 2126,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7595,
+        "OrderID": 8199,
+        "RequestType": "Refund",
+        "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "PendingCustomer",
+        "CreatedAt": "2026-06-17T09:30:00",
+        "ResolvedAt": null
+      }
+    ]
+  },
+  {
+    "CustomerID": 1200,
+    "FullName": "Nguyễn Nhật Vy",
+    "Email": "nguyennhatvy1200@gmail.com",
+    "Phone": "0901575881",
+    "CreatedAt": "2026-02-18T17:13:00",
+    "LoyaltyPoint": 2263,
+    "CustomerStatus": "Active",
+    "SupportRequests": [
+      {
+        "RequestID": 7598,
+        "OrderID": 8200,
+        "RequestType": "Return",
+        "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+        "RequestStatus": "Resolved",
+        "CreatedAt": "2026-07-18T09:35:00",
+        "ResolvedAt": "2026-07-20T10:29:00"
+      }
+    ]
+  }
+]

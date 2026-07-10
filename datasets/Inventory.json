@@ -1,0 +1,5996 @@
+[
+  {
+    "InventoryID": 5001,
+    "ProductID": 1,
+    "Quantity": 7,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-02T09:03:00",
+    "Batches": [
+      {
+        "BatchID": 9011,
+        "BatchCode": "BK26-P001-B1",
+        "Quantity": 3,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-03",
+        "ReceivedDate": "2026-02-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9012,
+        "BatchCode": "BK26-P001-B2",
+        "Quantity": 4,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-08",
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5002,
+    "ProductID": 2,
+    "Quantity": 14,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-03T10:06:00",
+    "Batches": [
+      {
+        "BatchID": 9021,
+        "BatchCode": "BK26-P002-B1",
+        "Quantity": 7,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-05",
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9022,
+        "BatchCode": "BK26-P002-B2",
+        "Quantity": 8,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-10",
+        "ReceivedDate": "2026-04-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5003,
+    "ProductID": 3,
+    "Quantity": 21,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-04T11:09:00",
+    "Batches": [
+      {
+        "BatchID": 9031,
+        "BatchCode": "BK26-P003-B1",
+        "Quantity": 7,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-07",
+        "ReceivedDate": "2026-04-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9032,
+        "BatchCode": "BK26-P003-B2",
+        "Quantity": 8,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-12",
+        "ReceivedDate": "2026-05-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9033,
+        "BatchCode": "BK26-P003-B3",
+        "Quantity": 9,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-17",
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5004,
+    "ProductID": 4,
+    "Quantity": 28,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-05T12:12:00",
+    "Batches": [
+      {
+        "BatchID": 9041,
+        "BatchCode": "BK26-P004-B1",
+        "Quantity": 14,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-09",
+        "ReceivedDate": "2026-05-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9042,
+        "BatchCode": "BK26-P004-B2",
+        "Quantity": 15,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-14",
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5005,
+    "ProductID": 5,
+    "Quantity": 35,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-01T13:15:00",
+    "Batches": [
+      {
+        "BatchID": 9051,
+        "BatchCode": "BK26-P005-B1",
+        "Quantity": 17,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9052,
+        "BatchCode": "BK26-P005-B2",
+        "Quantity": 18,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5006,
+    "ProductID": 6,
+    "Quantity": 42,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-02T14:18:00",
+    "Batches": [
+      {
+        "BatchID": 9061,
+        "BatchCode": "BK26-P006-B1",
+        "Quantity": 14,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-13",
+        "ReceivedDate": "2026-01-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9062,
+        "BatchCode": "BK26-P006-B2",
+        "Quantity": 15,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-18",
+        "ReceivedDate": "2026-02-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9063,
+        "BatchCode": "BK26-P006-B3",
+        "Quantity": 16,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-23",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5007,
+    "ProductID": 7,
+    "Quantity": 49,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-03T15:21:00",
+    "Batches": [
+      {
+        "BatchID": 9071,
+        "BatchCode": "BK26-P007-B1",
+        "Quantity": 24,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-15",
+        "ReceivedDate": "2026-02-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9072,
+        "BatchCode": "BK26-P007-B2",
+        "Quantity": 25,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-20",
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5008,
+    "ProductID": 8,
+    "Quantity": 56,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-04T16:24:00",
+    "Batches": [
+      {
+        "BatchID": 9081,
+        "BatchCode": "BK26-P008-B1",
+        "Quantity": 28,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-17",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9082,
+        "BatchCode": "BK26-P008-B2",
+        "Quantity": 29,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-22",
+        "ReceivedDate": "2026-04-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5009,
+    "ProductID": 9,
+    "Quantity": 63,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-05T08:27:00",
+    "Batches": [
+      {
+        "BatchID": 9091,
+        "BatchCode": "BK26-P009-B1",
+        "Quantity": 21,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-19",
+        "ReceivedDate": "2026-04-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9092,
+        "BatchCode": "BK26-P009-B2",
+        "Quantity": 22,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-24",
+        "ReceivedDate": "2026-05-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9093,
+        "BatchCode": "BK26-P009-B3",
+        "Quantity": 23,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-03",
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5010,
+    "ProductID": 10,
+    "Quantity": 70,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-01T09:30:00",
+    "Batches": [
+      {
+        "BatchID": 9101,
+        "BatchCode": "BK26-P010-B1",
+        "Quantity": 35,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9102,
+        "BatchCode": "BK26-P010-B2",
+        "Quantity": 36,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5011,
+    "ProductID": 11,
+    "Quantity": 77,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-02T10:33:00",
+    "Batches": [
+      {
+        "BatchID": 9111,
+        "BatchCode": "BK26-P011-B1",
+        "Quantity": 38,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-23",
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9112,
+        "BatchCode": "BK26-P011-B2",
+        "Quantity": 39,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-02",
+        "ReceivedDate": "2026-01-15",
+        "BatchStatus": "Expired"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5012,
+    "ProductID": 12,
+    "Quantity": 84,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-03T11:36:00",
+    "Batches": [
+      {
+        "BatchID": 9121,
+        "BatchCode": "BK26-P012-B1",
+        "Quantity": 28,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-25",
+        "ReceivedDate": "2026-01-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9122,
+        "BatchCode": "BK26-P012-B2",
+        "Quantity": 29,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-04",
+        "ReceivedDate": "2026-02-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9123,
+        "BatchCode": "BK26-P012-B3",
+        "Quantity": 30,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-09",
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5013,
+    "ProductID": 13,
+    "Quantity": 91,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-04T12:39:00",
+    "Batches": [
+      {
+        "BatchID": 9131,
+        "BatchCode": "BK26-P013-B1",
+        "Quantity": 45,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-01",
+        "ReceivedDate": "2026-02-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9132,
+        "BatchCode": "BK26-P013-B2",
+        "Quantity": 46,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-06",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5014,
+    "ProductID": 14,
+    "Quantity": 2,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-05T13:42:00",
+    "Batches": [
+      {
+        "BatchID": 9141,
+        "BatchCode": "BK26-P014-B1",
+        "Quantity": 1,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-03",
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9142,
+        "BatchCode": "BK26-P014-B2",
+        "Quantity": 2,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-08",
+        "ReceivedDate": "2026-04-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5015,
+    "ProductID": 15,
+    "Quantity": 9,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-01T14:45:00",
+    "Batches": [
+      {
+        "BatchID": 9151,
+        "BatchCode": "BK26-P015-B1",
+        "Quantity": 3,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9152,
+        "BatchCode": "BK26-P015-B2",
+        "Quantity": 4,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9153,
+        "BatchCode": "BK26-P015-B3",
+        "Quantity": 5,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5016,
+    "ProductID": 16,
+    "Quantity": 16,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-02T15:48:00",
+    "Batches": [
+      {
+        "BatchID": 9161,
+        "BatchCode": "BK26-P016-B1",
+        "Quantity": 8,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-07",
+        "ReceivedDate": "2026-05-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9162,
+        "BatchCode": "BK26-P016-B2",
+        "Quantity": 9,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-12",
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5017,
+    "ProductID": 17,
+    "Quantity": 23,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-03T16:51:00",
+    "Batches": [
+      {
+        "BatchID": 9171,
+        "BatchCode": "BK26-P017-B1",
+        "Quantity": 11,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-09",
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9172,
+        "BatchCode": "BK26-P017-B2",
+        "Quantity": 12,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-14",
+        "ReceivedDate": "2026-01-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5018,
+    "ProductID": 18,
+    "Quantity": 30,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-04T08:54:00",
+    "Batches": [
+      {
+        "BatchID": 9181,
+        "BatchCode": "BK26-P018-B1",
+        "Quantity": 10,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-11",
+        "ReceivedDate": "2026-01-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9182,
+        "BatchCode": "BK26-P018-B2",
+        "Quantity": 11,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-16",
+        "ReceivedDate": "2026-02-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9183,
+        "BatchCode": "BK26-P018-B3",
+        "Quantity": 12,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-21",
+        "ReceivedDate": "2026-03-25",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5019,
+    "ProductID": 19,
+    "Quantity": 37,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-05T09:57:00",
+    "Batches": [
+      {
+        "BatchID": 9191,
+        "BatchCode": "BK26-P019-B1",
+        "Quantity": 18,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-13",
+        "ReceivedDate": "2026-02-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9192,
+        "BatchCode": "BK26-P019-B2",
+        "Quantity": 19,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-18",
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5020,
+    "ProductID": 20,
+    "Quantity": 44,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-01T10:00:00",
+    "Batches": [
+      {
+        "BatchID": 9201,
+        "BatchCode": "BK26-P020-B1",
+        "Quantity": 22,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9202,
+        "BatchCode": "BK26-P020-B2",
+        "Quantity": 23,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-24",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5021,
+    "ProductID": 21,
+    "Quantity": 51,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-02T11:03:00",
+    "Batches": [
+      {
+        "BatchID": 9211,
+        "BatchCode": "BK26-P021-B1",
+        "Quantity": 17,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-17",
+        "ReceivedDate": "2026-04-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9212,
+        "BatchCode": "BK26-P021-B2",
+        "Quantity": 18,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-22",
+        "ReceivedDate": "2026-05-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9213,
+        "BatchCode": "BK26-P021-B3",
+        "Quantity": 19,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-01",
+        "ReceivedDate": "2026-06-02",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5022,
+    "ProductID": 22,
+    "Quantity": 58,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-03T12:06:00",
+    "Batches": [
+      {
+        "BatchID": 9221,
+        "BatchCode": "BK26-P022-B1",
+        "Quantity": 29,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-19",
+        "ReceivedDate": "2026-05-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9222,
+        "BatchCode": "BK26-P022-B2",
+        "Quantity": 30,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-24",
+        "ReceivedDate": "2026-06-26",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5023,
+    "ProductID": 23,
+    "Quantity": 65,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-04T13:09:00",
+    "Batches": [
+      {
+        "BatchID": 9231,
+        "BatchCode": "BK26-P023-B1",
+        "Quantity": 32,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-21",
+        "ReceivedDate": "2026-06-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9232,
+        "BatchCode": "BK26-P023-B2",
+        "Quantity": 33,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-26",
+        "ReceivedDate": "2026-01-01",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5024,
+    "ProductID": 24,
+    "Quantity": 72,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-05T14:12:00",
+    "Batches": [
+      {
+        "BatchID": 9241,
+        "BatchCode": "BK26-P024-B1",
+        "Quantity": 24,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-23",
+        "ReceivedDate": "2026-01-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9242,
+        "BatchCode": "BK26-P024-B2",
+        "Quantity": 25,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-02",
+        "ReceivedDate": "2026-02-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9243,
+        "BatchCode": "BK26-P024-B3",
+        "Quantity": 26,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-07",
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5025,
+    "ProductID": 25,
+    "Quantity": 79,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-01T15:15:00",
+    "Batches": [
+      {
+        "BatchID": 9251,
+        "BatchCode": "BK26-P025-B1",
+        "Quantity": 39,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9252,
+        "BatchCode": "BK26-P025-B2",
+        "Quantity": 40,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5026,
+    "ProductID": 26,
+    "Quantity": 86,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-02T16:18:00",
+    "Batches": [
+      {
+        "BatchID": 9261,
+        "BatchCode": "BK26-P026-B1",
+        "Quantity": 43,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-01",
+        "ReceivedDate": "2026-03-01",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9262,
+        "BatchCode": "BK26-P026-B2",
+        "Quantity": 44,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-06",
+        "ReceivedDate": "2026-04-04",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5027,
+    "ProductID": 27,
+    "Quantity": 93,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-03T08:21:00",
+    "Batches": [
+      {
+        "BatchID": 9271,
+        "BatchCode": "BK26-P027-B1",
+        "Quantity": 31,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-03",
+        "ReceivedDate": "2026-04-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9272,
+        "BatchCode": "BK26-P027-B2",
+        "Quantity": 32,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-08",
+        "ReceivedDate": "2026-05-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9273,
+        "BatchCode": "BK26-P027-B3",
+        "Quantity": 33,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-13",
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5028,
+    "ProductID": 28,
+    "Quantity": 4,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-04T09:24:00",
+    "Batches": [
+      {
+        "BatchID": 9281,
+        "BatchCode": "BK26-P028-B1",
+        "Quantity": 2,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-05",
+        "ReceivedDate": "2026-05-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9282,
+        "BatchCode": "BK26-P028-B2",
+        "Quantity": 3,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-10",
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5029,
+    "ProductID": 29,
+    "Quantity": 11,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-05T10:27:00",
+    "Batches": [
+      {
+        "BatchID": 9291,
+        "BatchCode": "BK26-P029-B1",
+        "Quantity": 5,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-07",
+        "ReceivedDate": "2026-06-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9292,
+        "BatchCode": "BK26-P029-B2",
+        "Quantity": 6,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-12",
+        "ReceivedDate": "2026-01-07",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5030,
+    "ProductID": 30,
+    "Quantity": 18,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-01T11:30:00",
+    "Batches": [
+      {
+        "BatchID": 9301,
+        "BatchCode": "BK26-P030-B1",
+        "Quantity": 6,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9302,
+        "BatchCode": "BK26-P030-B2",
+        "Quantity": 7,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9303,
+        "BatchCode": "BK26-P030-B3",
+        "Quantity": 8,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5031,
+    "ProductID": 31,
+    "Quantity": 25,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-02T12:33:00",
+    "Batches": [
+      {
+        "BatchID": 9311,
+        "BatchCode": "BK26-P031-B1",
+        "Quantity": 12,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-11",
+        "ReceivedDate": "2026-02-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9312,
+        "BatchCode": "BK26-P031-B2",
+        "Quantity": 13,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-16",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5032,
+    "ProductID": 32,
+    "Quantity": 32,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-03T13:36:00",
+    "Batches": [
+      {
+        "BatchID": 9321,
+        "BatchCode": "BK26-P032-B1",
+        "Quantity": 16,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-13",
+        "ReceivedDate": "2026-03-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9322,
+        "BatchCode": "BK26-P032-B2",
+        "Quantity": 17,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-18",
+        "ReceivedDate": "2026-04-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5033,
+    "ProductID": 33,
+    "Quantity": 39,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-04T14:39:00",
+    "Batches": [
+      {
+        "BatchID": 9331,
+        "BatchCode": "BK26-P033-B1",
+        "Quantity": 13,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-15",
+        "ReceivedDate": "2026-04-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9332,
+        "BatchCode": "BK26-P033-B2",
+        "Quantity": 14,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-20",
+        "ReceivedDate": "2026-05-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9333,
+        "BatchCode": "BK26-P033-B3",
+        "Quantity": 15,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-25",
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5034,
+    "ProductID": 34,
+    "Quantity": 46,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-05T15:42:00",
+    "Batches": [
+      {
+        "BatchID": 9341,
+        "BatchCode": "BK26-P034-B1",
+        "Quantity": 23,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-17",
+        "ReceivedDate": "2026-05-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9342,
+        "BatchCode": "BK26-P034-B2",
+        "Quantity": 24,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-22",
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5035,
+    "ProductID": 35,
+    "Quantity": 53,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-01T16:45:00",
+    "Batches": [
+      {
+        "BatchID": 9351,
+        "BatchCode": "BK26-P035-B1",
+        "Quantity": 26,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9352,
+        "BatchCode": "BK26-P035-B2",
+        "Quantity": 27,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5036,
+    "ProductID": 36,
+    "Quantity": 60,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-02T08:48:00",
+    "Batches": [
+      {
+        "BatchID": 9361,
+        "BatchCode": "BK26-P036-B1",
+        "Quantity": 20,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-21",
+        "ReceivedDate": "2026-01-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9362,
+        "BatchCode": "BK26-P036-B2",
+        "Quantity": 21,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-26",
+        "ReceivedDate": "2026-02-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9363,
+        "BatchCode": "BK26-P036-B3",
+        "Quantity": 22,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-05",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5037,
+    "ProductID": 37,
+    "Quantity": 67,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-03T09:51:00",
+    "Batches": [
+      {
+        "BatchID": 9371,
+        "BatchCode": "BK26-P037-B1",
+        "Quantity": 33,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-23",
+        "ReceivedDate": "2026-02-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9372,
+        "BatchCode": "BK26-P037-B2",
+        "Quantity": 34,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-02",
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5038,
+    "ProductID": 38,
+    "Quantity": 74,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-04T10:54:00",
+    "Batches": [
+      {
+        "BatchID": 9381,
+        "BatchCode": "BK26-P038-B1",
+        "Quantity": 37,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-25",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9382,
+        "BatchCode": "BK26-P038-B2",
+        "Quantity": 38,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-04",
+        "ReceivedDate": "2026-04-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5039,
+    "ProductID": 39,
+    "Quantity": 81,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-05T11:57:00",
+    "Batches": [
+      {
+        "BatchID": 9391,
+        "BatchCode": "BK26-P039-B1",
+        "Quantity": 27,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-01",
+        "ReceivedDate": "2026-04-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9392,
+        "BatchCode": "BK26-P039-B2",
+        "Quantity": 28,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-06",
+        "ReceivedDate": "2026-05-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9393,
+        "BatchCode": "BK26-P039-B3",
+        "Quantity": 29,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-11",
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5040,
+    "ProductID": 40,
+    "Quantity": 88,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-01T12:00:00",
+    "Batches": [
+      {
+        "BatchID": 9401,
+        "BatchCode": "BK26-P040-B1",
+        "Quantity": 44,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9402,
+        "BatchCode": "BK26-P040-B2",
+        "Quantity": 45,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5041,
+    "ProductID": 41,
+    "Quantity": 95,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-02T13:03:00",
+    "Batches": [
+      {
+        "BatchID": 9411,
+        "BatchCode": "BK26-P041-B1",
+        "Quantity": 47,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-05",
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9412,
+        "BatchCode": "BK26-P041-B2",
+        "Quantity": 48,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-10",
+        "ReceivedDate": "2026-01-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5042,
+    "ProductID": 42,
+    "Quantity": 6,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-03T14:06:00",
+    "Batches": [
+      {
+        "BatchID": 9421,
+        "BatchCode": "BK26-P042-B1",
+        "Quantity": 2,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-07",
+        "ReceivedDate": "2026-01-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9422,
+        "BatchCode": "BK26-P042-B2",
+        "Quantity": 3,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-12",
+        "ReceivedDate": "2026-02-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9423,
+        "BatchCode": "BK26-P042-B3",
+        "Quantity": 4,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-17",
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5043,
+    "ProductID": 43,
+    "Quantity": 13,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-04T15:09:00",
+    "Batches": [
+      {
+        "BatchID": 9431,
+        "BatchCode": "BK26-P043-B1",
+        "Quantity": 6,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-09",
+        "ReceivedDate": "2026-02-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9432,
+        "BatchCode": "BK26-P043-B2",
+        "Quantity": 7,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-14",
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5044,
+    "ProductID": 44,
+    "Quantity": 20,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-05T16:12:00",
+    "Batches": [
+      {
+        "BatchID": 9441,
+        "BatchCode": "BK26-P044-B1",
+        "Quantity": 10,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-11",
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9442,
+        "BatchCode": "BK26-P044-B2",
+        "Quantity": 11,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-16",
+        "ReceivedDate": "2026-04-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5045,
+    "ProductID": 45,
+    "Quantity": 27,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-01T08:15:00",
+    "Batches": [
+      {
+        "BatchID": 9451,
+        "BatchCode": "BK26-P045-B1",
+        "Quantity": 9,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9452,
+        "BatchCode": "BK26-P045-B2",
+        "Quantity": 10,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9453,
+        "BatchCode": "BK26-P045-B3",
+        "Quantity": 11,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-26",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5046,
+    "ProductID": 46,
+    "Quantity": 34,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-02T09:18:00",
+    "Batches": [
+      {
+        "BatchID": 9461,
+        "BatchCode": "BK26-P046-B1",
+        "Quantity": 17,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-15",
+        "ReceivedDate": "2026-05-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9462,
+        "BatchCode": "BK26-P046-B2",
+        "Quantity": 18,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-20",
+        "ReceivedDate": "2026-06-24",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5047,
+    "ProductID": 47,
+    "Quantity": 41,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-03T10:21:00",
+    "Batches": [
+      {
+        "BatchID": 9471,
+        "BatchCode": "BK26-P047-B1",
+        "Quantity": 20,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-17",
+        "ReceivedDate": "2026-06-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9472,
+        "BatchCode": "BK26-P047-B2",
+        "Quantity": 21,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-22",
+        "ReceivedDate": "2026-01-25",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5048,
+    "ProductID": 48,
+    "Quantity": 48,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-04T11:24:00",
+    "Batches": [
+      {
+        "BatchID": 9481,
+        "BatchCode": "BK26-P048-B1",
+        "Quantity": 16,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-19",
+        "ReceivedDate": "2026-01-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9482,
+        "BatchCode": "BK26-P048-B2",
+        "Quantity": 17,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-24",
+        "ReceivedDate": "2026-02-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9483,
+        "BatchCode": "BK26-P048-B3",
+        "Quantity": 18,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-03",
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5049,
+    "ProductID": 49,
+    "Quantity": 55,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-05T12:27:00",
+    "Batches": [
+      {
+        "BatchID": 9491,
+        "BatchCode": "BK26-P049-B1",
+        "Quantity": 27,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-21",
+        "ReceivedDate": "2026-02-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9492,
+        "BatchCode": "BK26-P049-B2",
+        "Quantity": 28,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-26",
+        "ReceivedDate": "2026-03-01",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5050,
+    "ProductID": 50,
+    "Quantity": 62,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-01T13:30:00",
+    "Batches": [
+      {
+        "BatchID": 9501,
+        "BatchCode": "BK26-P050-B1",
+        "Quantity": 31,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9502,
+        "BatchCode": "BK26-P050-B2",
+        "Quantity": 32,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-02",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5051,
+    "ProductID": 51,
+    "Quantity": 69,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-02T14:33:00",
+    "Batches": [
+      {
+        "BatchID": 9511,
+        "BatchCode": "BK26-P051-B1",
+        "Quantity": 23,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-25",
+        "ReceivedDate": "2026-04-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9512,
+        "BatchCode": "BK26-P051-B2",
+        "Quantity": 24,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-04",
+        "ReceivedDate": "2026-05-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9513,
+        "BatchCode": "BK26-P051-B3",
+        "Quantity": 25,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-09",
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5052,
+    "ProductID": 52,
+    "Quantity": 76,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-03T15:36:00",
+    "Batches": [
+      {
+        "BatchID": 9521,
+        "BatchCode": "BK26-P052-B1",
+        "Quantity": 38,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-01",
+        "ReceivedDate": "2026-05-01",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9522,
+        "BatchCode": "BK26-P052-B2",
+        "Quantity": 39,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-06",
+        "ReceivedDate": "2026-06-04",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5053,
+    "ProductID": 53,
+    "Quantity": 83,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-04T16:39:00",
+    "Batches": [
+      {
+        "BatchID": 9531,
+        "BatchCode": "BK26-P053-B1",
+        "Quantity": 41,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-03",
+        "ReceivedDate": "2026-06-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9532,
+        "BatchCode": "BK26-P053-B2",
+        "Quantity": 42,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-08",
+        "ReceivedDate": "2026-01-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5054,
+    "ProductID": 54,
+    "Quantity": 90,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-05T08:42:00",
+    "Batches": [
+      {
+        "BatchID": 9541,
+        "BatchCode": "BK26-P054-B1",
+        "Quantity": 30,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-05",
+        "ReceivedDate": "2026-01-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9542,
+        "BatchCode": "BK26-P054-B2",
+        "Quantity": 31,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-10",
+        "ReceivedDate": "2026-02-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9543,
+        "BatchCode": "BK26-P054-B3",
+        "Quantity": 32,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-15",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5055,
+    "ProductID": 55,
+    "Quantity": 1,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-01T09:45:00",
+    "Batches": [
+      {
+        "BatchID": 9551,
+        "BatchCode": "BK26-P055-B1",
+        "Quantity": 1,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9552,
+        "BatchCode": "BK26-P055-B2",
+        "Quantity": 1,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-07",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5056,
+    "ProductID": 56,
+    "Quantity": 8,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-02T10:48:00",
+    "Batches": [
+      {
+        "BatchID": 9561,
+        "BatchCode": "BK26-P056-B1",
+        "Quantity": 4,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-09",
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9562,
+        "BatchCode": "BK26-P056-B2",
+        "Quantity": 5,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-14",
+        "ReceivedDate": "2026-04-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5057,
+    "ProductID": 57,
+    "Quantity": 15,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-03T11:51:00",
+    "Batches": [
+      {
+        "BatchID": 9571,
+        "BatchCode": "BK26-P057-B1",
+        "Quantity": 5,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-11",
+        "ReceivedDate": "2026-04-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9572,
+        "BatchCode": "BK26-P057-B2",
+        "Quantity": 6,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-16",
+        "ReceivedDate": "2026-05-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9573,
+        "BatchCode": "BK26-P057-B3",
+        "Quantity": 7,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-21",
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5058,
+    "ProductID": 58,
+    "Quantity": 22,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-04T12:54:00",
+    "Batches": [
+      {
+        "BatchID": 9581,
+        "BatchCode": "BK26-P058-B1",
+        "Quantity": 11,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-13",
+        "ReceivedDate": "2026-05-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9582,
+        "BatchCode": "BK26-P058-B2",
+        "Quantity": 12,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-18",
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5059,
+    "ProductID": 59,
+    "Quantity": 29,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-05T13:57:00",
+    "Batches": [
+      {
+        "BatchID": 9591,
+        "BatchCode": "BK26-P059-B1",
+        "Quantity": 14,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-15",
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9592,
+        "BatchCode": "BK26-P059-B2",
+        "Quantity": 15,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-20",
+        "ReceivedDate": "2026-01-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5060,
+    "ProductID": 60,
+    "Quantity": 36,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-01T14:00:00",
+    "Batches": [
+      {
+        "BatchID": 9601,
+        "BatchCode": "BK26-P060-B1",
+        "Quantity": 12,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9602,
+        "BatchCode": "BK26-P060-B2",
+        "Quantity": 13,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9603,
+        "BatchCode": "BK26-P060-B3",
+        "Quantity": 14,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5061,
+    "ProductID": 61,
+    "Quantity": 43,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-02T15:03:00",
+    "Batches": [
+      {
+        "BatchID": 9611,
+        "BatchCode": "BK26-P061-B1",
+        "Quantity": 21,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-19",
+        "ReceivedDate": "2026-02-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9612,
+        "BatchCode": "BK26-P061-B2",
+        "Quantity": 22,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-24",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5062,
+    "ProductID": 62,
+    "Quantity": 50,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-03T16:06:00",
+    "Batches": [
+      {
+        "BatchID": 9621,
+        "BatchCode": "BK26-P062-B1",
+        "Quantity": 25,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-21",
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9622,
+        "BatchCode": "BK26-P062-B2",
+        "Quantity": 26,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-26",
+        "ReceivedDate": "2026-04-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5063,
+    "ProductID": 63,
+    "Quantity": 57,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-04T08:09:00",
+    "Batches": [
+      {
+        "BatchID": 9631,
+        "BatchCode": "BK26-P063-B1",
+        "Quantity": 19,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-23",
+        "ReceivedDate": "2026-04-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9632,
+        "BatchCode": "BK26-P063-B2",
+        "Quantity": 20,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-02",
+        "ReceivedDate": "2026-05-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9633,
+        "BatchCode": "BK26-P063-B3",
+        "Quantity": 21,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-07",
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5064,
+    "ProductID": 64,
+    "Quantity": 64,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-05T09:12:00",
+    "Batches": [
+      {
+        "BatchID": 9641,
+        "BatchCode": "BK26-P064-B1",
+        "Quantity": 32,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-25",
+        "ReceivedDate": "2026-05-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9642,
+        "BatchCode": "BK26-P064-B2",
+        "Quantity": 33,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-04",
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5065,
+    "ProductID": 65,
+    "Quantity": 71,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-01T10:15:00",
+    "Batches": [
+      {
+        "BatchID": 9651,
+        "BatchCode": "BK26-P065-B1",
+        "Quantity": 35,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9652,
+        "BatchCode": "BK26-P065-B2",
+        "Quantity": 36,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5066,
+    "ProductID": 66,
+    "Quantity": 78,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-02T11:18:00",
+    "Batches": [
+      {
+        "BatchID": 9661,
+        "BatchCode": "BK26-P066-B1",
+        "Quantity": 26,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-03",
+        "ReceivedDate": "2026-01-15",
+        "BatchStatus": "Expired"
+      },
+      {
+        "BatchID": 9662,
+        "BatchCode": "BK26-P066-B2",
+        "Quantity": 27,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-08",
+        "ReceivedDate": "2026-02-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9663,
+        "BatchCode": "BK26-P066-B3",
+        "Quantity": 28,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-13",
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5067,
+    "ProductID": 67,
+    "Quantity": 85,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-03T12:21:00",
+    "Batches": [
+      {
+        "BatchID": 9671,
+        "BatchCode": "BK26-P067-B1",
+        "Quantity": 42,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-05",
+        "ReceivedDate": "2026-02-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9672,
+        "BatchCode": "BK26-P067-B2",
+        "Quantity": 43,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-10",
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5068,
+    "ProductID": 68,
+    "Quantity": 92,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-04T13:24:00",
+    "Batches": [
+      {
+        "BatchID": 9681,
+        "BatchCode": "BK26-P068-B1",
+        "Quantity": 46,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-07",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9682,
+        "BatchCode": "BK26-P068-B2",
+        "Quantity": 47,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-12",
+        "ReceivedDate": "2026-04-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5069,
+    "ProductID": 69,
+    "Quantity": 3,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-05T14:27:00",
+    "Batches": [
+      {
+        "BatchID": 9691,
+        "BatchCode": "BK26-P069-B1",
+        "Quantity": 1,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-09",
+        "ReceivedDate": "2026-04-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9692,
+        "BatchCode": "BK26-P069-B2",
+        "Quantity": 2,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-14",
+        "ReceivedDate": "2026-05-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9693,
+        "BatchCode": "BK26-P069-B3",
+        "Quantity": 3,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-19",
+        "ReceivedDate": "2026-06-24",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5070,
+    "ProductID": 70,
+    "Quantity": 10,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-01T15:30:00",
+    "Batches": [
+      {
+        "BatchID": 9701,
+        "BatchCode": "BK26-P070-B1",
+        "Quantity": 5,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9702,
+        "BatchCode": "BK26-P070-B2",
+        "Quantity": 6,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5071,
+    "ProductID": 71,
+    "Quantity": 17,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-02T16:33:00",
+    "Batches": [
+      {
+        "BatchID": 9711,
+        "BatchCode": "BK26-P071-B1",
+        "Quantity": 8,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-13",
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9712,
+        "BatchCode": "BK26-P071-B2",
+        "Quantity": 9,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-18",
+        "ReceivedDate": "2026-01-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5072,
+    "ProductID": 72,
+    "Quantity": 24,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-03T08:36:00",
+    "Batches": [
+      {
+        "BatchID": 9721,
+        "BatchCode": "BK26-P072-B1",
+        "Quantity": 8,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-15",
+        "ReceivedDate": "2026-01-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9722,
+        "BatchCode": "BK26-P072-B2",
+        "Quantity": 9,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-20",
+        "ReceivedDate": "2026-02-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9723,
+        "BatchCode": "BK26-P072-B3",
+        "Quantity": 10,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-25",
+        "ReceivedDate": "2026-03-01",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5073,
+    "ProductID": 73,
+    "Quantity": 31,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-04T09:39:00",
+    "Batches": [
+      {
+        "BatchID": 9731,
+        "BatchCode": "BK26-P073-B1",
+        "Quantity": 15,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-17",
+        "ReceivedDate": "2026-02-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9732,
+        "BatchCode": "BK26-P073-B2",
+        "Quantity": 16,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-22",
+        "ReceivedDate": "2026-03-25",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5074,
+    "ProductID": 74,
+    "Quantity": 38,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-05T10:42:00",
+    "Batches": [
+      {
+        "BatchID": 9741,
+        "BatchCode": "BK26-P074-B1",
+        "Quantity": 19,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-19",
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9742,
+        "BatchCode": "BK26-P074-B2",
+        "Quantity": 20,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-24",
+        "ReceivedDate": "2026-04-26",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5075,
+    "ProductID": 75,
+    "Quantity": 45,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-01T11:45:00",
+    "Batches": [
+      {
+        "BatchID": 9751,
+        "BatchCode": "BK26-P075-B1",
+        "Quantity": 15,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9752,
+        "BatchCode": "BK26-P075-B2",
+        "Quantity": 16,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-01",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9753,
+        "BatchCode": "BK26-P075-B3",
+        "Quantity": 17,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-04",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5076,
+    "ProductID": 76,
+    "Quantity": 52,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-02T12:48:00",
+    "Batches": [
+      {
+        "BatchID": 9761,
+        "BatchCode": "BK26-P076-B1",
+        "Quantity": 26,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-23",
+        "ReceivedDate": "2026-05-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9762,
+        "BatchCode": "BK26-P076-B2",
+        "Quantity": 27,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-02",
+        "ReceivedDate": "2026-06-02",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5077,
+    "ProductID": 77,
+    "Quantity": 59,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-03T13:51:00",
+    "Batches": [
+      {
+        "BatchID": 9771,
+        "BatchCode": "BK26-P077-B1",
+        "Quantity": 29,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-25",
+        "ReceivedDate": "2026-06-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9772,
+        "BatchCode": "BK26-P077-B2",
+        "Quantity": 30,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-04",
+        "ReceivedDate": "2026-01-03",
+        "BatchStatus": "Expired"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5078,
+    "ProductID": 78,
+    "Quantity": 66,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-04T14:54:00",
+    "Batches": [
+      {
+        "BatchID": 9781,
+        "BatchCode": "BK26-P078-B1",
+        "Quantity": 22,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-01",
+        "ReceivedDate": "2026-01-01",
+        "BatchStatus": "Expired"
+      },
+      {
+        "BatchID": 9782,
+        "BatchCode": "BK26-P078-B2",
+        "Quantity": 23,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-06",
+        "ReceivedDate": "2026-02-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9783,
+        "BatchCode": "BK26-P078-B3",
+        "Quantity": 24,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-11",
+        "ReceivedDate": "2026-03-07",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5079,
+    "ProductID": 79,
+    "Quantity": 73,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-05T15:57:00",
+    "Batches": [
+      {
+        "BatchID": 9791,
+        "BatchCode": "BK26-P079-B1",
+        "Quantity": 36,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-03",
+        "ReceivedDate": "2026-02-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9792,
+        "BatchCode": "BK26-P079-B2",
+        "Quantity": 37,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-08",
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5080,
+    "ProductID": 80,
+    "Quantity": 80,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-01T16:00:00",
+    "Batches": [
+      {
+        "BatchID": 9801,
+        "BatchCode": "BK26-P080-B1",
+        "Quantity": 40,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9802,
+        "BatchCode": "BK26-P080-B2",
+        "Quantity": 41,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5081,
+    "ProductID": 81,
+    "Quantity": 87,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-02T08:03:00",
+    "Batches": [
+      {
+        "BatchID": 9811,
+        "BatchCode": "BK26-P081-B1",
+        "Quantity": 29,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-07",
+        "ReceivedDate": "2026-04-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9812,
+        "BatchCode": "BK26-P081-B2",
+        "Quantity": 30,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-12",
+        "ReceivedDate": "2026-05-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9813,
+        "BatchCode": "BK26-P081-B3",
+        "Quantity": 31,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-17",
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5082,
+    "ProductID": 82,
+    "Quantity": 94,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-03T09:06:00",
+    "Batches": [
+      {
+        "BatchID": 9821,
+        "BatchCode": "BK26-P082-B1",
+        "Quantity": 47,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-09",
+        "ReceivedDate": "2026-05-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9822,
+        "BatchCode": "BK26-P082-B2",
+        "Quantity": 48,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-14",
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5083,
+    "ProductID": 83,
+    "Quantity": 5,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-04T10:09:00",
+    "Batches": [
+      {
+        "BatchID": 9831,
+        "BatchCode": "BK26-P083-B1",
+        "Quantity": 2,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-11",
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9832,
+        "BatchCode": "BK26-P083-B2",
+        "Quantity": 3,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-16",
+        "ReceivedDate": "2026-01-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5084,
+    "ProductID": 84,
+    "Quantity": 12,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-05T11:12:00",
+    "Batches": [
+      {
+        "BatchID": 9841,
+        "BatchCode": "BK26-P084-B1",
+        "Quantity": 4,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-13",
+        "ReceivedDate": "2026-01-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9842,
+        "BatchCode": "BK26-P084-B2",
+        "Quantity": 5,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-18",
+        "ReceivedDate": "2026-02-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9843,
+        "BatchCode": "BK26-P084-B3",
+        "Quantity": 6,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-23",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5085,
+    "ProductID": 85,
+    "Quantity": 19,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-01T12:15:00",
+    "Batches": [
+      {
+        "BatchID": 9851,
+        "BatchCode": "BK26-P085-B1",
+        "Quantity": 9,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9852,
+        "BatchCode": "BK26-P085-B2",
+        "Quantity": 10,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5086,
+    "ProductID": 86,
+    "Quantity": 26,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-02T13:18:00",
+    "Batches": [
+      {
+        "BatchID": 9861,
+        "BatchCode": "BK26-P086-B1",
+        "Quantity": 13,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-17",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9862,
+        "BatchCode": "BK26-P086-B2",
+        "Quantity": 14,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-22",
+        "ReceivedDate": "2026-04-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5087,
+    "ProductID": 87,
+    "Quantity": 33,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-03T14:21:00",
+    "Batches": [
+      {
+        "BatchID": 9871,
+        "BatchCode": "BK26-P087-B1",
+        "Quantity": 11,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-19",
+        "ReceivedDate": "2026-04-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9872,
+        "BatchCode": "BK26-P087-B2",
+        "Quantity": 12,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-24",
+        "ReceivedDate": "2026-05-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9873,
+        "BatchCode": "BK26-P087-B3",
+        "Quantity": 13,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-03",
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5088,
+    "ProductID": 88,
+    "Quantity": 40,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-04T15:24:00",
+    "Batches": [
+      {
+        "BatchID": 9881,
+        "BatchCode": "BK26-P088-B1",
+        "Quantity": 20,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-21",
+        "ReceivedDate": "2026-05-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9882,
+        "BatchCode": "BK26-P088-B2",
+        "Quantity": 21,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-26",
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5089,
+    "ProductID": 89,
+    "Quantity": 47,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-05T16:27:00",
+    "Batches": [
+      {
+        "BatchID": 9891,
+        "BatchCode": "BK26-P089-B1",
+        "Quantity": 23,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-23",
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9892,
+        "BatchCode": "BK26-P089-B2",
+        "Quantity": 24,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-02",
+        "ReceivedDate": "2026-01-15",
+        "BatchStatus": "Expired"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5090,
+    "ProductID": 90,
+    "Quantity": 54,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-01T08:30:00",
+    "Batches": [
+      {
+        "BatchID": 9901,
+        "BatchCode": "BK26-P090-B1",
+        "Quantity": 18,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9902,
+        "BatchCode": "BK26-P090-B2",
+        "Quantity": 19,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9903,
+        "BatchCode": "BK26-P090-B3",
+        "Quantity": 20,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5091,
+    "ProductID": 91,
+    "Quantity": 61,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-02T09:33:00",
+    "Batches": [
+      {
+        "BatchID": 9911,
+        "BatchCode": "BK26-P091-B1",
+        "Quantity": 30,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-01",
+        "ReceivedDate": "2026-02-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9912,
+        "BatchCode": "BK26-P091-B2",
+        "Quantity": 31,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-06",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5092,
+    "ProductID": 92,
+    "Quantity": 68,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-03T10:36:00",
+    "Batches": [
+      {
+        "BatchID": 9921,
+        "BatchCode": "BK26-P092-B1",
+        "Quantity": 34,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-03",
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9922,
+        "BatchCode": "BK26-P092-B2",
+        "Quantity": 35,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-08",
+        "ReceivedDate": "2026-04-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5093,
+    "ProductID": 93,
+    "Quantity": 75,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-04T11:39:00",
+    "Batches": [
+      {
+        "BatchID": 9931,
+        "BatchCode": "BK26-P093-B1",
+        "Quantity": 25,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-05",
+        "ReceivedDate": "2026-04-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9932,
+        "BatchCode": "BK26-P093-B2",
+        "Quantity": 26,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-10",
+        "ReceivedDate": "2026-05-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9933,
+        "BatchCode": "BK26-P093-B3",
+        "Quantity": 27,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-15",
+        "ReceivedDate": "2026-06-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5094,
+    "ProductID": 94,
+    "Quantity": 82,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-05T12:42:00",
+    "Batches": [
+      {
+        "BatchID": 9941,
+        "BatchCode": "BK26-P094-B1",
+        "Quantity": 41,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-07",
+        "ReceivedDate": "2026-05-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9942,
+        "BatchCode": "BK26-P094-B2",
+        "Quantity": 42,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-12",
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5095,
+    "ProductID": 95,
+    "Quantity": 89,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-01T13:45:00",
+    "Batches": [
+      {
+        "BatchID": 9951,
+        "BatchCode": "BK26-P095-B1",
+        "Quantity": 44,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9952,
+        "BatchCode": "BK26-P095-B2",
+        "Quantity": 45,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5096,
+    "ProductID": 96,
+    "Quantity": 0,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-02T14:48:00",
+    "Batches": [
+      {
+        "BatchID": 9961,
+        "BatchCode": "BK26-P096-B1",
+        "Quantity": 1,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-11",
+        "ReceivedDate": "2026-01-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9962,
+        "BatchCode": "BK26-P096-B2",
+        "Quantity": 1,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-16",
+        "ReceivedDate": "2026-02-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9963,
+        "BatchCode": "BK26-P096-B3",
+        "Quantity": 2,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-21",
+        "ReceivedDate": "2026-03-25",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5097,
+    "ProductID": 97,
+    "Quantity": 7,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-03T15:51:00",
+    "Batches": [
+      {
+        "BatchID": 9971,
+        "BatchCode": "BK26-P097-B1",
+        "Quantity": 3,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-13",
+        "ReceivedDate": "2026-02-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9972,
+        "BatchCode": "BK26-P097-B2",
+        "Quantity": 4,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-18",
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5098,
+    "ProductID": 98,
+    "Quantity": 14,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-04T16:54:00",
+    "Batches": [
+      {
+        "BatchID": 9981,
+        "BatchCode": "BK26-P098-B1",
+        "Quantity": 7,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-15",
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9982,
+        "BatchCode": "BK26-P098-B2",
+        "Quantity": 8,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-20",
+        "ReceivedDate": "2026-04-24",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5099,
+    "ProductID": 99,
+    "Quantity": 21,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-05T08:57:00",
+    "Batches": [
+      {
+        "BatchID": 9991,
+        "BatchCode": "BK26-P099-B1",
+        "Quantity": 7,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-17",
+        "ReceivedDate": "2026-04-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9992,
+        "BatchCode": "BK26-P099-B2",
+        "Quantity": 8,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-22",
+        "ReceivedDate": "2026-05-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 9993,
+        "BatchCode": "BK26-P099-B3",
+        "Quantity": 9,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-01",
+        "ReceivedDate": "2026-06-02",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5100,
+    "ProductID": 100,
+    "Quantity": 28,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-01T09:00:00",
+    "Batches": [
+      {
+        "BatchID": 10001,
+        "BatchCode": "BK26-P100-B1",
+        "Quantity": 14,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10002,
+        "BatchCode": "BK26-P100-B2",
+        "Quantity": 15,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-26",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5101,
+    "ProductID": 101,
+    "Quantity": 35,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-02T10:03:00",
+    "Batches": [
+      {
+        "BatchID": 10011,
+        "BatchCode": "BK26-P101-B1",
+        "Quantity": 17,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-21",
+        "ReceivedDate": "2026-06-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10012,
+        "BatchCode": "BK26-P101-B2",
+        "Quantity": 18,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-26",
+        "ReceivedDate": "2026-01-01",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5102,
+    "ProductID": 102,
+    "Quantity": 42,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-03T11:06:00",
+    "Batches": [
+      {
+        "BatchID": 10021,
+        "BatchCode": "BK26-P102-B1",
+        "Quantity": 14,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-23",
+        "ReceivedDate": "2026-01-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10022,
+        "BatchCode": "BK26-P102-B2",
+        "Quantity": 15,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-02",
+        "ReceivedDate": "2026-02-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10023,
+        "BatchCode": "BK26-P102-B3",
+        "Quantity": 16,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-07",
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5103,
+    "ProductID": 103,
+    "Quantity": 49,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-04T12:09:00",
+    "Batches": [
+      {
+        "BatchID": 10031,
+        "BatchCode": "BK26-P103-B1",
+        "Quantity": 24,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-25",
+        "ReceivedDate": "2026-02-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10032,
+        "BatchCode": "BK26-P103-B2",
+        "Quantity": 25,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-04",
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5104,
+    "ProductID": 104,
+    "Quantity": 56,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-05T13:12:00",
+    "Batches": [
+      {
+        "BatchID": 10041,
+        "BatchCode": "BK26-P104-B1",
+        "Quantity": 28,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-01",
+        "ReceivedDate": "2026-03-01",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10042,
+        "BatchCode": "BK26-P104-B2",
+        "Quantity": 29,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-06",
+        "ReceivedDate": "2026-04-04",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5105,
+    "ProductID": 105,
+    "Quantity": 63,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-01T14:15:00",
+    "Batches": [
+      {
+        "BatchID": 10051,
+        "BatchCode": "BK26-P105-B1",
+        "Quantity": 21,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10052,
+        "BatchCode": "BK26-P105-B2",
+        "Quantity": 22,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10053,
+        "BatchCode": "BK26-P105-B3",
+        "Quantity": 23,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5106,
+    "ProductID": 106,
+    "Quantity": 70,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-02T15:18:00",
+    "Batches": [
+      {
+        "BatchID": 10061,
+        "BatchCode": "BK26-P106-B1",
+        "Quantity": 35,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-05",
+        "ReceivedDate": "2026-05-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10062,
+        "BatchCode": "BK26-P106-B2",
+        "Quantity": 36,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-10",
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5107,
+    "ProductID": 107,
+    "Quantity": 77,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-03T16:21:00",
+    "Batches": [
+      {
+        "BatchID": 10071,
+        "BatchCode": "BK26-P107-B1",
+        "Quantity": 38,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-07",
+        "ReceivedDate": "2026-06-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10072,
+        "BatchCode": "BK26-P107-B2",
+        "Quantity": 39,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-12",
+        "ReceivedDate": "2026-01-07",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5108,
+    "ProductID": 108,
+    "Quantity": 84,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-04T08:24:00",
+    "Batches": [
+      {
+        "BatchID": 10081,
+        "BatchCode": "BK26-P108-B1",
+        "Quantity": 28,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-09",
+        "ReceivedDate": "2026-01-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10082,
+        "BatchCode": "BK26-P108-B2",
+        "Quantity": 29,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-14",
+        "ReceivedDate": "2026-02-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10083,
+        "BatchCode": "BK26-P108-B3",
+        "Quantity": 30,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-19",
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5109,
+    "ProductID": 109,
+    "Quantity": 91,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-05T09:27:00",
+    "Batches": [
+      {
+        "BatchID": 10091,
+        "BatchCode": "BK26-P109-B1",
+        "Quantity": 45,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-11",
+        "ReceivedDate": "2026-02-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10092,
+        "BatchCode": "BK26-P109-B2",
+        "Quantity": 46,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-16",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5110,
+    "ProductID": 110,
+    "Quantity": 2,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-01T10:30:00",
+    "Batches": [
+      {
+        "BatchID": 10101,
+        "BatchCode": "BK26-P110-B1",
+        "Quantity": 1,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10102,
+        "BatchCode": "BK26-P110-B2",
+        "Quantity": 2,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5111,
+    "ProductID": 111,
+    "Quantity": 9,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-02T11:33:00",
+    "Batches": [
+      {
+        "BatchID": 10111,
+        "BatchCode": "BK26-P111-B1",
+        "Quantity": 3,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-15",
+        "ReceivedDate": "2026-04-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10112,
+        "BatchCode": "BK26-P111-B2",
+        "Quantity": 4,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-20",
+        "ReceivedDate": "2026-05-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10113,
+        "BatchCode": "BK26-P111-B3",
+        "Quantity": 5,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-25",
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5112,
+    "ProductID": 112,
+    "Quantity": 16,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-03T12:36:00",
+    "Batches": [
+      {
+        "BatchID": 10121,
+        "BatchCode": "BK26-P112-B1",
+        "Quantity": 8,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-17",
+        "ReceivedDate": "2026-05-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10122,
+        "BatchCode": "BK26-P112-B2",
+        "Quantity": 9,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-22",
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5113,
+    "ProductID": 113,
+    "Quantity": 23,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-04T13:39:00",
+    "Batches": [
+      {
+        "BatchID": 10131,
+        "BatchCode": "BK26-P113-B1",
+        "Quantity": 11,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-19",
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10132,
+        "BatchCode": "BK26-P113-B2",
+        "Quantity": 12,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-24",
+        "ReceivedDate": "2026-01-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5114,
+    "ProductID": 114,
+    "Quantity": 30,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-05T14:42:00",
+    "Batches": [
+      {
+        "BatchID": 10141,
+        "BatchCode": "BK26-P114-B1",
+        "Quantity": 10,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-21",
+        "ReceivedDate": "2026-01-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10142,
+        "BatchCode": "BK26-P114-B2",
+        "Quantity": 11,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-26",
+        "ReceivedDate": "2026-02-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10143,
+        "BatchCode": "BK26-P114-B3",
+        "Quantity": 12,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-05",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5115,
+    "ProductID": 115,
+    "Quantity": 37,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-01T15:45:00",
+    "Batches": [
+      {
+        "BatchID": 10151,
+        "BatchCode": "BK26-P115-B1",
+        "Quantity": 18,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10152,
+        "BatchCode": "BK26-P115-B2",
+        "Quantity": 19,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5116,
+    "ProductID": 116,
+    "Quantity": 44,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-02T16:48:00",
+    "Batches": [
+      {
+        "BatchID": 10161,
+        "BatchCode": "BK26-P116-B1",
+        "Quantity": 22,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-25",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10162,
+        "BatchCode": "BK26-P116-B2",
+        "Quantity": 23,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-04",
+        "ReceivedDate": "2026-04-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5117,
+    "ProductID": 117,
+    "Quantity": 51,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-03T08:51:00",
+    "Batches": [
+      {
+        "BatchID": 10171,
+        "BatchCode": "BK26-P117-B1",
+        "Quantity": 17,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-01",
+        "ReceivedDate": "2026-04-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10172,
+        "BatchCode": "BK26-P117-B2",
+        "Quantity": 18,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-06",
+        "ReceivedDate": "2026-05-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10173,
+        "BatchCode": "BK26-P117-B3",
+        "Quantity": 19,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-11",
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5118,
+    "ProductID": 118,
+    "Quantity": 58,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-04T09:54:00",
+    "Batches": [
+      {
+        "BatchID": 10181,
+        "BatchCode": "BK26-P118-B1",
+        "Quantity": 29,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-03",
+        "ReceivedDate": "2026-05-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10182,
+        "BatchCode": "BK26-P118-B2",
+        "Quantity": 30,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-08",
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5119,
+    "ProductID": 119,
+    "Quantity": 65,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-05T10:57:00",
+    "Batches": [
+      {
+        "BatchID": 10191,
+        "BatchCode": "BK26-P119-B1",
+        "Quantity": 32,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-05",
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10192,
+        "BatchCode": "BK26-P119-B2",
+        "Quantity": 33,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-10",
+        "ReceivedDate": "2026-01-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5120,
+    "ProductID": 120,
+    "Quantity": 72,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-01T11:00:00",
+    "Batches": [
+      {
+        "BatchID": 10201,
+        "BatchCode": "BK26-P120-B1",
+        "Quantity": 24,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10202,
+        "BatchCode": "BK26-P120-B2",
+        "Quantity": 25,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10203,
+        "BatchCode": "BK26-P120-B3",
+        "Quantity": 26,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5121,
+    "ProductID": 121,
+    "Quantity": 79,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-02T12:03:00",
+    "Batches": [
+      {
+        "BatchID": 10211,
+        "BatchCode": "BK26-P121-B1",
+        "Quantity": 39,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-09",
+        "ReceivedDate": "2026-02-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10212,
+        "BatchCode": "BK26-P121-B2",
+        "Quantity": 40,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-14",
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5122,
+    "ProductID": 122,
+    "Quantity": 86,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-03T13:06:00",
+    "Batches": [
+      {
+        "BatchID": 10221,
+        "BatchCode": "BK26-P122-B1",
+        "Quantity": 43,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-11",
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10222,
+        "BatchCode": "BK26-P122-B2",
+        "Quantity": 44,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-16",
+        "ReceivedDate": "2026-04-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5123,
+    "ProductID": 123,
+    "Quantity": 93,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-04T14:09:00",
+    "Batches": [
+      {
+        "BatchID": 10231,
+        "BatchCode": "BK26-P123-B1",
+        "Quantity": 31,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-13",
+        "ReceivedDate": "2026-04-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10232,
+        "BatchCode": "BK26-P123-B2",
+        "Quantity": 32,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-18",
+        "ReceivedDate": "2026-05-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10233,
+        "BatchCode": "BK26-P123-B3",
+        "Quantity": 33,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-23",
+        "ReceivedDate": "2026-06-26",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5124,
+    "ProductID": 124,
+    "Quantity": 4,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-05T15:12:00",
+    "Batches": [
+      {
+        "BatchID": 10241,
+        "BatchCode": "BK26-P124-B1",
+        "Quantity": 2,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-15",
+        "ReceivedDate": "2026-05-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10242,
+        "BatchCode": "BK26-P124-B2",
+        "Quantity": 3,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-20",
+        "ReceivedDate": "2026-06-24",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5125,
+    "ProductID": 125,
+    "Quantity": 11,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-01T16:15:00",
+    "Batches": [
+      {
+        "BatchID": 10251,
+        "BatchCode": "BK26-P125-B1",
+        "Quantity": 5,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10252,
+        "BatchCode": "BK26-P125-B2",
+        "Quantity": 6,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-25",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5126,
+    "ProductID": 126,
+    "Quantity": 18,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-02T08:18:00",
+    "Batches": [
+      {
+        "BatchID": 10261,
+        "BatchCode": "BK26-P126-B1",
+        "Quantity": 6,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-19",
+        "ReceivedDate": "2026-01-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10262,
+        "BatchCode": "BK26-P126-B2",
+        "Quantity": 7,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-24",
+        "ReceivedDate": "2026-02-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10263,
+        "BatchCode": "BK26-P126-B3",
+        "Quantity": 8,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-03",
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5127,
+    "ProductID": 127,
+    "Quantity": 25,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-03T09:21:00",
+    "Batches": [
+      {
+        "BatchID": 10271,
+        "BatchCode": "BK26-P127-B1",
+        "Quantity": 12,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-21",
+        "ReceivedDate": "2026-02-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10272,
+        "BatchCode": "BK26-P127-B2",
+        "Quantity": 13,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-26",
+        "ReceivedDate": "2026-03-01",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5128,
+    "ProductID": 128,
+    "Quantity": 32,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-04T10:24:00",
+    "Batches": [
+      {
+        "BatchID": 10281,
+        "BatchCode": "BK26-P128-B1",
+        "Quantity": 16,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-23",
+        "ReceivedDate": "2026-03-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10282,
+        "BatchCode": "BK26-P128-B2",
+        "Quantity": 17,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-02",
+        "ReceivedDate": "2026-04-02",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5129,
+    "ProductID": 129,
+    "Quantity": 39,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-05T11:27:00",
+    "Batches": [
+      {
+        "BatchID": 10291,
+        "BatchCode": "BK26-P129-B1",
+        "Quantity": 13,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-25",
+        "ReceivedDate": "2026-04-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10292,
+        "BatchCode": "BK26-P129-B2",
+        "Quantity": 14,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-04",
+        "ReceivedDate": "2026-05-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10293,
+        "BatchCode": "BK26-P129-B3",
+        "Quantity": 15,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-09",
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5130,
+    "ProductID": 130,
+    "Quantity": 46,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-01T12:30:00",
+    "Batches": [
+      {
+        "BatchID": 10301,
+        "BatchCode": "BK26-P130-B1",
+        "Quantity": 23,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-01",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10302,
+        "BatchCode": "BK26-P130-B2",
+        "Quantity": 24,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-04",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5131,
+    "ProductID": 131,
+    "Quantity": 53,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-02T13:33:00",
+    "Batches": [
+      {
+        "BatchID": 10311,
+        "BatchCode": "BK26-P131-B1",
+        "Quantity": 26,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-03",
+        "ReceivedDate": "2026-06-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10312,
+        "BatchCode": "BK26-P131-B2",
+        "Quantity": 27,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-08",
+        "ReceivedDate": "2026-01-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5132,
+    "ProductID": 132,
+    "Quantity": 60,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-03T14:36:00",
+    "Batches": [
+      {
+        "BatchID": 10321,
+        "BatchCode": "BK26-P132-B1",
+        "Quantity": 20,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-05",
+        "ReceivedDate": "2026-01-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10322,
+        "BatchCode": "BK26-P132-B2",
+        "Quantity": 21,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-10",
+        "ReceivedDate": "2026-02-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10323,
+        "BatchCode": "BK26-P132-B3",
+        "Quantity": 22,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-15",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5133,
+    "ProductID": 133,
+    "Quantity": 67,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-04T15:39:00",
+    "Batches": [
+      {
+        "BatchID": 10331,
+        "BatchCode": "BK26-P133-B1",
+        "Quantity": 33,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-07",
+        "ReceivedDate": "2026-02-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10332,
+        "BatchCode": "BK26-P133-B2",
+        "Quantity": 34,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-12",
+        "ReceivedDate": "2026-03-07",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5134,
+    "ProductID": 134,
+    "Quantity": 74,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-05T16:42:00",
+    "Batches": [
+      {
+        "BatchID": 10341,
+        "BatchCode": "BK26-P134-B1",
+        "Quantity": 37,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-09",
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10342,
+        "BatchCode": "BK26-P134-B2",
+        "Quantity": 38,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-14",
+        "ReceivedDate": "2026-04-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5135,
+    "ProductID": 135,
+    "Quantity": 81,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-01T08:45:00",
+    "Batches": [
+      {
+        "BatchID": 10351,
+        "BatchCode": "BK26-P135-B1",
+        "Quantity": 27,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10352,
+        "BatchCode": "BK26-P135-B2",
+        "Quantity": 28,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10353,
+        "BatchCode": "BK26-P135-B3",
+        "Quantity": 29,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5136,
+    "ProductID": 136,
+    "Quantity": 88,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-02T09:48:00",
+    "Batches": [
+      {
+        "BatchID": 10361,
+        "BatchCode": "BK26-P136-B1",
+        "Quantity": 44,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-13",
+        "ReceivedDate": "2026-05-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10362,
+        "BatchCode": "BK26-P136-B2",
+        "Quantity": 45,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-18",
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5137,
+    "ProductID": 137,
+    "Quantity": 95,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-03T10:51:00",
+    "Batches": [
+      {
+        "BatchID": 10371,
+        "BatchCode": "BK26-P137-B1",
+        "Quantity": 47,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-15",
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10372,
+        "BatchCode": "BK26-P137-B2",
+        "Quantity": 48,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-20",
+        "ReceivedDate": "2026-01-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5138,
+    "ProductID": 138,
+    "Quantity": 6,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-04T11:54:00",
+    "Batches": [
+      {
+        "BatchID": 10381,
+        "BatchCode": "BK26-P138-B1",
+        "Quantity": 2,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-17",
+        "ReceivedDate": "2026-01-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10382,
+        "BatchCode": "BK26-P138-B2",
+        "Quantity": 3,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-22",
+        "ReceivedDate": "2026-02-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10383,
+        "BatchCode": "BK26-P138-B3",
+        "Quantity": 4,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-01",
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5139,
+    "ProductID": 139,
+    "Quantity": 13,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-05T12:57:00",
+    "Batches": [
+      {
+        "BatchID": 10391,
+        "BatchCode": "BK26-P139-B1",
+        "Quantity": 6,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-19",
+        "ReceivedDate": "2026-02-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10392,
+        "BatchCode": "BK26-P139-B2",
+        "Quantity": 7,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-24",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5140,
+    "ProductID": 140,
+    "Quantity": 20,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-01T13:00:00",
+    "Batches": [
+      {
+        "BatchID": 10401,
+        "BatchCode": "BK26-P140-B1",
+        "Quantity": 10,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10402,
+        "BatchCode": "BK26-P140-B2",
+        "Quantity": 11,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5141,
+    "ProductID": 141,
+    "Quantity": 27,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-02T14:03:00",
+    "Batches": [
+      {
+        "BatchID": 10411,
+        "BatchCode": "BK26-P141-B1",
+        "Quantity": 9,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-23",
+        "ReceivedDate": "2026-04-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10412,
+        "BatchCode": "BK26-P141-B2",
+        "Quantity": 10,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-02",
+        "ReceivedDate": "2026-05-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10413,
+        "BatchCode": "BK26-P141-B3",
+        "Quantity": 11,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-07",
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5142,
+    "ProductID": 142,
+    "Quantity": 34,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-03T15:06:00",
+    "Batches": [
+      {
+        "BatchID": 10421,
+        "BatchCode": "BK26-P142-B1",
+        "Quantity": 17,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-25",
+        "ReceivedDate": "2026-05-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10422,
+        "BatchCode": "BK26-P142-B2",
+        "Quantity": 18,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-04",
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5143,
+    "ProductID": 143,
+    "Quantity": 41,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-04T16:09:00",
+    "Batches": [
+      {
+        "BatchID": 10431,
+        "BatchCode": "BK26-P143-B1",
+        "Quantity": 20,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-01",
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10432,
+        "BatchCode": "BK26-P143-B2",
+        "Quantity": 21,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-06",
+        "ReceivedDate": "2026-01-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5144,
+    "ProductID": 144,
+    "Quantity": 48,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-05T08:12:00",
+    "Batches": [
+      {
+        "BatchID": 10441,
+        "BatchCode": "BK26-P144-B1",
+        "Quantity": 16,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-03",
+        "ReceivedDate": "2026-01-15",
+        "BatchStatus": "Expired"
+      },
+      {
+        "BatchID": 10442,
+        "BatchCode": "BK26-P144-B2",
+        "Quantity": 17,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-08",
+        "ReceivedDate": "2026-02-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10443,
+        "BatchCode": "BK26-P144-B3",
+        "Quantity": 18,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-13",
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5145,
+    "ProductID": 145,
+    "Quantity": 55,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-01T09:15:00",
+    "Batches": [
+      {
+        "BatchID": 10451,
+        "BatchCode": "BK26-P145-B1",
+        "Quantity": 27,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10452,
+        "BatchCode": "BK26-P145-B2",
+        "Quantity": 28,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5146,
+    "ProductID": 146,
+    "Quantity": 62,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-02T10:18:00",
+    "Batches": [
+      {
+        "BatchID": 10461,
+        "BatchCode": "BK26-P146-B1",
+        "Quantity": 31,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-07",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10462,
+        "BatchCode": "BK26-P146-B2",
+        "Quantity": 32,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-12",
+        "ReceivedDate": "2026-04-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5147,
+    "ProductID": 147,
+    "Quantity": 69,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-03T11:21:00",
+    "Batches": [
+      {
+        "BatchID": 10471,
+        "BatchCode": "BK26-P147-B1",
+        "Quantity": 23,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-09",
+        "ReceivedDate": "2026-04-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10472,
+        "BatchCode": "BK26-P147-B2",
+        "Quantity": 24,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-14",
+        "ReceivedDate": "2026-05-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10473,
+        "BatchCode": "BK26-P147-B3",
+        "Quantity": 25,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-19",
+        "ReceivedDate": "2026-06-24",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5148,
+    "ProductID": 148,
+    "Quantity": 76,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-04T12:24:00",
+    "Batches": [
+      {
+        "BatchID": 10481,
+        "BatchCode": "BK26-P148-B1",
+        "Quantity": 38,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-11",
+        "ReceivedDate": "2026-05-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10482,
+        "BatchCode": "BK26-P148-B2",
+        "Quantity": 39,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-16",
+        "ReceivedDate": "2026-06-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5149,
+    "ProductID": 149,
+    "Quantity": 83,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-05T13:27:00",
+    "Batches": [
+      {
+        "BatchID": 10491,
+        "BatchCode": "BK26-P149-B1",
+        "Quantity": 41,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-13",
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10492,
+        "BatchCode": "BK26-P149-B2",
+        "Quantity": 42,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-18",
+        "ReceivedDate": "2026-01-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5150,
+    "ProductID": 150,
+    "Quantity": 90,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-01T14:30:00",
+    "Batches": [
+      {
+        "BatchID": 10501,
+        "BatchCode": "BK26-P150-B1",
+        "Quantity": 30,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10502,
+        "BatchCode": "BK26-P150-B2",
+        "Quantity": 31,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10503,
+        "BatchCode": "BK26-P150-B3",
+        "Quantity": 32,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-01",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5151,
+    "ProductID": 151,
+    "Quantity": 1,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-02T15:33:00",
+    "Batches": [
+      {
+        "BatchID": 10511,
+        "BatchCode": "BK26-P151-B1",
+        "Quantity": 1,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-17",
+        "ReceivedDate": "2026-02-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10512,
+        "BatchCode": "BK26-P151-B2",
+        "Quantity": 1,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-22",
+        "ReceivedDate": "2026-03-25",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5152,
+    "ProductID": 152,
+    "Quantity": 8,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-03T16:36:00",
+    "Batches": [
+      {
+        "BatchID": 10521,
+        "BatchCode": "BK26-P152-B1",
+        "Quantity": 4,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-19",
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10522,
+        "BatchCode": "BK26-P152-B2",
+        "Quantity": 5,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-24",
+        "ReceivedDate": "2026-04-26",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5153,
+    "ProductID": 153,
+    "Quantity": 15,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-04T08:39:00",
+    "Batches": [
+      {
+        "BatchID": 10531,
+        "BatchCode": "BK26-P153-B1",
+        "Quantity": 5,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-21",
+        "ReceivedDate": "2026-04-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10532,
+        "BatchCode": "BK26-P153-B2",
+        "Quantity": 6,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-26",
+        "ReceivedDate": "2026-05-01",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10533,
+        "BatchCode": "BK26-P153-B3",
+        "Quantity": 7,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-05",
+        "ReceivedDate": "2026-06-04",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5154,
+    "ProductID": 154,
+    "Quantity": 22,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-05T09:42:00",
+    "Batches": [
+      {
+        "BatchID": 10541,
+        "BatchCode": "BK26-P154-B1",
+        "Quantity": 11,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-23",
+        "ReceivedDate": "2026-05-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10542,
+        "BatchCode": "BK26-P154-B2",
+        "Quantity": 12,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-02",
+        "ReceivedDate": "2026-06-02",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5155,
+    "ProductID": 155,
+    "Quantity": 29,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-01T10:45:00",
+    "Batches": [
+      {
+        "BatchID": 10551,
+        "BatchCode": "BK26-P155-B1",
+        "Quantity": 14,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10552,
+        "BatchCode": "BK26-P155-B2",
+        "Quantity": 15,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-03",
+        "BatchStatus": "Expired"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5156,
+    "ProductID": 156,
+    "Quantity": 36,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-02T11:48:00",
+    "Batches": [
+      {
+        "BatchID": 10561,
+        "BatchCode": "BK26-P156-B1",
+        "Quantity": 12,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-01",
+        "ReceivedDate": "2026-01-01",
+        "BatchStatus": "Expired"
+      },
+      {
+        "BatchID": 10562,
+        "BatchCode": "BK26-P156-B2",
+        "Quantity": 13,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-06",
+        "ReceivedDate": "2026-02-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10563,
+        "BatchCode": "BK26-P156-B3",
+        "Quantity": 14,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-11",
+        "ReceivedDate": "2026-03-07",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5157,
+    "ProductID": 157,
+    "Quantity": 43,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-03T12:51:00",
+    "Batches": [
+      {
+        "BatchID": 10571,
+        "BatchCode": "BK26-P157-B1",
+        "Quantity": 21,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-03",
+        "ReceivedDate": "2026-02-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10572,
+        "BatchCode": "BK26-P157-B2",
+        "Quantity": 22,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-08",
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5158,
+    "ProductID": 158,
+    "Quantity": 50,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-04T13:54:00",
+    "Batches": [
+      {
+        "BatchID": 10581,
+        "BatchCode": "BK26-P158-B1",
+        "Quantity": 25,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-05",
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10582,
+        "BatchCode": "BK26-P158-B2",
+        "Quantity": 26,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-10",
+        "ReceivedDate": "2026-04-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5159,
+    "ProductID": 159,
+    "Quantity": 57,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-05T14:57:00",
+    "Batches": [
+      {
+        "BatchID": 10591,
+        "BatchCode": "BK26-P159-B1",
+        "Quantity": 19,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-07",
+        "ReceivedDate": "2026-04-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10592,
+        "BatchCode": "BK26-P159-B2",
+        "Quantity": 20,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-12",
+        "ReceivedDate": "2026-05-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10593,
+        "BatchCode": "BK26-P159-B3",
+        "Quantity": 21,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-17",
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5160,
+    "ProductID": 160,
+    "Quantity": 64,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-01T15:00:00",
+    "Batches": [
+      {
+        "BatchID": 10601,
+        "BatchCode": "BK26-P160-B1",
+        "Quantity": 32,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10602,
+        "BatchCode": "BK26-P160-B2",
+        "Quantity": 33,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5161,
+    "ProductID": 161,
+    "Quantity": 71,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-02T16:03:00",
+    "Batches": [
+      {
+        "BatchID": 10611,
+        "BatchCode": "BK26-P161-B1",
+        "Quantity": 35,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-11",
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10612,
+        "BatchCode": "BK26-P161-B2",
+        "Quantity": 36,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-16",
+        "ReceivedDate": "2026-01-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5162,
+    "ProductID": 162,
+    "Quantity": 78,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-03T08:06:00",
+    "Batches": [
+      {
+        "BatchID": 10621,
+        "BatchCode": "BK26-P162-B1",
+        "Quantity": 26,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-13",
+        "ReceivedDate": "2026-01-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10622,
+        "BatchCode": "BK26-P162-B2",
+        "Quantity": 27,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-18",
+        "ReceivedDate": "2026-02-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10623,
+        "BatchCode": "BK26-P162-B3",
+        "Quantity": 28,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-23",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5163,
+    "ProductID": 163,
+    "Quantity": 85,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-04T09:09:00",
+    "Batches": [
+      {
+        "BatchID": 10631,
+        "BatchCode": "BK26-P163-B1",
+        "Quantity": 42,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-15",
+        "ReceivedDate": "2026-02-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10632,
+        "BatchCode": "BK26-P163-B2",
+        "Quantity": 43,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-20",
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5164,
+    "ProductID": 164,
+    "Quantity": 92,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-05T10:12:00",
+    "Batches": [
+      {
+        "BatchID": 10641,
+        "BatchCode": "BK26-P164-B1",
+        "Quantity": 46,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-17",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10642,
+        "BatchCode": "BK26-P164-B2",
+        "Quantity": 47,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-22",
+        "ReceivedDate": "2026-04-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5165,
+    "ProductID": 165,
+    "Quantity": 3,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-01T11:15:00",
+    "Batches": [
+      {
+        "BatchID": 10651,
+        "BatchCode": "BK26-P165-B1",
+        "Quantity": 1,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10652,
+        "BatchCode": "BK26-P165-B2",
+        "Quantity": 2,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10653,
+        "BatchCode": "BK26-P165-B3",
+        "Quantity": 3,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5166,
+    "ProductID": 166,
+    "Quantity": 10,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-02T12:18:00",
+    "Batches": [
+      {
+        "BatchID": 10661,
+        "BatchCode": "BK26-P166-B1",
+        "Quantity": 5,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-21",
+        "ReceivedDate": "2026-05-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10662,
+        "BatchCode": "BK26-P166-B2",
+        "Quantity": 6,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-26",
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5167,
+    "ProductID": 167,
+    "Quantity": 17,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-03T13:21:00",
+    "Batches": [
+      {
+        "BatchID": 10671,
+        "BatchCode": "BK26-P167-B1",
+        "Quantity": 8,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-23",
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10672,
+        "BatchCode": "BK26-P167-B2",
+        "Quantity": 9,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-02",
+        "ReceivedDate": "2026-01-15",
+        "BatchStatus": "Expired"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5168,
+    "ProductID": 168,
+    "Quantity": 24,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-04T14:24:00",
+    "Batches": [
+      {
+        "BatchID": 10681,
+        "BatchCode": "BK26-P168-B1",
+        "Quantity": 8,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-25",
+        "ReceivedDate": "2026-01-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10682,
+        "BatchCode": "BK26-P168-B2",
+        "Quantity": 9,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-04",
+        "ReceivedDate": "2026-02-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10683,
+        "BatchCode": "BK26-P168-B3",
+        "Quantity": 10,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-09",
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5169,
+    "ProductID": 169,
+    "Quantity": 31,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-05T15:27:00",
+    "Batches": [
+      {
+        "BatchID": 10691,
+        "BatchCode": "BK26-P169-B1",
+        "Quantity": 15,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-01",
+        "ReceivedDate": "2026-02-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10692,
+        "BatchCode": "BK26-P169-B2",
+        "Quantity": 16,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-06",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5170,
+    "ProductID": 170,
+    "Quantity": 38,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-01T16:30:00",
+    "Batches": [
+      {
+        "BatchID": 10701,
+        "BatchCode": "BK26-P170-B1",
+        "Quantity": 19,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10702,
+        "BatchCode": "BK26-P170-B2",
+        "Quantity": 20,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5171,
+    "ProductID": 171,
+    "Quantity": 45,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-02T08:33:00",
+    "Batches": [
+      {
+        "BatchID": 10711,
+        "BatchCode": "BK26-P171-B1",
+        "Quantity": 15,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-05",
+        "ReceivedDate": "2026-04-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10712,
+        "BatchCode": "BK26-P171-B2",
+        "Quantity": 16,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-10",
+        "ReceivedDate": "2026-05-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10713,
+        "BatchCode": "BK26-P171-B3",
+        "Quantity": 17,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-15",
+        "ReceivedDate": "2026-06-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5172,
+    "ProductID": 172,
+    "Quantity": 52,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-03T09:36:00",
+    "Batches": [
+      {
+        "BatchID": 10721,
+        "BatchCode": "BK26-P172-B1",
+        "Quantity": 26,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-07",
+        "ReceivedDate": "2026-05-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10722,
+        "BatchCode": "BK26-P172-B2",
+        "Quantity": 27,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-12",
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5173,
+    "ProductID": 173,
+    "Quantity": 59,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-04T10:39:00",
+    "Batches": [
+      {
+        "BatchID": 10731,
+        "BatchCode": "BK26-P173-B1",
+        "Quantity": 29,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-09",
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10732,
+        "BatchCode": "BK26-P173-B2",
+        "Quantity": 30,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-14",
+        "ReceivedDate": "2026-01-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5174,
+    "ProductID": 174,
+    "Quantity": 66,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-05T11:42:00",
+    "Batches": [
+      {
+        "BatchID": 10741,
+        "BatchCode": "BK26-P174-B1",
+        "Quantity": 22,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-11",
+        "ReceivedDate": "2026-01-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10742,
+        "BatchCode": "BK26-P174-B2",
+        "Quantity": 23,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-16",
+        "ReceivedDate": "2026-02-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10743,
+        "BatchCode": "BK26-P174-B3",
+        "Quantity": 24,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-21",
+        "ReceivedDate": "2026-03-25",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5175,
+    "ProductID": 175,
+    "Quantity": 73,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-01T12:45:00",
+    "Batches": [
+      {
+        "BatchID": 10751,
+        "BatchCode": "BK26-P175-B1",
+        "Quantity": 36,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10752,
+        "BatchCode": "BK26-P175-B2",
+        "Quantity": 37,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5176,
+    "ProductID": 176,
+    "Quantity": 80,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-02T13:48:00",
+    "Batches": [
+      {
+        "BatchID": 10761,
+        "BatchCode": "BK26-P176-B1",
+        "Quantity": 40,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-15",
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10762,
+        "BatchCode": "BK26-P176-B2",
+        "Quantity": 41,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-20",
+        "ReceivedDate": "2026-04-24",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5177,
+    "ProductID": 177,
+    "Quantity": 87,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-03T14:51:00",
+    "Batches": [
+      {
+        "BatchID": 10771,
+        "BatchCode": "BK26-P177-B1",
+        "Quantity": 29,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-10-17",
+        "ReceivedDate": "2026-04-22",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10772,
+        "BatchCode": "BK26-P177-B2",
+        "Quantity": 30,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-22",
+        "ReceivedDate": "2026-05-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10773,
+        "BatchCode": "BK26-P177-B3",
+        "Quantity": 31,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-01",
+        "ReceivedDate": "2026-06-02",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5178,
+    "ProductID": 178,
+    "Quantity": 94,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-04T15:54:00",
+    "Batches": [
+      {
+        "BatchID": 10781,
+        "BatchCode": "BK26-P178-B1",
+        "Quantity": 47,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-11-19",
+        "ReceivedDate": "2026-05-23",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10782,
+        "BatchCode": "BK26-P178-B2",
+        "Quantity": 48,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-24",
+        "ReceivedDate": "2026-06-26",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5179,
+    "ProductID": 179,
+    "Quantity": 5,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-05T16:57:00",
+    "Batches": [
+      {
+        "BatchID": 10791,
+        "BatchCode": "BK26-P179-B1",
+        "Quantity": 2,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-12-21",
+        "ReceivedDate": "2026-06-24",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10792,
+        "BatchCode": "BK26-P179-B2",
+        "Quantity": 3,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-07-26",
+        "ReceivedDate": "2026-01-01",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5180,
+    "ProductID": 180,
+    "Quantity": 12,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-01T08:00:00",
+    "Batches": [
+      {
+        "BatchID": 10801,
+        "BatchCode": "BK26-P180-B1",
+        "Quantity": 4,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-25",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10802,
+        "BatchCode": "BK26-P180-B2",
+        "Quantity": 5,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-02-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10803,
+        "BatchCode": "BK26-P180-B3",
+        "Quantity": 6,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-05",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5181,
+    "ProductID": 181,
+    "Quantity": 19,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-02T09:03:00",
+    "Batches": [
+      {
+        "BatchID": 10811,
+        "BatchCode": "BK26-P181-B1",
+        "Quantity": 9,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-08-25",
+        "ReceivedDate": "2026-02-26",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10812,
+        "BatchCode": "BK26-P181-B2",
+        "Quantity": 10,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-04",
+        "ReceivedDate": "2026-03-03",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5182,
+    "ProductID": 182,
+    "Quantity": 26,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-03T10:06:00",
+    "Batches": [
+      {
+        "BatchID": 10821,
+        "BatchCode": "BK26-P182-B1",
+        "Quantity": 13,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-09-01",
+        "ReceivedDate": "2026-03-01",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10822,
+        "BatchCode": "BK26-P182-B2",
+        "Quantity": 14,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-06",
+        "ReceivedDate": "2026-04-04",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5183,
+    "ProductID": 183,
+    "Quantity": 33,
+    "LowStockLevel": 15,
+    "UpdatedAt": "2026-07-04T11:09:00",
+    "Batches": [
+      {
+        "BatchID": 10831,
+        "BatchCode": "BK26-P183-B1",
+        "Quantity": 11,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-10-03",
+        "ReceivedDate": "2026-04-02",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10832,
+        "BatchCode": "BK26-P183-B2",
+        "Quantity": 12,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-08",
+        "ReceivedDate": "2026-05-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10833,
+        "BatchCode": "BK26-P183-B3",
+        "Quantity": 13,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-13",
+        "ReceivedDate": "2026-06-08",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5184,
+    "ProductID": 184,
+    "Quantity": 40,
+    "LowStockLevel": 16,
+    "UpdatedAt": "2026-07-05T12:12:00",
+    "Batches": [
+      {
+        "BatchID": 10841,
+        "BatchCode": "BK26-P184-B1",
+        "Quantity": 20,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-11-05",
+        "ReceivedDate": "2026-05-03",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10842,
+        "BatchCode": "BK26-P184-B2",
+        "Quantity": 21,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-12-10",
+        "ReceivedDate": "2026-06-06",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5185,
+    "ProductID": 185,
+    "Quantity": 47,
+    "LowStockLevel": 17,
+    "UpdatedAt": "2026-07-01T13:15:00",
+    "Batches": [
+      {
+        "BatchID": 10851,
+        "BatchCode": "BK26-P185-B1",
+        "Quantity": 23,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-04",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10852,
+        "BatchCode": "BK26-P185-B2",
+        "Quantity": 24,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-01-07",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5186,
+    "ProductID": 186,
+    "Quantity": 54,
+    "LowStockLevel": 18,
+    "UpdatedAt": "2026-07-02T14:18:00",
+    "Batches": [
+      {
+        "BatchID": 10861,
+        "BatchCode": "BK26-P186-B1",
+        "Quantity": 18,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-07-09",
+        "ReceivedDate": "2026-01-05",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10862,
+        "BatchCode": "BK26-P186-B2",
+        "Quantity": 19,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-14",
+        "ReceivedDate": "2026-02-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10863,
+        "BatchCode": "BK26-P186-B3",
+        "Quantity": 20,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-19",
+        "ReceivedDate": "2026-03-11",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5187,
+    "ProductID": 187,
+    "Quantity": 61,
+    "LowStockLevel": 19,
+    "UpdatedAt": "2026-07-03T15:21:00",
+    "Batches": [
+      {
+        "BatchID": 10871,
+        "BatchCode": "BK26-P187-B1",
+        "Quantity": 30,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-08-11",
+        "ReceivedDate": "2026-02-06",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10872,
+        "BatchCode": "BK26-P187-B2",
+        "Quantity": 31,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-16",
+        "ReceivedDate": "2026-03-09",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5188,
+    "ProductID": 188,
+    "Quantity": 68,
+    "LowStockLevel": 20,
+    "UpdatedAt": "2026-07-04T16:24:00",
+    "Batches": [
+      {
+        "BatchID": 10881,
+        "BatchCode": "BK26-P188-B1",
+        "Quantity": 34,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-09-13",
+        "ReceivedDate": "2026-03-07",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10882,
+        "BatchCode": "BK26-P188-B2",
+        "Quantity": 35,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-18",
+        "ReceivedDate": "2026-04-10",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5189,
+    "ProductID": 189,
+    "Quantity": 75,
+    "LowStockLevel": 21,
+    "UpdatedAt": "2026-07-05T08:27:00",
+    "Batches": [
+      {
+        "BatchID": 10891,
+        "BatchCode": "BK26-P189-B1",
+        "Quantity": 25,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-10-15",
+        "ReceivedDate": "2026-04-08",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10892,
+        "BatchCode": "BK26-P189-B2",
+        "Quantity": 26,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-11-20",
+        "ReceivedDate": "2026-05-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10893,
+        "BatchCode": "BK26-P189-B3",
+        "Quantity": 27,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-25",
+        "ReceivedDate": "2026-06-14",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5190,
+    "ProductID": 190,
+    "Quantity": 82,
+    "LowStockLevel": 22,
+    "UpdatedAt": "2026-07-01T09:30:00",
+    "Batches": [
+      {
+        "BatchID": 10901,
+        "BatchCode": "BK26-P190-B1",
+        "Quantity": 41,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-09",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10902,
+        "BatchCode": "BK26-P190-B2",
+        "Quantity": 42,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-12",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5191,
+    "ProductID": 191,
+    "Quantity": 89,
+    "LowStockLevel": 23,
+    "UpdatedAt": "2026-07-02T10:33:00",
+    "Batches": [
+      {
+        "BatchID": 10911,
+        "BatchCode": "BK26-P191-B1",
+        "Quantity": 44,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-12-19",
+        "ReceivedDate": "2026-06-10",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10912,
+        "BatchCode": "BK26-P191-B2",
+        "Quantity": 45,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-24",
+        "ReceivedDate": "2026-01-13",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5192,
+    "ProductID": 192,
+    "Quantity": 0,
+    "LowStockLevel": 24,
+    "UpdatedAt": "2026-07-03T11:36:00",
+    "Batches": [
+      {
+        "BatchID": 10921,
+        "BatchCode": "BK26-P192-B1",
+        "Quantity": 1,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-07-21",
+        "ReceivedDate": "2026-01-11",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10922,
+        "BatchCode": "BK26-P192-B2",
+        "Quantity": 1,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-26",
+        "ReceivedDate": "2026-02-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10923,
+        "BatchCode": "BK26-P192-B3",
+        "Quantity": 2,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-05",
+        "ReceivedDate": "2026-03-17",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5193,
+    "ProductID": 193,
+    "Quantity": 7,
+    "LowStockLevel": 25,
+    "UpdatedAt": "2026-07-04T12:39:00",
+    "Batches": [
+      {
+        "BatchID": 10931,
+        "BatchCode": "BK26-P193-B1",
+        "Quantity": 3,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": "2026-08-23",
+        "ReceivedDate": "2026-02-12",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10932,
+        "BatchCode": "BK26-P193-B2",
+        "Quantity": 4,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-02",
+        "ReceivedDate": "2026-03-15",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5194,
+    "ProductID": 194,
+    "Quantity": 14,
+    "LowStockLevel": 26,
+    "UpdatedAt": "2026-07-05T13:42:00",
+    "Batches": [
+      {
+        "BatchID": 10941,
+        "BatchCode": "BK26-P194-B1",
+        "Quantity": 7,
+        "Manufacturer": "Puratos",
+        "ExpiryDate": "2026-09-25",
+        "ReceivedDate": "2026-03-13",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10942,
+        "BatchCode": "BK26-P194-B2",
+        "Quantity": 8,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": "2026-10-04",
+        "ReceivedDate": "2026-04-16",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5195,
+    "ProductID": 195,
+    "Quantity": 21,
+    "LowStockLevel": 27,
+    "UpdatedAt": "2026-07-01T14:45:00",
+    "Batches": [
+      {
+        "BatchID": 10951,
+        "BatchCode": "BK26-P195-B1",
+        "Quantity": 7,
+        "Manufacturer": "Rich Products",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-14",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10952,
+        "BatchCode": "BK26-P195-B2",
+        "Quantity": 8,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-05-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10953,
+        "BatchCode": "BK26-P195-B3",
+        "Quantity": 9,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-06-20",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5196,
+    "ProductID": 196,
+    "Quantity": 28,
+    "LowStockLevel": 28,
+    "UpdatedAt": "2026-07-02T15:48:00",
+    "Batches": [
+      {
+        "BatchID": 10961,
+        "BatchCode": "BK26-P196-B1",
+        "Quantity": 14,
+        "Manufacturer": "Gia Dụng Việt Nhật",
+        "ExpiryDate": "2026-11-03",
+        "ReceivedDate": "2026-05-15",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10962,
+        "BatchCode": "BK26-P196-B2",
+        "Quantity": 15,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-08",
+        "ReceivedDate": "2026-06-18",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5197,
+    "ProductID": 197,
+    "Quantity": 35,
+    "LowStockLevel": 29,
+    "UpdatedAt": "2026-07-03T16:51:00",
+    "Batches": [
+      {
+        "BatchID": 10971,
+        "BatchCode": "BK26-P197-B1",
+        "Quantity": 17,
+        "Manufacturer": "BakeIt Central Kitchen",
+        "ExpiryDate": "2026-12-05",
+        "ReceivedDate": "2026-06-16",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10972,
+        "BatchCode": "BK26-P197-B2",
+        "Quantity": 18,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-10",
+        "ReceivedDate": "2026-01-19",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5198,
+    "ProductID": 198,
+    "Quantity": 42,
+    "LowStockLevel": 12,
+    "UpdatedAt": "2026-07-04T08:54:00",
+    "Batches": [
+      {
+        "BatchID": 10981,
+        "BatchCode": "BK26-P198-B1",
+        "Quantity": 14,
+        "Manufacturer": "Philips Domestic Appliances",
+        "ExpiryDate": "2026-07-07",
+        "ReceivedDate": "2026-01-17",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10982,
+        "BatchCode": "BK26-P198-B2",
+        "Quantity": 15,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-12",
+        "ReceivedDate": "2026-02-20",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10983,
+        "BatchCode": "BK26-P198-B3",
+        "Quantity": 16,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-17",
+        "ReceivedDate": "2026-03-23",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5199,
+    "ProductID": 199,
+    "Quantity": 49,
+    "LowStockLevel": 13,
+    "UpdatedAt": "2026-07-05T09:57:00",
+    "Batches": [
+      {
+        "BatchID": 10991,
+        "BatchCode": "BK26-P199-B1",
+        "Quantity": 24,
+        "Manufacturer": "Wilton Asia",
+        "ExpiryDate": "2026-08-09",
+        "ReceivedDate": "2026-02-18",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 10992,
+        "BatchCode": "BK26-P199-B2",
+        "Quantity": 25,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": "2026-09-14",
+        "ReceivedDate": "2026-03-21",
+        "BatchStatus": "Available"
+      }
+    ]
+  },
+  {
+    "InventoryID": 5200,
+    "ProductID": 200,
+    "Quantity": 56,
+    "LowStockLevel": 14,
+    "UpdatedAt": "2026-07-01T10:00:00",
+    "Batches": [
+      {
+        "BatchID": 11001,
+        "BatchCode": "BK26-P200-B1",
+        "Quantity": 28,
+        "Manufacturer": "Baker Choice Vietnam",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-03-19",
+        "BatchStatus": "Available"
+      },
+      {
+        "BatchID": 11002,
+        "BatchCode": "BK26-P200-B2",
+        "Quantity": 29,
+        "Manufacturer": "Fonterra",
+        "ExpiryDate": null,
+        "ReceivedDate": "2026-04-22",
+        "BatchStatus": "Available"
+      }
+    ]
+  }
+]

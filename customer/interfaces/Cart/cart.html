@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giỏ hàng của bạn - Bake it!</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../1.Landing Page/Css/style.css">
+    <link rel="stylesheet" href="./cart.css">
+</head>
+<body class="auth-font-sans font-sans">
+
+    <div id="global-header-placeholder"></div>
+
+    <div class="container">
+        <h1 class="page-title">Giỏ Hàng Của Bạn</h1>
+
+        <div id="cart-empty-state" style="display:none; background:#fff; border:1px solid #eedfd3; border-radius:12px; padding:60px 20px; text-align:center; color:#9c8476;">
+            <p style="font-size:16px; margin-bottom:20px;">🛒 Giỏ hàng của bạn đang trống.</p>
+            <button class="btn-continue-shopping" onclick="location.href='../Category/ProductList/product-list.html'">← Tiếp tục mua sắm</button>
+        </div>
+
+        <div id="cart-layout" class="cart-layout">
+            <main class="cart-items-section">
+                <table class="cart-table">
+                    <thead>
+                        <tr>
+                            <th class="col-select">
+                                <input type="checkbox" id="select-all-cart-items" class="cart-select-checkbox" aria-label="Chọn tất cả sản phẩm">
+                            </th>
+                            <th colspan="2">Sản phẩm</th>
+                            <th>Giá tiền</th>
+                            <th>Số lượng</th>
+                            <th>Tổng số</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody id="cart-table-body">
+                    </tbody>
+                </table>
+
+                <div class="cart-back-actions">
+                    <button class="btn-continue-shopping" onclick="location.href='../Category/ProductList/product-list.html'">← Tiếp tục mua sắm</button>
+                    <button class="btn-delete-selected" id="btn-delete-selected" type="button">Xóa sản phẩm đã chọn</button>
+                </div>
+            </main>
+
+            <aside class="cart-summary-section">
+                <div class="summary-card">
+                    <h3>Tóm tắt đơn hàng</h3>
+                    <div class="summary-divider"></div>
+
+                    <div class="summary-row">
+                        <span id="summary-item-count">Tạm tính (0 sản phẩm):</span>
+                        <span class="summary-value" id="summary-subtotal">0đ</span>
+                    </div>
+                    <div class="summary-row">
+                        <span>Phí vận chuyển:</span>
+                        <span class="summary-value" style="color: #389e0d;">Miễn phí</span>
+                    </div>
+
+                    <div class="summary-total-block">
+                        <div class="total-label">Tổng thanh toán:</div>
+                        <div class="total-price-value" id="summary-total">0đ</div>
+                    </div>
+
+                    <button class="btn-proceed-checkout" id="btn-checkout-page">TIẾN HÀNH THANH TOÁN</button>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <div id="global-footer-placeholder"></div>
+
+    <script src="../../shared/cart-storage.js"></script>
+<script src="../../shared/global-layout.js"></script>
+<script src="./cart.js"></script>
+</body>
+</html>

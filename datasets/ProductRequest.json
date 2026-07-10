@@ -1,0 +1,29 @@
+[
+  {
+    "RequestID": 3,
+    "ProductName": "nguyen",
+    "Email": "nguyenblhk24411e@st.uel.edu.vn",
+    "Note": "lớn, dẹt",
+    "RequestStatus": "New",
+    "CreatedAt": "2026-07-10T02:14:28.569Z",
+    "UpdatedAt": null
+  },
+  {
+    "RequestID": 2,
+    "ProductName": "trgfv",
+    "Email": "grdfv@gmail.com",
+    "Note": "ẻdgvf",
+    "RequestStatus": "New",
+    "CreatedAt": "2026-07-10T01:27:40.903Z",
+    "UpdatedAt": null
+  },
+  {
+    "RequestID": 1,
+    "ProductName": "phễu",
+    "Email": "teammlchhttt@gmail.com",
+    "Note": "phễu dài",
+    "RequestStatus": "New",
+    "CreatedAt": "2026-07-09T08:03:35.288Z",
+    "UpdatedAt": null
+  }
+]

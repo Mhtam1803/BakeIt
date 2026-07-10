@@ -1,0 +1,154 @@
+/* Thiết lập chung cho toàn bộ vùng Footer */
+.site-footer {
+    background-color: #3e2720; /* Màu nâu đậm ấm cúng */
+    color: #fcf9f6;
+    padding: 60px 0 30px 0;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    border-top: 5px solid #a77b54; /* Đường viền màu vàng đồng */
+}
+
+/* Khung chứa chia theo Grid Layout - tỷ lệ vàng 4 cột */
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 40px;
+    align-items: start;
+    box-sizing: border-top-colors;
+}
+
+/* Cột 1: Logo và giới thiệu */
+.footer-logo-img {
+    max-height: 55px;
+    width: auto;
+    object-fit: contain;
+    margin-bottom: 8px;
+}
+
+.footer-tagline {
+    margin: 0;
+    max-width: 360px;
+    color: #d7ccc8;
+    line-height: 1.7;
+    font-size: 14px;
+}
+
+.footer-contact-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 16px;
+}
+
+.footer-contact-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13.5px;
+    color: #b0bec5;
+}
+
+.contact-icon {
+    color: #a77b54;
+    font-size: 14px;
+}
+
+/* Tiêu đề cho các cột (Có thanh gạch chân nhỏ) */
+.footer-column-title {
+    margin: 0 0 20px 0;
+    font-size: 16px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 8px;
+}
+
+.footer-column-title::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 35px;
+    height: 2px;
+    background-color: #a77b54;
+}
+
+/* Danh sách link và hiệu ứng hover dịch chuyển nhẹ mượt mà */
+.footer-links-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.footer-link {
+    color: #d7ccc8;
+    text-decoration: none;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.footer-link:hover {
+    color: #ffcc80 !important; /* Đổi sang màu cam sữa */
+    padding-left: 6px; /* Hơi đẩy qua phải tạo cảm giác tương tác */
+}
+
+/* Cột mạng xã hội */
+.footer-social-text {
+    margin: 0 0 16px 0;
+    color: #d7ccc8;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.social-icons-group {
+    display: flex;
+    gap: 12px;
+}
+
+.icon-circle {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.08);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    transition: all 0.3s ease;
+}
+
+.icon-circle:hover {
+    background: #a77b54 !important;
+    transform: translateY(-4px); /* Bay nhẹ lên trên khi hover */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* Dòng Copyright dưới đáy footer */
+.footer-copyright {
+    max-width: 1200px;
+    margin: 50px auto 0 auto;
+    padding: 25px 20px 0 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+    color: #b0bec5;
+    font-size: 13px;
+}
+
+.footer-copyright span {
+    color: #ffcc80;
+}
+
+/* Responsive cơ bản cho màn hình điện thoại nhỏ */
+@media (max-width: 768px) {
+    .footer-container {
+        grid-template-columns: 1fr; /* Co về 1 cột trên mobile */
+        gap: 30px;
+    }
+}

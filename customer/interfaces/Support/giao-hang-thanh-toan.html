@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giao hàng & Thanh toán - Bake it!</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            background: #FFFDF8;
+            color: #4A3329;
+            font-family: 'Baloo 2', cursive;
+        }
+
+        .support-page {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 56px 24px 72px;
+        }
+
+        .support-hero {
+            margin-bottom: 28px;
+            padding-bottom: 22px;
+            border-bottom: 1px solid #E6DEC9;
+        }
+
+        .support-hero h1 {
+            margin: 0 0 10px;
+            color: #5C3D2E;
+            font-size: 38px;
+            line-height: 1.2;
+        }
+
+        .support-hero p {
+            margin: 0;
+            color: #7A6655;
+            font-size: 17px;
+            line-height: 1.6;
+        }
+
+        .support-content {
+            display: grid;
+            gap: 22px;
+        }
+
+        .support-section {
+            background: #FFFFFF;
+            border: 1px solid #E6DEC9;
+            border-radius: 14px;
+            padding: 24px;
+            box-shadow: 0 8px 24px rgba(92, 61, 46, 0.06);
+        }
+
+        .support-section h2 {
+            margin: 0 0 12px;
+            color: #6B442F;
+            font-size: 24px;
+        }
+
+        .support-section p,
+        .support-section li {
+            color: #6E5A4B;
+            font-size: 16px;
+            line-height: 1.7;
+        }
+
+        .support-section ul {
+            margin: 0;
+            padding-left: 22px;
+        }
+
+        .support-section p {
+            margin: 0 0 10px;
+        }
+
+        @media (max-width: 640px) {
+            .support-page {
+                padding: 36px 16px 56px;
+            }
+
+            .support-hero h1 {
+                font-size: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="global-header-placeholder"></div>
+
+    <main class="support-page">
+        <section class="support-hero">
+            <h1>Giao hàng & Thanh toán</h1>
+            <p>Bake it! chuẩn bị đơn hàng cẩn thận để nguyên liệu và dụng cụ làm bánh đến tay bạn trong tình trạng tốt nhất.</p>
+        </section>
+
+        <section class="support-content">
+            <article class="support-section">
+                <h2>Thời gian giao hàng</h2>
+                <ul>
+                    <li>Nội thành TP. HCM: dự kiến 1-2 ngày làm việc.</li>
+                    <li>Các tỉnh, thành khác: dự kiến 2-5 ngày làm việc tùy khu vực.</li>
+                    <li>Đơn có sản phẩm cần bảo quản đặc biệt sẽ được Bake it! liên hệ xác nhận trước khi giao.</li>
+                </ul>
+            </article>
+
+            <article class="support-section">
+                <h2>Phí vận chuyển</h2>
+                <p>Phí giao hàng được tính dựa trên địa chỉ nhận hàng, khối lượng đơn và chính sách vận chuyển tại thời điểm đặt hàng.</p>
+                <p>Các chương trình miễn phí hoặc hỗ trợ phí giao hàng sẽ được hiển thị trong quá trình thanh toán nếu đơn hàng đủ điều kiện.</p>
+            </article>
+
+            <article class="support-section">
+                <h2>Phương thức thanh toán</h2>
+                <ul>
+                    <li>Thanh toán khi nhận hàng.</li>
+                    <li>Chuyển khoản ngân hàng theo thông tin được cung cấp khi đặt hàng.</li>
+                    <li>Thanh toán trực tuyến nếu hệ thống hỗ trợ tại thời điểm mua hàng.</li>
+                </ul>
+            </article>
+
+            <article class="support-section">
+                <h2>Lưu ý khi nhận hàng</h2>
+                <p>Khách hàng nên kiểm tra tình trạng gói hàng, số lượng sản phẩm và thông tin đơn trước khi xác nhận nhận hàng.</p>
+                <p>Nếu có vấn đề phát sinh, vui lòng chụp ảnh kiện hàng và liên hệ Bake it! để được hỗ trợ kịp thời.</p>
+            </article>
+        </section>
+    </main>
+
+    <div id="global-footer-placeholder"></div>
+
+    <script src="../../shared/cart-storage.js"></script>
+    <script src="../../shared/global-layout.js"></script>
+</body>
+</html>

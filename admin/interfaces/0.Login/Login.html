@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BakeIt Admin Login</title>
+    <link rel="stylesheet" href="../../css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="./Login.js" defer></script>
+</head>
+<body class="admin-login-page">
+    <main class="login-shell">
+        <section class="login-panel" aria-labelledby="loginTitle">
+            <div class="login-brand"><img src="../../assets/logo.jpg" alt="BakeIt"></div>
+            <div class="login-heading">
+                <h1 id="loginTitle">Admin Login</h1>
+                <p>Sign in to manage products, orders, customers, and store operations.</p>
+            </div>
+
+            <form class="login-form" id="adminLoginForm">
+                <div class="form-row">
+                    <label for="adminEmail">Account email</label>
+                    <input id="adminEmail" name="email" type="email" autocomplete="username" placeholder="samsam@mycogenbakery.com" required>
+                </div>
+                <div class="form-row">
+                    <label for="adminPassword">Password</label>
+                    <input id="adminPassword" name="password" type="password" autocomplete="current-password" placeholder="Enter password" required>
+                </div>
+                <p class="login-message" id="loginMessage" aria-live="polite"></p>
+                <button class="primary-btn login-submit" id="loginSubmitBtn" type="submit">
+                    <i class="fa-solid fa-right-to-bracket"></i>
+                    Log in
+                </button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>

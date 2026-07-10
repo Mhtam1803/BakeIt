@@ -1,0 +1,780 @@
+[
+  {
+    "BlogID": 1,
+    "AdminID": 1,
+    "Title": "Cách làm Bánh Tiramisu Ý chuẩn vị, không cần lò nướng",
+    "Category": "Recipe",
+    "Content": "Tiramisu là món tráng miệng nổi tiếng của Ý với hương vị cà phê thơm nồng kết hợp cùng phô mai béo ngậy. Công thức cực kỳ đơn giản, không cần lò nướng.",
+    "ImageURL": "../assets/images/products/Set Nguyên Liệu/Set nguyên liệu làm Tiramisu cốt cà phê Ý.jpg",
+    "CreatedAt": "2026-07-15 09:00:00",
+    "PostStatus": "Published",
+    "id": 1,
+    "title": "Cách làm Bánh Tiramisu Ý chuẩn vị, không cần lò nướng",
+    "image": "../assets/images/products/Set Nguyên Liệu/Set nguyên liệu làm Tiramisu cốt cà phê Ý.jpg",
+    "author": "Bake it! Team",
+    "date": "15/07/2026",
+    "description": "Tiramisu là món tráng miệng nổi tiếng của Ý với hương vị cà phê thơm nồng kết hợp cùng phô mai béo ngậy. Công thức cực kỳ đơn giản, không cần lò nướng.",
+    "ingredients": [
+      {
+        "text": "250g Phô mai Mascarpone (hoặc Cream Cheese)",
+        "productId": 12
+      },
+      {
+        "text": "150ml Whipping Cream Anchor",
+        "productId": 14
+      },
+      {
+        "text": "50g Đường cát trắng tinh luyện",
+        "productId": 16
+      },
+      {
+        "text": "Bột cacao nguyên chất Hershey",
+        "productId": 34
+      },
+      {
+        "text": "3 Lòng đỏ trứng gà tươi (Shop không bán)",
+        "productId": null
+      },
+      {
+        "text": "1 Gói bánh Sâm-panh (Ladyfingers)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Đánh tan lòng đỏ trứng với đường trên âu nước ấm (cách thủy) cho đến khi nhạt màu.",
+      "Cho phô mai vào âu trứng, trộn đều nhẹ nhàng cho hòa quyện.",
+      "Đánh bông Whipping cream, sau đó trộn kiểu fold vào hỗn hợp phô mai ở trên.",
+      "Pha cà phê đen, nhúng siêu nhanh bánh Sâm-panh vào cà phê rồi xếp ra khuôn.",
+      "Phủ một lớp kem phô mai lên trên lớp bánh. Lặp lại 1 lớp bánh, 1 lớp kem nữa.",
+      "Để bánh ngăn mát ít nhất 4 tiếng. Trước khi ăn rắc bột cacao lên trên cùng."
+    ],
+    "faqs": [
+      {
+        "name": "Minh Thư",
+        "time": "1 ngày trước",
+        "question": "Nếu không có Mascarpone thì dùng Cream Cheese thay hoàn toàn được không ạ?",
+        "answer": "Được bạn nhé, nhưng Cream Cheese có vị chua nhẹ hơn. Bạn nên để mềm ở nhiệt độ phòng rồi đánh mịn trước khi trộn để kem không bị lợn cợn."
+      },
+      {
+        "name": "Hoàng Nam",
+        "time": "3 ngày trước",
+        "question": "Bánh Tiramisu này để ngăn mát qua đêm có bị mềm quá không?",
+        "answer": "Không sao nha, để qua đêm còn giúp vị cà phê và kem hòa quyện hơn. Bạn chỉ nên rắc cacao ngay trước khi ăn để mặt bánh đẹp."
+      }
+    ]
+  },
+  {
+    "BlogID": 2,
+    "AdminID": 1,
+    "Title": "Bánh quy Chocochip giòn rụm, thơm bơ",
+    "Category": "Recipe",
+    "Content": "Món bánh quy quốc dân vạn người mê. Cắn một miếng giòn tan, sô cô la chip chảy nhẹ trong miệng.",
+    "ImageURL": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80",
+    "CreatedAt": "2026-07-10 09:00:00",
+    "PostStatus": "Published",
+    "id": 2,
+    "title": "Bánh quy Chocochip giòn rụm, thơm bơ",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80",
+    "author": "Bake it! Team",
+    "date": "10/07/2026",
+    "description": "Món bánh quy quốc dân vạn người mê. Cắn một miếng giòn tan, sô cô la chip chảy nhẹ trong miệng.",
+    "ingredients": [
+      {
+        "text": "115g Bơ lạt tự nhiên Anchor",
+        "productId": 5
+      },
+      {
+        "text": "50g Đường cát trắng",
+        "productId": 16
+      },
+      {
+        "text": "150g Bột mì Bakers Choice số 11",
+        "productId": 7
+      },
+      {
+        "text": "2g Muối nở (Baking soda)",
+        "productId": 21
+      },
+      {
+        "text": "100g Chocolate chip đen",
+        "productId": 22
+      },
+      {
+        "text": "1/2 muỗng cà phê tinh chất Vani",
+        "productId": 19
+      },
+      {
+        "text": "1 Quả trứng gà tươi (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Dùng máy đánh trứng đánh nhuyễn bơ với đường đến khi hòa quyện.",
+      "Cho trứng và vani vào đánh tiếp cho đều.",
+      "Rây bột mì, baking soda và xíu muối vào âu. Trộn đều.",
+      "Cho chocolate chips vào trộn. Bọc màng bọc thực phẩm, để tủ lạnh 30 phút.",
+      "Nặn bánh thành các viên tròn nhỏ, xếp lên khay có lót giấy nến.",
+      "Nướng 175 độ C trong 12-15 phút. Lấy ra để nguội cho bánh giòn."
+    ],
+    "faqs": [
+      {
+        "name": "Gia Hân",
+        "time": "2 ngày trước",
+        "question": "Muốn bánh quy Chocochip mềm bên trong thì nướng bao lâu là vừa?",
+        "answer": "Bạn nướng khoảng 10-12 phút ở 175 độ C, lấy ra khi rìa bánh vừa vàng. Bánh sẽ tiếp tục chín thêm trên khay lúc để nguội."
+      }
+    ]
+  },
+  {
+    "BlogID": 3,
+    "AdminID": 1,
+    "Title": "Bánh Bông Lan Trứng Muối sốt phô mai béo ngậy",
+    "Category": "Recipe",
+    "Content": "Món bánh mặn ngọt kết hợp hoàn hảo. Cốt bánh bông lan siêu mềm mịn ăn kèm sốt phô mai tan chảy và trứng muối mằn mặn.",
+    "ImageURL": "../assets/images/products/Công thức làm bánh/Bông lan trứng muối.jpg",
+    "CreatedAt": "2026-07-05 09:00:00",
+    "PostStatus": "Published",
+    "id": 3,
+    "title": "Bánh Bông Lan Trứng Muối sốt phô mai béo ngậy",
+    "image": "../assets/images/products/Công thức làm bánh/Bông lan trứng muối.jpg",
+    "author": "Bake it! Team",
+    "date": "05/07/2026",
+    "description": "Món bánh mặn ngọt kết hợp hoàn hảo. Cốt bánh bông lan siêu mềm mịn ăn kèm sốt phô mai tan chảy và trứng muối mằn mặn.",
+    "ingredients": [
+      {
+        "text": "90g Bột mì Bakers Choice số 8",
+        "productId": 6
+      },
+      {
+        "text": "30g Bột bắp Tài Ký",
+        "productId": 8
+      },
+      {
+        "text": "80g Đường cát trắng",
+        "productId": 16
+      },
+      {
+        "text": "40g Bơ lạt đun chảy",
+        "productId": 5
+      },
+      {
+        "text": "40ml Sữa tươi không đường",
+        "productId": 17
+      },
+      {
+        "text": "100g Cream Cheese (làm sốt)",
+        "productId": 12
+      },
+      {
+        "text": "4 Quả trứng gà tươi (Shop không bán)",
+        "productId": null
+      },
+      {
+        "text": "Trứng muối, chà bông (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Tách riêng lòng đỏ và lòng trắng trứng. Đánh bông lòng trắng với đường đến khi tạo chóp mềm.",
+      "Cho lần lượt lòng đỏ vào âu lòng trắng, đánh quyện.",
+      "Rây bột mì, bột bắp vào âu, trộn nhẹ nhàng (phương pháp fold).",
+      "Trộn bơ chảy và sữa tươi, đổ nhẹ vào âu bột, fold đều. Đổ vào khuôn nướng 150 độ C trong 45 phút.",
+      "Làm sốt: Đun cách thủy cream cheese, bơ, sữa tươi và đường cho tan chảy sệt lại.",
+      "Bánh chín để nguội, phết sốt phô mai lên mặt, rắc chà bông và đặt trứng muối nướng lên trên."
+    ],
+    "faqs": [
+      {
+        "name": "Tuấn Kiệt",
+        "time": "4 ngày trước",
+        "question": "Sốt phô mai bị đặc quá thì xử lý như thế nào ạ?",
+        "answer": "Bạn thêm từng chút sữa tươi hoặc whipping cream khi còn đang đun cách thủy, khuấy đều đến khi sốt mượt lại."
+      },
+      {
+        "name": "Bảo Ngọc",
+        "time": "5 ngày trước",
+        "question": "Bông lan trứng muối có thể làm trước một ngày không?",
+        "answer": "Có thể nha. Bạn nên để riêng phần sốt, trứng muối và chà bông, khi ăn mới phủ lên bánh để cốt bánh không bị ẩm."
+      }
+    ]
+  },
+  {
+    "BlogID": 4,
+    "AdminID": 1,
+    "Title": "Panna Cotta dâu tây mềm mượt, núng nính",
+    "Category": "Recipe",
+    "Content": "Món tráng miệng thanh mát mùa hè. Panna Cotta mềm mượt như lụa, vị béo của sữa quyện cùng vị chua ngọt của mứt dâu tây.",
+    "ImageURL": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=80",
+    "CreatedAt": "2026-07-01 09:00:00",
+    "PostStatus": "Published",
+    "id": 4,
+    "title": "Panna Cotta dâu tây mềm mượt, núng nính",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=80",
+    "author": "Bake it! Team",
+    "date": "01/07/2026",
+    "description": "Món tráng miệng thanh mát mùa hè. Panna Cotta mềm mượt như lụa, vị béo của sữa quyện cùng vị chua ngọt của mứt dâu tây.",
+    "ingredients": [
+      {
+        "text": "200ml Whipping Cream Anchor",
+        "productId": 14
+      },
+      {
+        "text": "200ml Sữa tươi không đường",
+        "productId": 17
+      },
+      {
+        "text": "60g Đường cát trắng",
+        "productId": 16
+      },
+      {
+        "text": "8g Gelatin lá",
+        "productId": 29
+      },
+      {
+        "text": "1 muỗng cà phê tinh chất Vani",
+        "productId": 19
+      },
+      {
+        "text": "Dâu tây tươi (để làm mứt) (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Ngâm lá gelatin vào nước đá lạnh 10 phút cho nở mềm.",
+      "Cho sữa tươi, whipping cream và đường vào nồi. Đun lửa nhỏ đến khi hỗn hợp ấm nóng, bốc khói nhẹ (không để sôi).",
+      "Tắt bếp, vắt ráo gelatin rồi thả vào nồi sữa, khuấy đều cho tan hoàn toàn. Thêm vani.",
+      "Đổ hỗn hợp ra hũ hoặc ly nhỏ. Cất ngăn mát tủ lạnh 3-4 tiếng đến khi đông lại.",
+      "Dâu tây cắt nhỏ sên với chút đường làm mứt.",
+      "Khi ăn, rưới mứt dâu tây lên bề mặt Panna Cotta và thưởng thức lạnh."
+    ],
+    "faqs": [
+      {
+        "name": "Khánh Linh",
+        "time": "1 ngày trước",
+        "question": "Panna Cotta bị không đông thì có phải do thiếu gelatin không?",
+        "answer": "Thường là do gelatin chưa tan hết hoặc tỷ lệ gelatin hơi ít. Bạn nhớ ngâm mềm gelatin rồi khuấy vào hỗn hợp sữa còn ấm, không đun sôi mạnh."
+      }
+    ]
+  },
+  {
+    "BlogID": 5,
+    "AdminID": 1,
+    "Title": "Bánh Mì Hoa Cúc (Brioche) xé sợi mềm dai",
+    "Category": "Recipe",
+    "Content": "Chiếc bánh mì kiểu Pháp với hương thơm lừng của bơ và vani, thớ bánh dai mềm có thể xé thành từng sợi mỏng.",
+    "ImageURL": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80",
+    "CreatedAt": "2026-06-25 09:00:00",
+    "PostStatus": "Published",
+    "id": 5,
+    "title": "Bánh Mì Hoa Cúc (Brioche) xé sợi mềm dai",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80",
+    "author": "Bake it! Team",
+    "date": "25/06/2026",
+    "description": "Chiếc bánh mì kiểu Pháp với hương thơm lừng của bơ và vani, thớ bánh dai mềm có thể xé thành từng sợi mỏng.",
+    "ingredients": [
+      {
+        "text": "300g Bột mì Bakers Choice số 11",
+        "productId": 7
+      },
+      {
+        "text": "5g Men khô nhạt Mauripan",
+        "productId": 33
+      },
+      {
+        "text": "120g Bơ lạt tự nhiên Anchor (để lạnh)",
+        "productId": 5
+      },
+      {
+        "text": "60g Đường cát trắng",
+        "productId": 16
+      },
+      {
+        "text": "80ml Sữa tươi không đường",
+        "productId": 17
+      },
+      {
+        "text": "Hạnh nhân lát sấy khô (rắc mặt)",
+        "productId": 26
+      },
+      {
+        "text": "2 Quả trứng gà tươi (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Kích hoạt men: Pha men khô với sữa ấm và chút đường, để 10 phút cho men nở gạch cua.",
+      "Trộn bột mì, đường, muối, trứng và hỗn hợp men. Nhồi bột đến khi thành khối dẻo mịn.",
+      "Cắt bơ lạnh thành cục nhỏ, nhồi từ từ vào bột đến khi bột kéo màng mỏng không rách.",
+      "Ủ bột lần 1 trong tủ lạnh ít nhất 4 tiếng (hoặc qua đêm) để bơ không bị chảy.",
+      "Lấy bột ra chia làm 3 phần, tạo hình thắt bím (như bím tóc), ủ lần 2 ở nhiệt độ phòng đến khi nở gấp đôi.",
+      "Phết trứng lên mặt bánh, rắc hạnh nhân lát. Nướng 170 độ C trong 25-30 phút."
+    ],
+    "faqs": [
+      {
+        "name": "Anh Khoa",
+        "time": "2 ngày trước",
+        "question": "Bánh mì hoa cúc có cần ủ lạnh qua đêm không hay ủ nhanh được?",
+        "answer": "Ủ lạnh qua đêm sẽ giúp bơ không chảy và thớ bánh dai mềm hơn. Nếu cần làm nhanh, bạn vẫn ủ mát tối thiểu 4 tiếng nha."
+      },
+      {
+        "name": "Thanh Mai",
+        "time": "6 ngày trước",
+        "question": "Bột bị nhão sau khi cho bơ vào thì có thêm bột mì không?",
+        "answer": "Bạn khoan thêm bột nhé. Cứ nhồi tiếp ở tốc độ vừa, bột brioche ban đầu khá dính nhưng sẽ mịn và kéo màng khi gluten phát triển."
+      }
+    ]
+  },
+  {
+    "BlogID": 6,
+    "AdminID": 1,
+    "Title": "Bánh Brownie Chocolate đậm vị, ẩm mịn",
+    "Category": "Recipe",
+    "Content": "Dành riêng cho tín đồ hảo ngọt và ghiền socola. Bánh Brownie với lớp vỏ hơi giòn nứt nẻ, bên trong lại dẻo ẩm cực kỳ quyến rũ.",
+    "ImageURL": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=80",
+    "CreatedAt": "2026-06-20 09:00:00",
+    "PostStatus": "Published",
+    "id": 6,
+    "title": "Bánh Brownie Chocolate đậm vị, ẩm mịn",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=80",
+    "author": "Bake it! Team",
+    "date": "20/06/2026",
+    "description": "Dành riêng cho tín đồ hảo ngọt và ghiền socola. Bánh Brownie với lớp vỏ hơi giòn nứt nẻ, bên trong lại dẻo ẩm cực kỳ quyến rũ.",
+    "ingredients": [
+      {
+        "text": "150g Chocolate thanh đen nguyên chất 55%",
+        "productId": 23
+      },
+      {
+        "text": "100g Bơ lạt tự nhiên Anchor",
+        "productId": 5
+      },
+      {
+        "text": "120g Đường cát trắng",
+        "productId": 16
+      },
+      {
+        "text": "70g Bột mì Bakers Choice số 8",
+        "productId": 6
+      },
+      {
+        "text": "20g Bột Cacao nguyên chất",
+        "productId": 34
+      },
+      {
+        "text": "1 muỗng cà phê tinh chất Vani",
+        "productId": 19
+      },
+      {
+        "text": "2 Quả trứng gà tươi (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Băm nhỏ chocolate thanh. Cho bơ và chocolate vào tô đun cách thủy cho tan chảy hoàn toàn, để nguội bớt.",
+      "Đánh tan trứng với đường và vani (không cần đánh bông).",
+      "Đổ hỗn hợp chocolate bơ ấm vào âu trứng, khuấy đều tay.",
+      "Rây bột mì và bột cacao vào âu, dùng phới dẹt fold nhẹ nhàng đến khi không thấy bột trắng.",
+      "Lót giấy nến vào khuôn vuông, đổ hỗn hợp bột vào, dàn phẳng mặt.",
+      "Nướng bánh ở 165 độ C trong 20-25 phút. Để bánh nguội hẳn mới cắt để tránh bị vụn."
+    ],
+    "faqs": [
+      {
+        "name": "Quốc Huy",
+        "time": "3 ngày trước",
+        "question": "Brownie muốn ẩm dẻo hơn thì có nên nướng lâu thêm không?",
+        "answer": "Không nên nướng lâu hơn vì bánh sẽ khô. Bạn lấy bánh ra khi giữa bánh còn hơi ẩm, để nguội hoàn toàn rồi cắt sẽ có kết cấu dẻo mềm."
+      }
+    ]
+  },
+  {
+    "BlogID": 7,
+    "AdminID": 1,
+    "Title": "Bánh Ngói Hạnh Nhân (Tuiles) giòn rụm",
+    "Category": "Recipe",
+    "Content": "Loại bánh quy cực mỏng, giòn tan, nhai rốp rốp rộn ràng với bùi béo của hạnh nhân. Rất thích hợp làm món ăn vặt eat-clean.",
+    "ImageURL": "https://images.unsplash.com/photo-1605807646983-377bc5a76493?w=800&q=80",
+    "CreatedAt": "2026-06-15 09:00:00",
+    "PostStatus": "Published",
+    "id": 7,
+    "title": "Bánh Ngói Hạnh Nhân (Tuiles) giòn rụm",
+    "image": "https://images.unsplash.com/photo-1605807646983-377bc5a76493?w=800&q=80",
+    "author": "Bake it! Team",
+    "date": "15/06/2026",
+    "description": "Loại bánh quy cực mỏng, giòn tan, nhai rốp rốp rộn ràng với bùi béo của hạnh nhân. Rất thích hợp làm món ăn vặt eat-clean.",
+    "ingredients": [
+      {
+        "text": "200g Hạnh nhân lát sấy khô",
+        "productId": 26
+      },
+      {
+        "text": "30g Bột mì Bakers Choice số 8",
+        "productId": 6
+      },
+      {
+        "text": "40g Bơ lạt đun chảy",
+        "productId": 5
+      },
+      {
+        "text": "60g Đường bột",
+        "productId": 15
+      },
+      {
+        "text": "1 muỗng cà phê Vani",
+        "productId": 19
+      },
+      {
+        "text": "2 Lòng trắng trứng gà (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Đánh nhẹ lòng trắng trứng với đường bột cho tan đường (không đánh bông).",
+      "Cho bơ đun chảy (đã nguội) và vani vào khuấy đều.",
+      "Rây bột mì vào âu, khuấy nhẹ cho hòa quyện.",
+      "Đổ hạnh nhân lát vào, dùng phới dẹt đảo rất nhẹ nhàng để hạnh nhân không bị nát.",
+      "Lót giấy nến lên khay nướng. Dàn bột thành những lớp cực mỏng, các miếng hạnh nhân dàn đều không xếp chồng lên nhau.",
+      "Nướng 160 độ C trong 15-20 phút đến khi bánh chín vàng ruộm. Lấy ra để nguội bánh sẽ tự giòn."
+    ],
+    "faqs": [
+      {
+        "name": "Mỹ Duyên",
+        "time": "2 ngày trước",
+        "question": "Bánh ngói hạnh nhân bị mềm lại sau vài tiếng thì làm sao giữ giòn?",
+        "answer": "Bạn để bánh nguội hẳn rồi cho ngay vào hũ kín kèm gói hút ẩm. Nếu bánh mềm, có thể sấy lại 5-7 phút ở 140 độ C."
+      },
+      {
+        "name": "Đức Anh",
+        "time": "1 tuần trước",
+        "question": "Dàn bánh mỏng cỡ nào thì đẹp ạ?",
+        "answer": "Bạn dàn càng mỏng càng giòn, chỉ cần các lát hạnh nhân nằm sát nhau thành một lớp, tránh chồng quá dày."
+      }
+    ]
+  },
+  {
+    "BlogID": 8,
+    "AdminID": 1,
+    "Title": "Bánh Mì Phô Mai Bơ Tỏi Hàn Quốc",
+    "Category": "Recipe",
+    "Content": "Chiếc bánh từng làm mưa làm gió mạng xã hội. Lớp vỏ thấm đẫm bơ tỏi thơm nức, bên trong ngập ngụa nhân phô mai tan chảy.",
+    "ImageURL": "../assets/images/products/Công thức làm bánh/banh-mi-pho-mai-bo-toi-han-quoc.png",
+    "CreatedAt": "2026-06-05 09:00:00",
+    "PostStatus": "Published",
+    "id": 8,
+    "title": "Bánh Mì Phô Mai Bơ Tỏi Hàn Quốc",
+    "image": "../assets/images/products/Công thức làm bánh/banh-mi-pho-mai-bo-toi-han-quoc.png",
+    "author": "Bake it! Team",
+    "date": "05/06/2026",
+    "description": "Chiếc bánh từng làm mưa làm gió mạng xã hội. Lớp vỏ thấm đẫm bơ tỏi thơm nức, bên trong ngập ngụa nhân phô mai tan chảy.",
+    "ingredients": [
+      {
+        "text": "250g Bột mì Bakers Choice số 11",
+        "productId": 7
+      },
+      {
+        "text": "4g Men khô Mauripan",
+        "productId": 33
+      },
+      {
+        "text": "120g Cream Cheese (làm nhân)",
+        "productId": 12
+      },
+      {
+        "text": "100g Bơ lạt (làm sốt)",
+        "productId": 5
+      },
+      {
+        "text": "50ml Sữa tươi không đường",
+        "productId": 17
+      },
+      {
+        "text": "30g Sữa đặc Ông Thọ",
+        "productId": 18
+      },
+      {
+        "text": "Tỏi băm, mùi tây (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Làm bánh mì: Nhồi bột mì, men, sữa, 30g bơ, xíu đường thành khối dẻo mịn. Ủ nở gấp đôi, chia thành viên tròn rồi nướng chín.",
+      "Làm nhân phô mai: Đánh nhuyễn Cream cheese với sữa đặc, cho vào túi bắt kem.",
+      "Làm sốt bơ tỏi: Đun chảy bơ lạt, trộn cùng tỏi băm nhuyễn, lá mùi tây cắt nhỏ và 1 xíu đường.",
+      "Bánh mì chín để nguội, dùng dao khía bánh thành 6 múi (không đứt lìa đáy).",
+      "Bơm nhân cream cheese vào các kẽ hở của bánh.",
+      "Nhúng toàn bộ mặt bánh vào tô sốt bơ tỏi. Đem nướng lại ở 180 độ trong 10 phút cho bơ tỏi giòn thơm."
+    ],
+    "faqs": [
+      {
+        "name": "Lan Chi",
+        "time": "2 ngày trước",
+        "question": "Bánh mì bơ tỏi Hàn Quốc có thay cream cheese bằng phô mai con bò cười được không?",
+        "answer": "Thay được một phần nhưng nhân sẽ mặn và ít mịn hơn. Ngon nhất vẫn là cream cheese, có thể thêm chút sữa đặc để nhân mềm béo."
+      },
+      {
+        "name": "Nhật Khoa",
+        "time": "4 ngày trước",
+        "question": "Mình dùng nồi chiên không dầu để nướng lại sau khi nhúng bơ tỏi được không?",
+        "answer": "Được nha. Bạn nướng 160-170 độ C khoảng 5-8 phút, canh mặt bánh vàng thơm là lấy ra để tránh bơ bị cháy."
+      }
+    ]
+  },
+  {
+    "BlogID": 9,
+    "AdminID": 1,
+    "Title": "Matcha Mousse Cake thanh mát, núng nính",
+    "Category": "Recipe",
+    "Content": "Bánh lạnh dễ làm với lớp đế bánh quy giòn và lớp mousse trà xanh mướt mát, đắng nhẹ, béo thanh tan ngay trong miệng.",
+    "ImageURL": "../assets/images/products/Công thức làm bánh/Matcha Mousse Cake thanh mát, núng nính.jpg",
+    "CreatedAt": "2026-05-25 09:00:00",
+    "PostStatus": "Published",
+    "id": 9,
+    "title": "Matcha Mousse Cake thanh mát, núng nính",
+    "image": "../assets/images/products/Công thức làm bánh/Matcha Mousse Cake thanh mát, núng nính.jpg",
+    "author": "Bake it! Team",
+    "date": "25/05/2026",
+    "description": "Bánh lạnh dễ làm với lớp đế bánh quy giòn và lớp mousse trà xanh mướt mát, đắng nhẹ, béo thanh tan ngay trong miệng.",
+    "ingredients": [
+      {
+        "text": "15g Bột Matcha nguyên chất",
+        "productId": 10
+      },
+      {
+        "text": "150g Cream Cheese",
+        "productId": 12
+      },
+      {
+        "text": "200ml Whipping Cream",
+        "productId": 14
+      },
+      {
+        "text": "10g Gelatin lá",
+        "productId": 29
+      },
+      {
+        "text": "60g Đường cát",
+        "productId": 16
+      },
+      {
+        "text": "50ml Sữa tươi",
+        "productId": 17
+      },
+      {
+        "text": "80g Bơ lạt đun chảy",
+        "productId": 5
+      },
+      {
+        "text": "150g Bánh quy lạt (để làm đế) (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Làm đế bánh: Xay nhuyễn bánh quy, trộn với bơ đun chảy. Nén chặt vào đáy khuôn tròn đế rời, để tủ lạnh 30 phút.",
+      "Ngâm gelatin vào nước lạnh cho mềm.",
+      "Đánh nhuyễn cream cheese với đường. Hâm nóng sữa tươi, hòa tan bột matcha rồi đổ vào âu cream cheese khuấy đều.",
+      "Vớt gelatin vắt ráo, chưng cách thủy cho chảy rồi trộn vào hỗn hợp matcha.",
+      "Đánh bông mềm whipping cream (đánh vừa tới, không đánh cứng). Fold kem vào hỗn hợp matcha.",
+      "Đổ mousse lên lớp đế bánh quy. Cất tủ lạnh 4 tiếng trở lên. Rắc thêm bột matcha lên mặt trước khi ăn."
+    ],
+    "faqs": [
+      {
+        "name": "Hà My",
+        "time": "3 ngày trước",
+        "question": "Matcha Mousse bị đắng nhiều thì có cách nào cân lại vị không?",
+        "answer": "Bạn có thể giảm lượng matcha một chút hoặc tăng đường nhẹ. Nên hòa matcha với sữa ấm trước để bột tan đều, vị sẽ dịu hơn."
+      }
+    ]
+  },
+  {
+    "BlogID": 10,
+    "AdminID": 1,
+    "Title": "Bánh Su Kem (Choux Cream) vỏ mỏng, nhân ngập",
+    "Category": "Recipe",
+    "Content": "Vỏ bánh rỗng ruột thần kì kẹp lớp nhân kem mát lạnh béo ngậy. Bí quyết nướng bánh su nở phồng, không bị xẹp.",
+    "ImageURL": "https://images.unsplash.com/photo-1621236378699-8597faf6a176?w=800&q=80",
+    "CreatedAt": "2026-05-15 09:00:00",
+    "PostStatus": "Published",
+    "id": 10,
+    "title": "Bánh Su Kem (Choux Cream) vỏ mỏng, nhân ngập",
+    "image": "https://images.unsplash.com/photo-1621236378699-8597faf6a176?w=800&q=80",
+    "author": "Bake it! Team",
+    "date": "15/05/2026",
+    "description": "Vỏ bánh rỗng ruột thần kì kẹp lớp nhân kem mát lạnh béo ngậy. Bí quyết nướng bánh su nở phồng, không bị xẹp.",
+    "ingredients": [
+      {
+        "text": "65g Bột mì Bakers Choice số 8",
+        "productId": 6
+      },
+      {
+        "text": "50g Bơ lạt",
+        "productId": 5
+      },
+      {
+        "text": "100ml Sữa tươi không đường",
+        "productId": 17
+      },
+      {
+        "text": "150ml Whipping Cream (làm nhân)",
+        "productId": 14
+      },
+      {
+        "text": "1 muỗng Vani",
+        "productId": 19
+      },
+      {
+        "text": "2-3 Quả trứng gà tươi (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Đun sôi lăn tăn bơ, nước, sữa và 1 xíu muối. Tắt bếp, đổ ụp bột mì vào khuấy nhanh tay thành khối.",
+      "Bật bếp lại lửa thật nhỏ, đảo khối bột thêm 1-2 phút cho bột chín và tróc nồi. Tắt bếp để bột bớt nóng.",
+      "Cho từng quả trứng vào khối bột, dùng phới trộn đều đến khi bột kéo thành hình chữ V ngược.",
+      "Cho bột vào túi bắt kem, bơm thành các viên tròn nhỏ lên khay.",
+      "Nướng bánh ở 200 độ C trong 20 phút (Tuyệt đối KHÔNG mở lò). Bánh phồng to vàng ruộm thì lấy ra để nguội.",
+      "Đánh bông Whipping cream với chút đường, khoét lỗ dưới đáy bánh su và bơm ngập kem vào."
+    ],
+    "faqs": [
+      {
+        "name": "Phương Anh",
+        "time": "1 ngày trước",
+        "question": "Vỏ su kem bị xẹp sau khi lấy khỏi lò là do đâu ạ?",
+        "answer": "Thường là bánh chưa đủ khô bên trong hoặc mở lò quá sớm. Bạn nướng đủ thời gian, cuối quá trình có thể hạ nhiệt sấy thêm vài phút."
+      },
+      {
+        "name": "Minh Quân",
+        "time": "5 ngày trước",
+        "question": "Nhân kem nên bơm vào bánh lúc nào để không bị ỉu?",
+        "answer": "Bạn nên bơm nhân trước khi ăn hoặc trước 1-2 tiếng rồi giữ lạnh. Bơm quá sớm sẽ làm vỏ bánh mềm nhanh."
+      }
+    ]
+  },
+  {
+    "BlogID": 11,
+    "AdminID": 1,
+    "Title": "Bánh Tart Trứng Macau vỏ ngàn lớp giòn rụm",
+    "Category": "Recipe",
+    "Content": "Không cần ra tiệm KFC, bạn vẫn có thể làm mẻ tart trứng đế ngàn lớp giòn tan, nhân trứng sữa béo ngậy hơi cháy xém mặt cực hấp dẫn.",
+    "ImageURL": "../assets/images/products/Công thức làm bánh/Bánh Tart Trứng Macau vỏ ngàn lớp giòn rụm.jpg",
+    "CreatedAt": "2026-05-01 09:00:00",
+    "PostStatus": "Published",
+    "id": 11,
+    "title": "Bánh Tart Trứng Macau vỏ ngàn lớp giòn rụm",
+    "image": "../assets/images/products/Công thức làm bánh/Bánh Tart Trứng Macau vỏ ngàn lớp giòn rụm.jpg",
+    "author": "Bake it! Team",
+    "date": "01/05/2026",
+    "description": "Không cần ra tiệm KFC, bạn vẫn có thể làm mẻ tart trứng đế ngàn lớp giòn tan, nhân trứng sữa béo ngậy hơi cháy xém mặt cực hấp dẫn.",
+    "ingredients": [
+      {
+        "text": "150ml Sữa tươi không đường",
+        "productId": 17
+      },
+      {
+        "text": "100ml Whipping Cream",
+        "productId": 14
+      },
+      {
+        "text": "40g Sữa đặc Ông Thọ",
+        "productId": 18
+      },
+      {
+        "text": "30g Đường",
+        "productId": 16
+      },
+      {
+        "text": "1 muỗng Vani",
+        "productId": 19
+      },
+      {
+        "text": "3 Lòng đỏ trứng gà tươi (Shop không bán)",
+        "productId": null
+      },
+      {
+        "text": "Đế tart ngàn lớp làm sẵn (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Khuấy tan lòng đỏ trứng gà trong 1 cái bát.",
+      "Cho sữa tươi, whipping cream, sữa đặc và đường vào nồi. Đun lửa vừa và khuấy nhẹ cho tan đường (chỉ hơi ấm, không đun sôi).",
+      "Đổ từ từ hỗn hợp sữa ấm vào bát lòng đỏ trứng, vừa đổ vừa khuấy đều tay. Thêm vani.",
+      "Rây hỗn hợp qua rây lọc 1-2 lần để loại bỏ lợn cợn, giúp nhân bánh mịn mượt.",
+      "Xếp đế tart ra khay, rót hỗn hợp trứng sữa vào đầy khoảng 80% đế tart.",
+      "Nướng ở nhiệt độ 200 độ C trong 20-25 phút đến khi nhân bánh hơi gồ lên và mặt nổi những đốm cháy xém (caramel) đặc trưng."
+    ],
+    "faqs": [
+      {
+        "name": "Ngọc Trâm",
+        "time": "2 ngày trước",
+        "question": "Nhân tart trứng bị rỗ mặt thì do nhiệt cao quá phải không?",
+        "answer": "Đúng rồi, nhiệt quá cao hoặc hỗn hợp bị nhiều bọt dễ làm mặt rỗ. Bạn rây nhân kỹ và để hỗn hợp nghỉ vài phút trước khi rót vào đế."
+      }
+    ]
+  },
+  {
+    "BlogID": 12,
+    "AdminID": 1,
+    "Title": "Mousse Chanh Dây chua chua ngọt ngọt",
+    "Category": "Recipe",
+    "Content": "Giải nhiệt ngày hè với bánh Mousse chanh dây. Vị chua thanh của chanh dây làm át đi độ ngấy của phô mai, ăn hoài không chán.",
+    "ImageURL": "../assets/images/products/Set Nguyên Liệu/Set nguyên liệu Mousse chanh dây giải nhiệt.jpg",
+    "CreatedAt": "2026-04-15 09:00:00",
+    "PostStatus": "Published",
+    "id": 12,
+    "title": "Mousse Chanh Dây chua chua ngọt ngọt",
+    "image": "../assets/images/products/Set Nguyên Liệu/Set nguyên liệu Mousse chanh dây giải nhiệt.jpg",
+    "author": "Bake it! Team",
+    "date": "15/04/2026",
+    "description": "Giải nhiệt ngày hè với bánh Mousse chanh dây. Vị chua thanh của chanh dây làm át đi độ ngấy của phô mai, ăn hoài không chán.",
+    "ingredients": [
+      {
+        "text": "150g Cream Cheese",
+        "productId": 12
+      },
+      {
+        "text": "200ml Whipping Cream",
+        "productId": 14
+      },
+      {
+        "text": "12g Gelatin lá",
+        "productId": 29
+      },
+      {
+        "text": "80g Đường trắng",
+        "productId": 16
+      },
+      {
+        "text": "80g Bơ lạt",
+        "productId": 5
+      },
+      {
+        "text": "Cốt chanh dây tươi (Shop không bán)",
+        "productId": null
+      },
+      {
+        "text": "100g Bánh quy (làm đế) (Shop không bán)",
+        "productId": null
+      }
+    ],
+    "steps": [
+      "Làm đế bánh: Bánh quy nghiền nhuyễn trộn bơ đun chảy, ép chặt vào đáy khuôn, để lạnh 30p.",
+      "Lấy ruột chanh dây, lọc bỏ hạt lấy nước cốt. Ngâm gelatin cho mềm.",
+      "Đun cách thủy cốt chanh dây với đường cho tan, bỏ gelatin vào khuấy tan, để nguội.",
+      "Cream cheese để mềm khuấy nhuyễn mịn. Trộn nước chanh dây ở trên vào.",
+      "Whipping cream đánh bông mềm (đánh khoảng 60%), fold nhẹ nhàng với hỗn hợp cream cheese.",
+      "Đổ kem mousse lên lớp đế bánh quy. Cất tủ lạnh 4 tiếng, sau đó làm thêm 1 lớp thạch chanh dây mỏng tráng mặt bánh cho đẹp."
+    ],
+    "faqs": [
+      {
+        "name": "Yến Nhi",
+        "time": "3 ngày trước",
+        "question": "Mousse chanh dây có cần bỏ hạt chanh dây không ạ?",
+        "answer": "Phần mousse nên lọc bỏ hạt để mịn. Nếu thích đẹp mắt, bạn có thể giữ một ít hạt ở lớp thạch mặt trên."
+      },
+      {
+        "name": "Gia Bảo",
+        "time": "1 tuần trước",
+        "question": "Bánh chưa đủ đông sau 4 tiếng thì có phải hỏng không?",
+        "answer": "Chưa chắc nha. Bạn để thêm 1-2 tiếng hoặc qua đêm. Lần sau nhớ cân đúng gelatin và để hỗn hợp nguội bớt trước khi trộn whipping cream."
+      }
+    ]
+  }
+]

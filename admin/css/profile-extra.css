@@ -1,0 +1,277 @@
+/* ===== MY PROFILE PAGE ===== */
+
+.profile-page-layout {
+    display: grid;
+    grid-template-columns: 340px 1fr;
+    gap: 22px;
+    margin-bottom: 22px;
+}
+
+.profile-card {
+    background: var(--card);
+    border: 1px solid rgba(90, 45, 22, 0.08);
+    border-radius: var(--radius);
+    padding: 26px;
+    box-shadow: var(--shadow);
+}
+
+.profile-card h2 {
+    font-size: 18px;
+    margin-bottom: 18px;
+}
+
+.profile-summary-card {
+    text-align: center;
+}
+
+.profile-summary-card img.profile-main-avatar {
+    margin: 0 auto 16px;
+}
+
+.profile-summary-card h2 {
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+
+.profile-summary-card p {
+    color: var(--muted);
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
+.profile-mini-info {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #edf0f4;
+}
+
+.profile-mini-info div {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.profile-mini-info strong {
+    font-size: 15px;
+    color: var(--text);
+}
+
+.profile-mini-info span {
+    font-size: 11px;
+    color: var(--muted);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.profile-info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    margin-bottom: 20px;
+}
+
+.profile-info-grid label {
+    display: block;
+    font-size: 12px;
+    font-weight: 800;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 6px;
+}
+
+.profile-info-grid p {
+    font-size: 14px;
+    color: var(--text);
+}
+
+.profile-bio {
+    padding-top: 18px;
+    border-top: 1px solid #edf0f4;
+}
+
+.profile-bio label {
+    display: block;
+    font-size: 12px;
+    font-weight: 800;
+    color: var(--muted);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.profile-bio p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--text);
+}
+
+.profile-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    margin-bottom: 22px;
+}
+
+.profile-stat-card {
+    background: var(--card);
+    border: 1px solid rgba(90, 45, 22, 0.08);
+    border-radius: var(--radius);
+    padding: 22px;
+    box-shadow: var(--shadow);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.profile-stat-card i {
+    width: 48px;
+    height: 48px;
+    border-radius: 14px;
+    background: rgba(130, 170, 196, 0.16);
+    color: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+}
+
+.profile-stat-card h3 {
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+.profile-stat-card p {
+    font-size: 12px;
+    color: var(--muted);
+}
+
+.profile-bottom-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+}
+
+.skill-item {
+    margin-bottom: 16px;
+}
+
+.skill-item:last-child {
+    margin-bottom: 0;
+}
+
+.skill-top {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.skill-top span {
+    color: var(--text);
+}
+
+.skill-top strong {
+    color: var(--brown);
+}
+
+.skill-progress {
+    width: 100%;
+    height: 8px;
+    border-radius: 999px;
+    background: #edf0f4;
+    overflow: hidden;
+}
+
+.skill-progress div {
+    height: 100%;
+    border-radius: 999px;
+    background: linear-gradient(135deg, var(--brown), var(--beige));
+}
+
+.activity-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 12px 0;
+    border-bottom: 1px solid #edf0f4;
+}
+
+.activity-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.activity-icon {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background: rgba(25, 195, 125, 0.12);
+    color: var(--green);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 14px;
+}
+
+.activity-item h4 {
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+
+.activity-item p {
+    font-size: 12px;
+    color: var(--muted);
+}
+
+@media (max-width: 1100px) {
+    .profile-page-layout,
+    .profile-bottom-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .profile-stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 800px) {
+    .profile-mini-info {
+        grid-template-columns: 1fr;
+    }
+
+    .profile-info-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .profile-stats-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* dark theme support */
+.dark-theme .profile-card,
+.dark-theme .profile-stat-card {
+    background: #1f1f1f;
+    color: #f5f5f5;
+    border-color: rgba(255, 255, 255, 0.12);
+}
+
+.dark-theme .profile-mini-info,
+.dark-theme .profile-bio {
+    border-color: rgba(255, 255, 255, 0.12);
+}
+
+.dark-theme .profile-info-grid p,
+.dark-theme .profile-bio p,
+.dark-theme .skill-top span {
+    color: #f5f5f5;
+}
+
+.dark-theme .activity-item {
+    border-color: rgba(255, 255, 255, 0.12);
+}

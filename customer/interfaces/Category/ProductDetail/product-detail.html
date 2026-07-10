@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi tiết sản phẩm - Bake it!</title>
+    <!-- Đồng bộ style -->
+    <link rel="stylesheet" href="product-detail.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="global-header-placeholder"></div>
+
+    <div class="container">
+        <button id="btn-back-previous" class="btn-back-previous" type="button">← Quay lại</button>
+
+        <main class="detail-main-block">
+            <div class="detail-images-gallery">
+                <div id="main-image-box" class="main-image-box"></div>
+            </div>
+
+            <div class="detail-info-box">
+                <h1 id="product-title" class="product-detail-title">Đang tải...</h1>
+
+                <div class="product-meta-row">
+                    <span>Danh mục: <strong id="product-category" style="color: #A77B54;"></strong></span>
+                    <span class="divider-pipe">|</span>
+                    <span>Tình trạng: <strong style="color: #389e0d;">Còn hàng</strong></span>
+                </div>
+
+                <div id="product-price" class="product-detail-price"></div>
+
+                <p id="product-desc" class="product-short-desc"></p>
+
+                <div class="purchase-action-row">
+                    <div class="quantity-selector">
+                        <button class="qty-btn minus" type="button">-</button>
+                        <input type="number" class="qty-input" value="1" min="1">
+                        <button class="qty-btn plus" type="button">+</button>
+                    </div>
+                    <button id="btn-add-cart" class="btn-add-cart">Thêm vào giỏ</button>
+                    <button id="btn-buy-now" class="btn-buy-now">Mua ngay</button>
+                </div>
+            </div>
+        </main>
+
+        <section class="tabs-section">
+            <div class="detail-info-section description-text">
+                <h3>Đặc điểm nổi bật của sản phẩm</h3>
+                <p id="full-description-text"></p>
+                <ul>
+                    <li><strong>Danh mục chính:</strong> <span id="desc-category"></span></li>
+                    <!-- ĐÃ THÊM THÔNG TIN SET / PHÂN LOẠI -->
+                    <li><strong>Phân loại (Set/Loại):</strong> <span id="desc-subcategory" style="color: #A77B54; font-weight: bold;"></span></li>
+                    <li><strong>Bảo quản:</strong> Nơi khô ráo, thoáng mát hoặc theo hướng dẫn trên bao bì.</li>
+                    <li><strong>Xuất xứ:</strong> Hàng chính hãng, nhập khẩu / phân phối bởi Bake it!.</li>
+                </ul>
+            </div>
+
+            <div class="detail-info-section reviews-container">
+                <h3>Đánh giá từ người mua</h3>
+                <div class="rating-summary-box">
+                    <div class="rating-big-score">
+                        <h2 id="review-average-score">4.8</h2>
+                        <div id="review-average-stars" class="stars-row">⭐⭐⭐⭐⭐</div>
+                        <span id="review-total-count">(185 đánh giá)</span>
+                    </div>
+                    <div id="review-rating-bars" class="rating-bars-list"></div>
+                </div>
+
+                <div id="comments-list" class="comments-list"></div>
+            </div>
+
+            <div class="detail-info-section faq-container">
+                <h3>Hỏi đáp về sản phẩm</h3>
+                <div class="faq-list">
+                    <div class="faq-item">
+                        <strong>Q: Sản phẩm có phù hợp để làm bánh tại nhà không?</strong>
+                        <p>A: Có, sản phẩm phù hợp cho cả người mới bắt đầu và người làm bánh chuyên nghiệp.</p>
+                    </div>
+                    <div class="faq-item">
+                        <strong>Q: Nếu vận chuyển bị hỏng thì làm thế nào?</strong>
+                        <p>A: Bake it! sẽ hỗ trợ đổi/trả theo chính sách bảo hành và vận chuyển của cửa hàng.</p>
+                    </div>
+                </div>
+
+                <form class="faq-form">
+                    <label for="faq-question">Đặt câu hỏi cho sản phẩm</label>
+                    <textarea id="faq-question" rows="3" placeholder="Nhập câu hỏi của bạn..."></textarea>
+                    <button type="submit">Gửi câu hỏi</button>
+                </form>
+            </div>
+        </section>
+
+        <h2 class="related-title">📦 Sản phẩm liên quan bạn có thể thích</h2>
+        <div id="related-products-grid" class="related-products-grid"></div>
+        
+        <!-- Banner Toast thông báo (Đồng bộ) -->
+        <div id="toast-banner" class="toast-banner hidden">
+            Đã thêm sản phẩm vào giỏ hàng! 🛒
+        </div>
+    </div>
+
+    <!-- ĐÃ THÊM FOOTER ĐỒNG BỘ -->
+    <div id="global-footer-placeholder"></div>
+
+    <script src="../../../shared/cart-storage.js"></script>
+    <script src="../../../shared/global-layout.js"></script>
+    <script src="./product-detail.js"></script>
+</body>
+</html>

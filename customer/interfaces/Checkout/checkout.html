@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thanh toán đơn hàng - Bake it!</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../1.Landing Page/Css/style.css">
+    <link rel="stylesheet" href="./checkout.css">
+</head>
+<body class="auth-font-sans font-sans">
+
+    <div id="global-header-placeholder"></div>
+
+    <div class="container">
+        <h1 class="page-title">Thanh Toán Đơn Hàng</h1>
+
+        <div class="checkout-layout">
+            <div class="checkout-main-section">
+                
+                <section class="checkout-card">
+                    <h3 class="card-title">📦 Thông tin nhận hàng</h3>
+                    <div class="form-group-row">
+                        <div class="form-group">
+                            <label for="txt-fullname">Họ và tên <span class="required">*</span></label>
+                            <input type="text" id="txt-fullname" placeholder="Nhập họ và tên người nhận">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-phone">Số điện thoại <span class="required">*</span></label>
+                            <input type="text" id="txt-phone" placeholder="Nhập số điện thoại">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="txt-email">Email (Không bắt buộc)</label>
+                        <input type="email" id="txt-email" placeholder="viethung@example.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="txt-address">Địa chỉ cụ thể <span class="required">*</span></label>
+                        <input type="text" id="txt-address" placeholder="Số nhà, tên đường, phường/xã, quận/huyện...">
+                    </div>
+                    <div class="form-group">
+                        <label for="txt-notes">Ghi chú đơn hàng</label>
+                        <textarea id="txt-notes" rows="3" placeholder="Ví dụ: Giao giờ hành chính, gọi trước khi giao..."></textarea>
+                    </div>
+                </section>
+
+                <section class="checkout-card">
+                    <h3 class="card-title">💳 Phương thức thanh toán</h3>
+                    
+                    <div class="payment-methods-list">
+                        <label class="payment-method-item">
+                            <input type="radio" name="payment-option" value="COD" checked>
+                            <div class="method-details">
+                                <span class="method-name">Thanh toán khi nhận hàng (COD)</span>
+                            </div>
+                        </label>
+
+                        <label class="payment-method-item">
+                            <input type="radio" name="payment-option" value="MOMO">
+                            <div class="method-details">
+                                <span class="method-name">Ví điện tử MoMo</span>
+                            </div>
+                        </label>
+
+                        <label class="payment-method-item">
+                            <input type="radio" name="payment-option" value="BANK_QR">
+                            <div class="method-details">
+                                <span class="method-name">Chuyển khoản VietQR (Ngân hàng)</span>
+                            </div>
+                        </label>
+                    </div>
+
+                    <div id="qr-payment-area" class="qr-zone hidden">
+                        <p id="qr-instruction">Vui lòng quét mã bên dưới để thanh toán:</p>
+                        <div class="qr-wrapper">
+                            <img id="qr-dynamic-img" src="" alt="Mã QR thanh toán toán">
+                        </div>
+                        <p class="qr-sub-text">Sau khi chuyển khoản hoàn tất, hãy nhấn nút "Xác Nhận Đặt Hàng".</p>
+                    </div>
+                </section>
+            </div>
+
+            <aside class="checkout-sidebar">
+                <div class="summary-card">
+                    <h3>Đơn hàng của bạn</h3>
+                    <div class="summary-divider"></div>
+
+                    <div id="checkout-items-list" class="checkout-mini-products"></div>
+
+                    <!-- Khu vực nhập mã Coupon giảm giá -->
+                    <div class="checkout-coupon-box">
+                        <div class="coupon-input-group">
+                            <input type="text" id="txt-coupon" placeholder="Nhập mã giảm giá (VD: BAKEIT10)">
+                            <button type="button" id="btn-apply-coupon">Áp dụng</button>
+                        </div>
+                        <div id="coupon-message" class="coupon-msg hidden"></div>
+                    </div>
+
+                    <div class="summary-divider"></div>
+                    
+                    <div class="summary-row">
+                        <span>Tạm tính:</span>
+                        <span class="summary-value" id="checkout-subtotal">0đ</span>
+                    </div>
+                    
+                    <div class="summary-row hidden" id="row-discount">
+                        <span>Giảm giá:</span>
+                        <span class="summary-value" id="checkout-discount" style="color: #ff4d4f;">-0đ</span>
+                    </div>
+
+                    <div class="summary-row">
+                        <span>Phí vận chuyển:</span>
+                        <span class="summary-value" style="color: #389e0d;">Miễn phí</span>
+                    </div>
+
+                    <div class="summary-total-block">
+                        <div class="total-label">Tổng cộng:</div>
+                        <div class="total-price-value" id="checkout-total">0đ</div>
+                    </div>
+
+                    <button class="btn-proceed-checkout" id="btn-submit-order">XÁC NHẬN ĐẶT HÀNG</button>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <div id="global-footer-placeholder"></div>
+
+    <div id="success-overlay" class="modal-overlay hidden">
+        <div class="success-modal">
+            <div class="success-icon">✓</div>
+            <h2>Đặt Hàng Thành Công!</h2>
+            <p id="success-method-msg"></p>
+            
+            <div class="order-code-box">
+                <span class="code-label">MÃ ĐƠN HÀNG CỦA BẠN</span>
+                <span class="code-value" id="lbl-order-id">BK-000000</span>
+            </div>
+
+            <button class="btn-proceed-checkout" id="btn-success-close">Tiếp tục mua sắm</button>
+        </div>
+    </div>
+
+    <script src="../../shared/cart-storage.js"></script>
+    <script src="../../shared/global-layout.js"></script>
+    <script src="./checkout.js"></script>
+</body>
+</html>

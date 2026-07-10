@@ -1,0 +1,2502 @@
+[
+  {
+    "RequestID": 7001,
+    "CustomerID": 1001,
+    "OrderID": 8001,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-01T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7002,
+    "CustomerID": 1001,
+    "OrderID": 8002,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-01T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7004,
+    "CustomerID": 1002,
+    "OrderID": 8002,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-02T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7007,
+    "CustomerID": 1003,
+    "OrderID": 8003,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-03T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7010,
+    "CustomerID": 1004,
+    "OrderID": 8004,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-04T09:15:00",
+    "ResolvedAt": "2026-07-06T10:33:00"
+  },
+  {
+    "RequestID": 7013,
+    "CustomerID": 1005,
+    "OrderID": 8005,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-05T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7014,
+    "CustomerID": 1005,
+    "OrderID": 8006,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-05T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7016,
+    "CustomerID": 1006,
+    "OrderID": 8006,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-06T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7019,
+    "CustomerID": 1007,
+    "OrderID": 8007,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-07T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7022,
+    "CustomerID": 1008,
+    "OrderID": 8008,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-08T09:35:00",
+    "ResolvedAt": "2026-07-10T10:17:00"
+  },
+  {
+    "RequestID": 7025,
+    "CustomerID": 1009,
+    "OrderID": 8009,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-09T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7026,
+    "CustomerID": 1009,
+    "OrderID": 8010,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-09T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7028,
+    "CustomerID": 1010,
+    "OrderID": 8010,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-10T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7031,
+    "CustomerID": 1011,
+    "OrderID": 8011,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-11T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7034,
+    "CustomerID": 1012,
+    "OrderID": 8012,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-12T09:55:00",
+    "ResolvedAt": "2026-07-14T10:01:00"
+  },
+  {
+    "RequestID": 7037,
+    "CustomerID": 1013,
+    "OrderID": 8013,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-13T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7038,
+    "CustomerID": 1013,
+    "OrderID": 8014,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-13T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7040,
+    "CustomerID": 1014,
+    "OrderID": 8014,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-14T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7043,
+    "CustomerID": 1015,
+    "OrderID": 8015,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-15T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7046,
+    "CustomerID": 1016,
+    "OrderID": 8016,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-16T09:15:00",
+    "ResolvedAt": "2026-07-18T10:45:00"
+  },
+  {
+    "RequestID": 7049,
+    "CustomerID": 1017,
+    "OrderID": 8017,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-17T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7050,
+    "CustomerID": 1017,
+    "OrderID": 8018,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-17T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7052,
+    "CustomerID": 1018,
+    "OrderID": 8018,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-18T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7055,
+    "CustomerID": 1019,
+    "OrderID": 8019,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-19T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7058,
+    "CustomerID": 1020,
+    "OrderID": 8020,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-20T09:35:00",
+    "ResolvedAt": "2026-07-22T10:29:00"
+  },
+  {
+    "RequestID": 7061,
+    "CustomerID": 1021,
+    "OrderID": 8021,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-21T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7062,
+    "CustomerID": 1021,
+    "OrderID": 8022,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-21T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7064,
+    "CustomerID": 1022,
+    "OrderID": 8022,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-22T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7067,
+    "CustomerID": 1023,
+    "OrderID": 8023,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-23T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7070,
+    "CustomerID": 1024,
+    "OrderID": 8024,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-24T09:55:00",
+    "ResolvedAt": "2026-07-26T10:13:00"
+  },
+  {
+    "RequestID": 7073,
+    "CustomerID": 1025,
+    "OrderID": 8025,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-25T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7074,
+    "CustomerID": 1025,
+    "OrderID": 8026,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-25T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7076,
+    "CustomerID": 1026,
+    "OrderID": 8026,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-26T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7079,
+    "CustomerID": 1027,
+    "OrderID": 8027,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-01T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7082,
+    "CustomerID": 1028,
+    "OrderID": 8028,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-02T09:15:00",
+    "ResolvedAt": "2026-07-04T10:57:00"
+  },
+  {
+    "RequestID": 7085,
+    "CustomerID": 1029,
+    "OrderID": 8029,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-03T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7086,
+    "CustomerID": 1029,
+    "OrderID": 8030,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-03T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7088,
+    "CustomerID": 1030,
+    "OrderID": 8030,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-04T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7091,
+    "CustomerID": 1031,
+    "OrderID": 8031,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-05T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7094,
+    "CustomerID": 1032,
+    "OrderID": 8032,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-06T09:35:00",
+    "ResolvedAt": "2026-07-08T10:41:00"
+  },
+  {
+    "RequestID": 7097,
+    "CustomerID": 1033,
+    "OrderID": 8033,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-07T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7098,
+    "CustomerID": 1033,
+    "OrderID": 8034,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-07T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7100,
+    "CustomerID": 1034,
+    "OrderID": 8034,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-08T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7103,
+    "CustomerID": 1035,
+    "OrderID": 8035,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-09T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7106,
+    "CustomerID": 1036,
+    "OrderID": 8036,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-10T09:55:00",
+    "ResolvedAt": "2026-07-12T10:25:00"
+  },
+  {
+    "RequestID": 7109,
+    "CustomerID": 1037,
+    "OrderID": 8037,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-11T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7110,
+    "CustomerID": 1037,
+    "OrderID": 8038,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-11T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7112,
+    "CustomerID": 1038,
+    "OrderID": 8038,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-12T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7115,
+    "CustomerID": 1039,
+    "OrderID": 8039,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-13T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7118,
+    "CustomerID": 1040,
+    "OrderID": 8040,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-14T09:15:00",
+    "ResolvedAt": "2026-07-16T10:09:00"
+  },
+  {
+    "RequestID": 7121,
+    "CustomerID": 1041,
+    "OrderID": 8041,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-15T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7122,
+    "CustomerID": 1041,
+    "OrderID": 8042,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-15T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7124,
+    "CustomerID": 1042,
+    "OrderID": 8042,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-16T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7127,
+    "CustomerID": 1043,
+    "OrderID": 8043,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-17T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7130,
+    "CustomerID": 1044,
+    "OrderID": 8044,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-18T09:35:00",
+    "ResolvedAt": "2026-07-20T10:53:00"
+  },
+  {
+    "RequestID": 7133,
+    "CustomerID": 1045,
+    "OrderID": 8045,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-19T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7134,
+    "CustomerID": 1045,
+    "OrderID": 8046,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-19T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7136,
+    "CustomerID": 1046,
+    "OrderID": 8046,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-20T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7139,
+    "CustomerID": 1047,
+    "OrderID": 8047,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-21T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7142,
+    "CustomerID": 1048,
+    "OrderID": 8048,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-22T09:55:00",
+    "ResolvedAt": "2026-07-24T10:37:00"
+  },
+  {
+    "RequestID": 7145,
+    "CustomerID": 1049,
+    "OrderID": 8049,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-23T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7146,
+    "CustomerID": 1049,
+    "OrderID": 8050,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-23T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7148,
+    "CustomerID": 1050,
+    "OrderID": 8050,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-24T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7151,
+    "CustomerID": 1051,
+    "OrderID": 8051,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-25T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7154,
+    "CustomerID": 1052,
+    "OrderID": 8052,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-26T09:15:00",
+    "ResolvedAt": "2026-07-02T10:21:00"
+  },
+  {
+    "RequestID": 7157,
+    "CustomerID": 1053,
+    "OrderID": 8053,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-01T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7158,
+    "CustomerID": 1053,
+    "OrderID": 8054,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-01T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7160,
+    "CustomerID": 1054,
+    "OrderID": 8054,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-02T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7163,
+    "CustomerID": 1055,
+    "OrderID": 8055,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-03T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7166,
+    "CustomerID": 1056,
+    "OrderID": 8056,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-04T09:35:00",
+    "ResolvedAt": "2026-07-06T10:05:00"
+  },
+  {
+    "RequestID": 7169,
+    "CustomerID": 1057,
+    "OrderID": 8057,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-05T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7170,
+    "CustomerID": 1057,
+    "OrderID": 8058,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-05T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7172,
+    "CustomerID": 1058,
+    "OrderID": 8058,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-06T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7175,
+    "CustomerID": 1059,
+    "OrderID": 8059,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-07T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7178,
+    "CustomerID": 1060,
+    "OrderID": 8060,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-08T09:55:00",
+    "ResolvedAt": "2026-07-10T10:49:00"
+  },
+  {
+    "RequestID": 7181,
+    "CustomerID": 1061,
+    "OrderID": 8061,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-09T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7182,
+    "CustomerID": 1061,
+    "OrderID": 8062,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-09T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7184,
+    "CustomerID": 1062,
+    "OrderID": 8062,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-10T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7187,
+    "CustomerID": 1063,
+    "OrderID": 8063,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-11T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7190,
+    "CustomerID": 1064,
+    "OrderID": 8064,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-12T09:15:00",
+    "ResolvedAt": "2026-07-14T10:33:00"
+  },
+  {
+    "RequestID": 7193,
+    "CustomerID": 1065,
+    "OrderID": 8065,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-13T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7194,
+    "CustomerID": 1065,
+    "OrderID": 8066,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-13T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7196,
+    "CustomerID": 1066,
+    "OrderID": 8066,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-14T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7199,
+    "CustomerID": 1067,
+    "OrderID": 8067,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-15T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7202,
+    "CustomerID": 1068,
+    "OrderID": 8068,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-16T09:35:00",
+    "ResolvedAt": "2026-07-18T10:17:00"
+  },
+  {
+    "RequestID": 7205,
+    "CustomerID": 1069,
+    "OrderID": 8069,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-17T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7206,
+    "CustomerID": 1069,
+    "OrderID": 8070,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-17T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7208,
+    "CustomerID": 1070,
+    "OrderID": 8070,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-18T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7211,
+    "CustomerID": 1071,
+    "OrderID": 8071,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-19T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7214,
+    "CustomerID": 1072,
+    "OrderID": 8072,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-20T09:55:00",
+    "ResolvedAt": "2026-07-22T10:01:00"
+  },
+  {
+    "RequestID": 7217,
+    "CustomerID": 1073,
+    "OrderID": 8073,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-21T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7218,
+    "CustomerID": 1073,
+    "OrderID": 8074,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-21T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7220,
+    "CustomerID": 1074,
+    "OrderID": 8074,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-22T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7223,
+    "CustomerID": 1075,
+    "OrderID": 8075,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-23T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7226,
+    "CustomerID": 1076,
+    "OrderID": 8076,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-24T09:15:00",
+    "ResolvedAt": "2026-07-26T10:45:00"
+  },
+  {
+    "RequestID": 7229,
+    "CustomerID": 1077,
+    "OrderID": 8077,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-25T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7230,
+    "CustomerID": 1077,
+    "OrderID": 8078,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-25T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7232,
+    "CustomerID": 1078,
+    "OrderID": 8078,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-26T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7235,
+    "CustomerID": 1079,
+    "OrderID": 8079,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-01T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7238,
+    "CustomerID": 1080,
+    "OrderID": 8080,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-02T09:35:00",
+    "ResolvedAt": "2026-07-04T10:29:00"
+  },
+  {
+    "RequestID": 7241,
+    "CustomerID": 1081,
+    "OrderID": 8081,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-03T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7242,
+    "CustomerID": 1081,
+    "OrderID": 8082,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-03T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7244,
+    "CustomerID": 1082,
+    "OrderID": 8082,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-04T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7247,
+    "CustomerID": 1083,
+    "OrderID": 8083,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-05T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7250,
+    "CustomerID": 1084,
+    "OrderID": 8084,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-06T09:55:00",
+    "ResolvedAt": "2026-07-08T10:13:00"
+  },
+  {
+    "RequestID": 7253,
+    "CustomerID": 1085,
+    "OrderID": 8085,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-07T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7254,
+    "CustomerID": 1085,
+    "OrderID": 8086,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-07T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7256,
+    "CustomerID": 1086,
+    "OrderID": 8086,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-08T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7259,
+    "CustomerID": 1087,
+    "OrderID": 8087,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-09T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7262,
+    "CustomerID": 1088,
+    "OrderID": 8088,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-10T09:15:00",
+    "ResolvedAt": "2026-07-12T10:57:00"
+  },
+  {
+    "RequestID": 7265,
+    "CustomerID": 1089,
+    "OrderID": 8089,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-11T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7266,
+    "CustomerID": 1089,
+    "OrderID": 8090,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-11T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7268,
+    "CustomerID": 1090,
+    "OrderID": 8090,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-12T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7271,
+    "CustomerID": 1091,
+    "OrderID": 8091,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-13T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7274,
+    "CustomerID": 1092,
+    "OrderID": 8092,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-14T09:35:00",
+    "ResolvedAt": "2026-07-16T10:41:00"
+  },
+  {
+    "RequestID": 7277,
+    "CustomerID": 1093,
+    "OrderID": 8093,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-15T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7278,
+    "CustomerID": 1093,
+    "OrderID": 8094,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-15T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7280,
+    "CustomerID": 1094,
+    "OrderID": 8094,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-16T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7283,
+    "CustomerID": 1095,
+    "OrderID": 8095,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-17T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7286,
+    "CustomerID": 1096,
+    "OrderID": 8096,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-18T09:55:00",
+    "ResolvedAt": "2026-07-20T10:25:00"
+  },
+  {
+    "RequestID": 7289,
+    "CustomerID": 1097,
+    "OrderID": 8097,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-19T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7290,
+    "CustomerID": 1097,
+    "OrderID": 8098,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-19T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7292,
+    "CustomerID": 1098,
+    "OrderID": 8098,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-20T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7295,
+    "CustomerID": 1099,
+    "OrderID": 8099,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-21T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7298,
+    "CustomerID": 1100,
+    "OrderID": 8100,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-22T09:15:00",
+    "ResolvedAt": "2026-07-24T10:09:00"
+  },
+  {
+    "RequestID": 7301,
+    "CustomerID": 1101,
+    "OrderID": 8101,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-23T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7302,
+    "CustomerID": 1101,
+    "OrderID": 8102,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-23T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7304,
+    "CustomerID": 1102,
+    "OrderID": 8102,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-24T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7307,
+    "CustomerID": 1103,
+    "OrderID": 8103,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-25T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7310,
+    "CustomerID": 1104,
+    "OrderID": 8104,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-26T09:35:00",
+    "ResolvedAt": "2026-07-02T10:53:00"
+  },
+  {
+    "RequestID": 7313,
+    "CustomerID": 1105,
+    "OrderID": 8105,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-01T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7314,
+    "CustomerID": 1105,
+    "OrderID": 8106,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-01T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7316,
+    "CustomerID": 1106,
+    "OrderID": 8106,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-02T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7319,
+    "CustomerID": 1107,
+    "OrderID": 8107,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-03T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7322,
+    "CustomerID": 1108,
+    "OrderID": 8108,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-04T09:55:00",
+    "ResolvedAt": "2026-07-06T10:37:00"
+  },
+  {
+    "RequestID": 7325,
+    "CustomerID": 1109,
+    "OrderID": 8109,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-05T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7326,
+    "CustomerID": 1109,
+    "OrderID": 8110,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-05T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7328,
+    "CustomerID": 1110,
+    "OrderID": 8110,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-06T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7331,
+    "CustomerID": 1111,
+    "OrderID": 8111,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-07T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7334,
+    "CustomerID": 1112,
+    "OrderID": 8112,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-08T09:15:00",
+    "ResolvedAt": "2026-07-10T10:21:00"
+  },
+  {
+    "RequestID": 7337,
+    "CustomerID": 1113,
+    "OrderID": 8113,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-09T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7338,
+    "CustomerID": 1113,
+    "OrderID": 8114,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-09T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7340,
+    "CustomerID": 1114,
+    "OrderID": 8114,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-10T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7343,
+    "CustomerID": 1115,
+    "OrderID": 8115,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-11T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7346,
+    "CustomerID": 1116,
+    "OrderID": 8116,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-12T09:35:00",
+    "ResolvedAt": "2026-07-14T10:05:00"
+  },
+  {
+    "RequestID": 7349,
+    "CustomerID": 1117,
+    "OrderID": 8117,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-13T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7350,
+    "CustomerID": 1117,
+    "OrderID": 8118,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-13T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7352,
+    "CustomerID": 1118,
+    "OrderID": 8118,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-14T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7355,
+    "CustomerID": 1119,
+    "OrderID": 8119,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-15T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7358,
+    "CustomerID": 1120,
+    "OrderID": 8120,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-16T09:55:00",
+    "ResolvedAt": "2026-07-18T10:49:00"
+  },
+  {
+    "RequestID": 7361,
+    "CustomerID": 1121,
+    "OrderID": 8121,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-17T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7362,
+    "CustomerID": 1121,
+    "OrderID": 8122,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-17T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7364,
+    "CustomerID": 1122,
+    "OrderID": 8122,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-18T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7367,
+    "CustomerID": 1123,
+    "OrderID": 8123,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-19T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7370,
+    "CustomerID": 1124,
+    "OrderID": 8124,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-20T09:15:00",
+    "ResolvedAt": "2026-07-22T10:33:00"
+  },
+  {
+    "RequestID": 7373,
+    "CustomerID": 1125,
+    "OrderID": 8125,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-21T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7374,
+    "CustomerID": 1125,
+    "OrderID": 8126,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-21T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7376,
+    "CustomerID": 1126,
+    "OrderID": 8126,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-22T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7379,
+    "CustomerID": 1127,
+    "OrderID": 8127,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-23T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7382,
+    "CustomerID": 1128,
+    "OrderID": 8128,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-24T09:35:00",
+    "ResolvedAt": "2026-07-26T10:17:00"
+  },
+  {
+    "RequestID": 7385,
+    "CustomerID": 1129,
+    "OrderID": 8129,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-25T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7386,
+    "CustomerID": 1129,
+    "OrderID": 8130,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-25T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7388,
+    "CustomerID": 1130,
+    "OrderID": 8130,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-26T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7391,
+    "CustomerID": 1131,
+    "OrderID": 8131,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-01T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7394,
+    "CustomerID": 1132,
+    "OrderID": 8132,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-02T09:55:00",
+    "ResolvedAt": "2026-07-04T10:01:00"
+  },
+  {
+    "RequestID": 7397,
+    "CustomerID": 1133,
+    "OrderID": 8133,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-03T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7398,
+    "CustomerID": 1133,
+    "OrderID": 8134,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-03T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7400,
+    "CustomerID": 1134,
+    "OrderID": 8134,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-04T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7403,
+    "CustomerID": 1135,
+    "OrderID": 8135,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-05T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7406,
+    "CustomerID": 1136,
+    "OrderID": 8136,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-06T09:15:00",
+    "ResolvedAt": "2026-07-08T10:45:00"
+  },
+  {
+    "RequestID": 7409,
+    "CustomerID": 1137,
+    "OrderID": 8137,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-07T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7410,
+    "CustomerID": 1137,
+    "OrderID": 8138,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-07T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7412,
+    "CustomerID": 1138,
+    "OrderID": 8138,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-08T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7415,
+    "CustomerID": 1139,
+    "OrderID": 8139,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-09T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7418,
+    "CustomerID": 1140,
+    "OrderID": 8140,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-10T09:35:00",
+    "ResolvedAt": "2026-07-12T10:29:00"
+  },
+  {
+    "RequestID": 7421,
+    "CustomerID": 1141,
+    "OrderID": 8141,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-11T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7422,
+    "CustomerID": 1141,
+    "OrderID": 8142,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-11T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7424,
+    "CustomerID": 1142,
+    "OrderID": 8142,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-12T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7427,
+    "CustomerID": 1143,
+    "OrderID": 8143,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-13T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7430,
+    "CustomerID": 1144,
+    "OrderID": 8144,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-14T09:55:00",
+    "ResolvedAt": "2026-07-16T10:13:00"
+  },
+  {
+    "RequestID": 7433,
+    "CustomerID": 1145,
+    "OrderID": 8145,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-15T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7434,
+    "CustomerID": 1145,
+    "OrderID": 8146,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-15T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7436,
+    "CustomerID": 1146,
+    "OrderID": 8146,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-16T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7439,
+    "CustomerID": 1147,
+    "OrderID": 8147,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-17T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7442,
+    "CustomerID": 1148,
+    "OrderID": 8148,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-18T09:15:00",
+    "ResolvedAt": "2026-07-20T10:57:00"
+  },
+  {
+    "RequestID": 7445,
+    "CustomerID": 1149,
+    "OrderID": 8149,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-19T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7446,
+    "CustomerID": 1149,
+    "OrderID": 8150,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-19T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7448,
+    "CustomerID": 1150,
+    "OrderID": 8150,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-20T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7451,
+    "CustomerID": 1151,
+    "OrderID": 8151,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-21T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7454,
+    "CustomerID": 1152,
+    "OrderID": 8152,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-22T09:35:00",
+    "ResolvedAt": "2026-07-24T10:41:00"
+  },
+  {
+    "RequestID": 7457,
+    "CustomerID": 1153,
+    "OrderID": 8153,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-23T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7458,
+    "CustomerID": 1153,
+    "OrderID": 8154,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-23T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7460,
+    "CustomerID": 1154,
+    "OrderID": 8154,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-24T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7463,
+    "CustomerID": 1155,
+    "OrderID": 8155,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-25T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7466,
+    "CustomerID": 1156,
+    "OrderID": 8156,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-26T09:55:00",
+    "ResolvedAt": "2026-07-02T10:25:00"
+  },
+  {
+    "RequestID": 7469,
+    "CustomerID": 1157,
+    "OrderID": 8157,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-01T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7470,
+    "CustomerID": 1157,
+    "OrderID": 8158,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-01T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7472,
+    "CustomerID": 1158,
+    "OrderID": 8158,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-02T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7475,
+    "CustomerID": 1159,
+    "OrderID": 8159,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-03T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7478,
+    "CustomerID": 1160,
+    "OrderID": 8160,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-04T09:15:00",
+    "ResolvedAt": "2026-07-06T10:09:00"
+  },
+  {
+    "RequestID": 7481,
+    "CustomerID": 1161,
+    "OrderID": 8161,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-05T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7482,
+    "CustomerID": 1161,
+    "OrderID": 8162,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-05T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7484,
+    "CustomerID": 1162,
+    "OrderID": 8162,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-06T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7487,
+    "CustomerID": 1163,
+    "OrderID": 8163,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-07T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7490,
+    "CustomerID": 1164,
+    "OrderID": 8164,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-08T09:35:00",
+    "ResolvedAt": "2026-07-10T10:53:00"
+  },
+  {
+    "RequestID": 7493,
+    "CustomerID": 1165,
+    "OrderID": 8165,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-09T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7494,
+    "CustomerID": 1165,
+    "OrderID": 8166,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-09T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7496,
+    "CustomerID": 1166,
+    "OrderID": 8166,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-10T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7499,
+    "CustomerID": 1167,
+    "OrderID": 8167,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-11T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7502,
+    "CustomerID": 1168,
+    "OrderID": 8168,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-12T09:55:00",
+    "ResolvedAt": "2026-07-14T10:37:00"
+  },
+  {
+    "RequestID": 7505,
+    "CustomerID": 1169,
+    "OrderID": 8169,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-13T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7506,
+    "CustomerID": 1169,
+    "OrderID": 8170,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-13T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7508,
+    "CustomerID": 1170,
+    "OrderID": 8170,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-14T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7511,
+    "CustomerID": 1171,
+    "OrderID": 8171,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-15T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7514,
+    "CustomerID": 1172,
+    "OrderID": 8172,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-16T09:15:00",
+    "ResolvedAt": "2026-07-18T10:21:00"
+  },
+  {
+    "RequestID": 7517,
+    "CustomerID": 1173,
+    "OrderID": 8173,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-17T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7518,
+    "CustomerID": 1173,
+    "OrderID": 8174,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-17T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7520,
+    "CustomerID": 1174,
+    "OrderID": 8174,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-18T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7523,
+    "CustomerID": 1175,
+    "OrderID": 8175,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-19T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7526,
+    "CustomerID": 1176,
+    "OrderID": 8176,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-20T09:35:00",
+    "ResolvedAt": "2026-07-22T10:05:00"
+  },
+  {
+    "RequestID": 7529,
+    "CustomerID": 1177,
+    "OrderID": 8177,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-21T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7530,
+    "CustomerID": 1177,
+    "OrderID": 8178,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-21T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7532,
+    "CustomerID": 1178,
+    "OrderID": 8178,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-22T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7535,
+    "CustomerID": 1179,
+    "OrderID": 8179,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-23T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7538,
+    "CustomerID": 1180,
+    "OrderID": 8180,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-24T09:55:00",
+    "ResolvedAt": "2026-07-26T10:49:00"
+  },
+  {
+    "RequestID": 7541,
+    "CustomerID": 1181,
+    "OrderID": 8181,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-25T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7542,
+    "CustomerID": 1181,
+    "OrderID": 8182,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-25T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7544,
+    "CustomerID": 1182,
+    "OrderID": 8182,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-26T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7547,
+    "CustomerID": 1183,
+    "OrderID": 8183,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-01T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7550,
+    "CustomerID": 1184,
+    "OrderID": 8184,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-02T09:15:00",
+    "ResolvedAt": "2026-07-04T10:33:00"
+  },
+  {
+    "RequestID": 7553,
+    "CustomerID": 1185,
+    "OrderID": 8185,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-03T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7554,
+    "CustomerID": 1185,
+    "OrderID": 8186,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-03T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7556,
+    "CustomerID": 1186,
+    "OrderID": 8186,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-04T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7559,
+    "CustomerID": 1187,
+    "OrderID": 8187,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-05T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7562,
+    "CustomerID": 1188,
+    "OrderID": 8188,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-06T09:35:00",
+    "ResolvedAt": "2026-07-08T10:17:00"
+  },
+  {
+    "RequestID": 7565,
+    "CustomerID": 1189,
+    "OrderID": 8189,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-07T09:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7566,
+    "CustomerID": 1189,
+    "OrderID": 8190,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-07T10:40:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7568,
+    "CustomerID": 1190,
+    "OrderID": 8190,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-08T09:45:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7571,
+    "CustomerID": 1191,
+    "OrderID": 8191,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-09T09:50:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7574,
+    "CustomerID": 1192,
+    "OrderID": 8192,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-10T09:55:00",
+    "ResolvedAt": "2026-07-12T10:01:00"
+  },
+  {
+    "RequestID": 7577,
+    "CustomerID": 1193,
+    "OrderID": 8193,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-11T09:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7578,
+    "CustomerID": 1193,
+    "OrderID": 8194,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-11T10:00:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7580,
+    "CustomerID": 1194,
+    "OrderID": 8194,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-12T09:05:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7583,
+    "CustomerID": 1195,
+    "OrderID": 8195,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-13T09:10:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7586,
+    "CustomerID": 1196,
+    "OrderID": 8196,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-14T09:15:00",
+    "ResolvedAt": "2026-07-16T10:45:00"
+  },
+  {
+    "RequestID": 7589,
+    "CustomerID": 1197,
+    "OrderID": 8197,
+    "RequestType": "Support",
+    "RequestContent": "Yêu cầu hỗ trợ cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Open",
+    "CreatedAt": "2026-06-15T09:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7590,
+    "CustomerID": 1197,
+    "OrderID": 8198,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-06-15T10:20:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7592,
+    "CustomerID": 1198,
+    "OrderID": 8198,
+    "RequestType": "Feedback",
+    "RequestContent": "Yêu cầu phản hồi cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "InReview",
+    "CreatedAt": "2026-07-16T09:25:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7595,
+    "CustomerID": 1199,
+    "OrderID": 8199,
+    "RequestType": "Refund",
+    "RequestContent": "Yêu cầu hoàn tiền cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "PendingCustomer",
+    "CreatedAt": "2026-06-17T09:30:00",
+    "ResolvedAt": null
+  },
+  {
+    "RequestID": 7598,
+    "CustomerID": 1200,
+    "OrderID": 8200,
+    "RequestType": "Return",
+    "RequestContent": "Yêu cầu đổi trả cho đơn hàng bánh và nguyên liệu năm 2026.",
+    "RequestStatus": "Resolved",
+    "CreatedAt": "2026-07-18T09:35:00",
+    "ResolvedAt": "2026-07-20T10:29:00"
+  }
+]

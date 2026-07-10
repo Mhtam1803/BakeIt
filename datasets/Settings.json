@@ -1,0 +1,99 @@
+{
+  "currentUser": "@samsam",
+  "general": {
+    "websiteName": "Mycogen Bakery Admin",
+    "description": "Bakery management dashboard",
+    "language": "English",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "theme": "Light",
+    "status": "Active"
+  },
+  "notifications": {
+    "email": true,
+    "order": true,
+    "review": false,
+    "loginAlert": true
+  },
+  "members": [
+    {
+      "employeeId": "EMP001",
+      "name": "Sam Sam",
+      "username": "@samsam",
+      "avatar": "https://api.dicebear.com/9.x/personas/svg?seed=SamSam",
+      "email": "samsam@mycogenbakery.com",
+      "phone": "+84 912 345 678",
+      "gender": "Male",
+      "birthday": "2000-05-16",
+      "address": "Thành phố Hồ Chí Minh",
+      "status": "Online",
+      "joinDate": "Jan 01, 2025",
+      "lastActive": "Just now",
+      "role": "Store Manager",
+      "branch": "District 1 Branch",
+      "shift": "Full Day",
+      "bio": "Store manager responsible for staff management and bakery operations.",
+      "stats": { "orders": 1429, "monthlyRevenue": 125000000, "rating": 4.9, "attendance": 98 },
+      "skills": [
+        { "name": "Team Management", "level": 95 },
+        { "name": "Customer Service", "level": 92 }
+      ],
+      "activities": [
+        { "title": "Approved daily sales report", "time": "10 minutes ago" },
+        { "title": "Updated staff schedule", "time": "Yesterday" }
+      ]
+    },
+    {
+      "employeeId": "EMP002",
+      "name": "Alice Smith",
+      "username": "@alicesmith",
+      "avatar": "https://api.dicebear.com/9.x/personas/svg?seed=Alice",
+      "email": "alice@mycogenbakery.com",
+      "phone": "+84 901 222 111",
+      "gender": "Female",
+      "birthday": "2001-03-12",
+      "address": "District 3, HCM City",
+      "status": "Online",
+      "joinDate": "Jan 12, 2025",
+      "lastActive": "June 25, 2026",
+      "role": "Sales Staff",
+      "branch": "District 1 Branch",
+      "shift": "Morning Shift",
+      "bio": "Sales staff serving customers and supporting checkout.",
+      "stats": { "orders": 860, "monthlyRevenue": 68000000, "rating": 4.8, "attendance": 97 },
+      "skills": [
+        { "name": "Customer Service", "level": 94 },
+        { "name": "Product Knowledge", "level": 88 }
+      ],
+      "activities": [
+        { "title": "Completed Order #1052", "time": "15 minutes ago" },
+        { "title": "Suggested birthday cake combo", "time": "Yesterday" }
+      ]
+    },
+    {
+      "employeeId": "EMP003",
+      "name": "Bob Johnson",
+      "username": "@bobjohnson",
+      "avatar": "https://api.dicebear.com/9.x/personas/svg?seed=Bob",
+      "email": "bob@mycogenbakery.com",
+      "phone": "+84 902 333 222",
+      "gender": "Male",
+      "birthday": "1999-08-20",
+      "address": "Quận Bình Thạnh",
+      "status": "Online",
+      "joinDate": "Jan 11, 2025",
+      "lastActive": "June 25, 2026",
+      "role": "Cashier",
+      "branch": "District 1 Branch",
+      "shift": "Afternoon Shift",
+      "bio": "Cashier handling invoices and payments.",
+      "stats": { "orders": 1040, "monthlyRevenue": 92000000, "rating": 4.7, "attendance": 96 },
+      "skills": [
+        { "name": "Cashier", "level": 96 },
+        { "name": "Payment Handling", "level": 93 }
+      ],
+      "activities": [
+        { "title": "Processed payment #2088", "time": "20 minutes ago" }
+      ]
+    }
+  ]
+}

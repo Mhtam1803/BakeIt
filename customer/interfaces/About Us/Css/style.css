@@ -1,0 +1,578 @@
+/* ==========================================================================
+   STYLE GUIDE - TONE MÀU CINNA MOD & FONT DỄ THƯƠNG (Bake it!)
+   ========================================================================== */
+
+/* Thiết lập màu nền mặc định và font chữ dễ thương toàn trang */
+body {
+    background-color: #FBF7F0; /* Màu kem be sữa nhạt làm nền chủ đạo */
+    color: #4A3321;            /* Màu nâu chocolate đậm dùng cho chữ chính */
+    font-family: "Baloo 2", cursive; /* Font chữ tròn trịa cưng xỉu */
+    margin: 0;
+    padding: 0;
+}
+
+/* --- Khối định dạng Header --- */
+.site-header {
+    width: 100%;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #E6DEC9;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+/* ĐÃ SỬA: Đổi height thành min-height để chứa vừa logo lớn hơn */
+.header-top {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 80px; 
+    border-bottom: 1px solid #F3EFE0;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+/* ĐÃ SỬA: Thêm flexbox để căn giữa icon bên trong */
+.cart-icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    cursor: pointer;
+    padding: 4px;
+    background: transparent;
+    border-radius: 0;
+}
+.cart-icon-btn svg { width: 20px; height: 20px; display: block; }
+
+/* ĐÃ SỬA: Thêm flexbox để căn giữa icon bên trong */
+.avatar-placeholder {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    cursor: pointer;
+    padding: 4px;
+    background: transparent;
+    border-radius: 0;
+}
+.avatar-placeholder svg { width: 20px; height: 20px; display: block; }
+
+/* Make icons visible on white header: use dark fill and ensure spacing */
+.user-actions {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+.cart-icon-btn svg,
+.avatar-placeholder svg {
+    fill: #4A3321; /* dark brown icon color */
+    color: #4A3321;
+}
+
+.cart-badge {
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    background: #5C3D2E;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 1;
+    padding: 2px 6px;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.12);
+}
+
+/* Search input: larger and rounded */
+.search-container {
+    margin-left: 16px;
+    min-width: 0;
+    flex: 1 1 340px;
+}
+.search-input {
+    width: 100%;
+    max-width: 380px;
+    min-width: 0;
+    padding: 8px 12px;
+    border-radius: 12px;
+    border: 1px solid #E6DEC9;
+    background: #FFFFFF;
+    color: #4A3321;
+    font-size: 14px;
+    box-sizing: border-box;
+    font-family: "Baloo 2", cursive;
+}
+
+/* ĐÃ SỬA: Thêm justify-content: center để di chuyển toàn bộ tab ra giữa */
+.site-navigation {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    gap: 24px;
+    height: 48px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.header-top > * {
+    min-width: 0;
+}
+.user-actions {
+    flex: 0 0 auto;
+}
+
+/* ĐÃ SỬA: Thêm text-transform: uppercase để viết in hoa toàn bộ các tab */
+.nav-tab {
+    font-size: 14px;
+    font-weight: 600;
+    color: #614833;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    text-transform: uppercase; 
+}
+
+/* --- Khối nội dung chính (Main Content Area) --- */
+.main-container {
+    max-width: 1200px;
+    margin: 16px auto 32px auto;
+    padding: 0 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+/* Định dạng tiêu đề các mục */
+.hero-title {
+    font-size: 34px;
+    font-weight: 800;
+    margin: 0 0 12px 0;
+    line-height: 1.2;
+}
+
+.hero-subtitle {
+    font-size: 15px;
+    color: #E6DEC9;
+    max-width: 500px;
+    margin: 0 0 24px 0;
+}
+
+/* Nút bấm hành động phối hợp màu của Cinna Mod */
+.btn-primary {
+    background-color: #7FB5FF; /* Nút chính xanh denim */
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 28px;
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: 24px;
+    cursor: pointer;
+    font-family: "Baloo 2", cursive;
+    box-shadow: 0 4px 6px -1px rgba(127, 181, 255, 0.4);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: #FBF7F0;
+    border: 2px solid #E6DEC9;
+    padding: 8px 26px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 24px;
+    cursor: pointer;
+    margin-left: 12px;
+    font-family: "Baloo 2", cursive;
+}
+
+/* --- Khối What sets us apart (3 cột) --- */
+.section-intro {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 24px;
+    padding-top: 8px;
+}
+
+.section-tag {
+    display: block;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #A77B54;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.section-title {
+    font-size: 26px;
+    font-weight: 800;
+    margin: 10px 0 12px 0;
+    line-height: 1.1;
+    color: #3e2617;
+}
+
+.section-intro p {
+    margin: 0 auto;
+    max-width: 560px;
+    color: #7A6655;
+    line-height: 1.7;
+}
+
+.grid-three-columns {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.feature-card {
+    position: relative;
+    padding: 32px 24px 24px;
+    color: #4A3321;
+    min-height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-radius: 12px;
+    background: linear-gradient(180deg, #F9F3E7 0%, #EFE1C7 100%);
+    box-shadow: 0 18px 30px rgba(0, 0, 0, 0.12);
+    overflow: visible;
+    text-align: center;
+    transition: transform 0.25s ease, background 0.25s ease, box-shadow 0.25s ease, color 0.25s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-8px);
+    background: linear-gradient(180deg, #7FB5FF 0%, #4A8AF9 100%);
+    box-shadow: 0 24px 40px rgba(0, 0, 0, 0.2);
+    color: #FFFFFF;
+}
+
+.feature-card .feature-mascot {
+    position: absolute;
+    top: -28px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 64px;
+    height: auto;
+    border-radius: 50%;
+    background: #FFFFFF;
+    padding: 6px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+}
+
+.feature-card .card-title {
+    margin-top: 36px;
+    margin-bottom: 14px;
+    font-size: 22px;
+}
+
+.feature-card .card-desc {
+    margin: 0 auto;
+    max-width: 260px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.55;
+}
+
+.feature-card:hover .card-title,
+.feature-card:hover .card-desc {
+    color: #FFFFFF;
+}
+
+/* Áp dụng 3 tông màu luân phiên giống hệt trong ảnh Cinna Mod */
+.card-brown { background-color: #5C3D2E; }
+.card-blue  { background-color: #7FB5FF; }
+.card-beige { background-color: #C49F79; color: #4A3321; }
+
+.card-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 8px 0 4px 0;
+}
+
+.card-desc {
+    font-size: 13px;
+    opacity: 0.9;
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* --- Khối Thống số Numbers --- */
+.numbers-section {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 32px;
+    align-items: center;
+}
+
+.grid-counters {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.counter-box {
+    background-color: #FFFFFF;
+    border: 1px solid #E6DEC9;
+    padding: 24px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+.counter-number {
+    font-size: 32px;
+    font-weight: 800;
+    color: #5C3D2E;
+}
+
+.counter-label {
+    font-size: 13px;
+    color: #7A6655;
+    margin-top: 4px;
+}
+
+/* --- Khối Banner sản phẩm ngang lớn --- */
+.featured-product-banner {
+    background-color: #FFFFFF;
+    border: 1px solid #E6DEC9;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 1152px;
+    min-height: 360px;
+}
+
+.product-banner-image {
+    background-color: #E6DEC9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    height: 100%;
+    min-height: 360px;
+}
+
+.popular-kit-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+}
+
+.kit-card {
+    background-color: #FFFFFF;
+    border: 1px solid #E6DEC9;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
+    display: flex;
+    flex-direction: column;
+}
+
+.kit-image {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
+}
+
+.kit-card-content {
+    padding: 24px;
+}
+
+@media (max-width: 1024px) {
+    .popular-kit-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Feedback testimonial cards */
+.feedback-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 20px;
+}
+
+.testimonial-card {
+    background: rgba(255, 244, 237, 0.95);
+    border: 1px solid rgba(196, 159, 121, 0.35);
+    border-radius: 24px;
+    padding: 24px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
+    position: relative;
+    overflow: hidden;
+}
+
+.testimonial-card::before {
+    content: '“';
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 72px;
+    color: rgba(196, 159, 121, 0.18);
+    line-height: 1;
+}
+
+.testimonial-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 14px;
+}
+
+.testimonial-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: #5C3D2E;
+}
+
+.testimonial-stars {
+    color: #D17F7A;
+    font-size: 14px;
+}
+
+.testimonial-text {
+    margin: 0;
+    color: #4A3321;
+    line-height: 1.75;
+    font-size: 14px;
+}
+
+@media (max-width: 980px) {
+    .feedback-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.product-banner-content {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 12px;
+}
+
+.btn-add-cart {
+    background-color: #5C3D2E;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 24px;
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 20px;
+    cursor: pointer;
+    align-self: flex-start;
+    font-family: "Baloo 2", cursive;
+    transition: background 0.2s;
+}
+
+.btn-add-cart:hover {
+    background-color: #4A3321;
+}
+
+/* --- Khối Footer --- */
+.site-footer {
+    background-color: #5C3D2E; /* Chân trang đồng bộ màu nâu quế đậm */
+    color: #E6DEC9;
+    padding: 48px 0;
+    margin-top: 64px;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: grid;
+    grid-template-columns: 2fr repeat(2, 1fr) 1fr;
+    gap: 32px;
+}
+
+/* Các đường gạch ngang thô giả lập văn bản của wireframe */
+.wireframe-text-line {
+    height: 8px;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.wireframe-title-line {
+    height: 14px;
+    background-color: rgba(255, 255, 255, 0.25);
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+
+.social-icons-group {
+    display: flex;
+    gap: 12px;
+}
+
+.icon-circle {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: transform 0.2s;
+}
+
+.icon-circle:hover {
+    transform: scale(1.1);
+}
+.icon-facebook { background-color: #1877F2; }
+.icon-zalo { background-color: #0068FF; font-size: 10px; font-weight: 800; }
+
+/* Responsive cơ bản cho Thiết bị di động Mobile */
+@media (max-width: 768px) {
+    .grid-three-columns, .numbers-section, .featured-product-banner, .footer-content {
+        grid-template-columns: 1fr;
+    }
+    .header-top {
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: center;
+        padding: 16px 20px;
+    }
+    .search-container {
+        display: block;
+        width: 100%;
+        margin-left: 0;
+        order: 2;
+    }
+    .user-actions {
+        width: 100%;
+        justify-content: flex-start;
+        gap: 12px;
+        order: 3;
+    }
+    .site-navigation {
+        gap: 16px;
+        padding: 12px 20px;
+        justify-content: space-between;
+        order: 4;
+    }
+    .nav-tab {
+        font-size: 13px;
+        flex: 1 1 120px;
+        justify-content: center;
+        text-align: center;
+    }
+    .hero-banner { flex-direction: column !important; height: auto !important; padding: 32px 0; }
+    .hero-banner > div { width: 100% !important; padding: 24px !important; }
+}

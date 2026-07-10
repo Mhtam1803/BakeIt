@@ -1,0 +1,116 @@
+[
+  {
+    "MemberID": 1,
+    "CustomerID": 1001,
+    "Email": "nguyenminhanh@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Blocked",
+    "CreatedAt": "2026-01-01T08:00:00"
+  },
+  {
+    "MemberID": 2,
+    "CustomerID": 1002,
+    "Email": "tranhoangnam@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-02-02T09:07:00"
+  },
+  {
+    "MemberID": 3,
+    "CustomerID": 1003,
+    "Email": "lethuha@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-03-03T10:14:00"
+  },
+  {
+    "MemberID": 4,
+    "CustomerID": 1004,
+    "Email": "phamgiabao@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-04-04T11:21:00"
+  },
+  {
+    "MemberID": 5,
+    "CustomerID": 1005,
+    "Email": "hoanglinhchi@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-05-05T12:28:00"
+  },
+  {
+    "MemberID": 6,
+    "CustomerID": 1006,
+    "Email": "phanquochuy@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-06-06T13:35:00"
+  },
+  {
+    "MemberID": 7,
+    "CustomerID": 1007,
+    "Email": "vubaongoc@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-01-07T14:42:00"
+  },
+  {
+    "MemberID": 8,
+    "CustomerID": 1008,
+    "Email": "dangducanh@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-02-08T15:49:00"
+  },
+  {
+    "MemberID": 9,
+    "CustomerID": 1009,
+    "Email": "buithanhtam@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-03-09T16:56:00"
+  },
+  {
+    "MemberID": 10,
+    "CustomerID": 1010,
+    "Email": "domylinh@gmail.com",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-04-10T17:03:00"
+  },
+  {
+    "MemberID": 11,
+    "CustomerID": 1011,
+    "FullName": "TEAM M LCHHTTT",
+    "Email": "teammlchhttt@gmail.com",
+    "Phone": "0987655755",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-07-09T08:03:02.645Z",
+    "UpdatedAt": "2026-07-09T08:03:02.645Z"
+  },
+  {
+    "MemberID": 12,
+    "CustomerID": 1012,
+    "FullName": "Bùi Lê Hạnh Nguyên",
+    "Email": "nguyenblhk24411e@st.uel.edu.vn",
+    "Phone": "0934922528",
+    "Password": "123456",
+    "Role": "Customer",
+    "Status": "Active",
+    "CreatedAt": "2026-07-09T23:23:30.482Z",
+    "UpdatedAt": "2026-07-09T23:23:30.482Z"
+  }
+]

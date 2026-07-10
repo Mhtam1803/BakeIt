@@ -1,0 +1,4402 @@
+[
+  {
+    "CategoryID": 1,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 2,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 3,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 4,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 5,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 6,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 7,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 8,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 9,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 10,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 11,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 12,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 13,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 14,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 15,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 16,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 17,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 18,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 19,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 1901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 1903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 20,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 21,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 22,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 23,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 24,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 25,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 26,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 27,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 28,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 29,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 2901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 2903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 30,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 31,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 32,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 33,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 34,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 35,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 36,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 37,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 38,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 39,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 3901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 3903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 40,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 41,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 42,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 43,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 44,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 45,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 46,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 47,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 48,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 49,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 4901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 4903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 50,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 51,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 52,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 53,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 54,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 55,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 56,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 57,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 58,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 59,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 5901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 5903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 60,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 61,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 62,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 63,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 64,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 65,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 66,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 67,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 68,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 69,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 6901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 6903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 70,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 71,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 72,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 73,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 74,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 75,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 76,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 77,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 78,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 79,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 7901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 7903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 80,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 81,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 82,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 83,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 84,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 85,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 86,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 87,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 88,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 89,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 8901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 8903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 90,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 91,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 92,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 93,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 94,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 95,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 96,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 97,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 98,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 99,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 9901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 9903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 100,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 101,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 102,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 103,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 104,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 105,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 106,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 107,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 108,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 109,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 10901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 10903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 110,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 111,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 112,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 113,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 114,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 115,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 116,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 117,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 118,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 119,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 11901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 11903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 120,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 121,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 122,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 123,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 124,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 125,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 126,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 127,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 128,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 129,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 12901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 12903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 130,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 131,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 132,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 133,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 134,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 135,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 136,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 137,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 138,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 139,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 13901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 13903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 140,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 141,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 142,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 143,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 144,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 145,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 146,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 147,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 148,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 149,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 14901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 14903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 150,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 151,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 152,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 153,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 154,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 155,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 156,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 157,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 158,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 159,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 15901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 15903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 160,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 161,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 162,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 163,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 164,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 165,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 166,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 167,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 168,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 169,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 16901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 16903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 170,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 171,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 172,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 173,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 174,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 175,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 176,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 177,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 178,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 179,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 17901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 17903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 180,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 181,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 182,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 183,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 184,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 185,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 186,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 187,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 188,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 189,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 18901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 18903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 190,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 191,
+    "CategoryName": "Bột và tinh bột",
+    "Description": "Nhóm hàng bột và tinh bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19101,
+        "SubCategoryName": "Bột và tinh bột - dòng 1",
+        "Description": "Phân loại con 1 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19102,
+        "SubCategoryName": "Bột và tinh bột - dòng 2",
+        "Description": "Phân loại con 2 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19103,
+        "SubCategoryName": "Bột và tinh bột - dòng 3",
+        "Description": "Phân loại con 3 của bột và tinh bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 192,
+    "CategoryName": "Bơ sữa và kem",
+    "Description": "Nhóm hàng bơ sữa và kem dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19201,
+        "SubCategoryName": "Bơ sữa và kem - dòng 1",
+        "Description": "Phân loại con 1 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19202,
+        "SubCategoryName": "Bơ sữa và kem - dòng 2",
+        "Description": "Phân loại con 2 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19203,
+        "SubCategoryName": "Bơ sữa và kem - dòng 3",
+        "Description": "Phân loại con 3 của bơ sữa và kem với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 193,
+    "CategoryName": "Chocolate cacao",
+    "Description": "Nhóm hàng chocolate cacao dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19301,
+        "SubCategoryName": "Chocolate cacao - dòng 1",
+        "Description": "Phân loại con 1 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19302,
+        "SubCategoryName": "Chocolate cacao - dòng 2",
+        "Description": "Phân loại con 2 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19303,
+        "SubCategoryName": "Chocolate cacao - dòng 3",
+        "Description": "Phân loại con 3 của chocolate cacao với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 194,
+    "CategoryName": "Đường và chất tạo ngọt",
+    "Description": "Nhóm hàng đường và chất tạo ngọt dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19401,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 1",
+        "Description": "Phân loại con 1 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19402,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 2",
+        "Description": "Phân loại con 2 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19403,
+        "SubCategoryName": "Đường và chất tạo ngọt - dòng 3",
+        "Description": "Phân loại con 3 của đường và chất tạo ngọt với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 195,
+    "CategoryName": "Dụng cụ trộn bột",
+    "Description": "Nhóm hàng dụng cụ trộn bột dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19501,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19502,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19503,
+        "SubCategoryName": "Dụng cụ trộn bột - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trộn bột với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 196,
+    "CategoryName": "Khuôn và khay nướng",
+    "Description": "Nhóm hàng khuôn và khay nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19601,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 1",
+        "Description": "Phân loại con 1 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19602,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 2",
+        "Description": "Phân loại con 2 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19603,
+        "SubCategoryName": "Khuôn và khay nướng - dòng 3",
+        "Description": "Phân loại con 3 của khuôn và khay nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 197,
+    "CategoryName": "Dụng cụ trang trí",
+    "Description": "Nhóm hàng dụng cụ trang trí dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19701,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 1",
+        "Description": "Phân loại con 1 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19702,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 2",
+        "Description": "Phân loại con 2 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19703,
+        "SubCategoryName": "Dụng cụ trang trí - dòng 3",
+        "Description": "Phân loại con 3 của dụng cụ trang trí với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 198,
+    "CategoryName": "Set DIY bánh lạnh",
+    "Description": "Nhóm hàng set DIY bánh lạnh dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19801,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19802,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19803,
+        "SubCategoryName": "Set DIY bánh lạnh - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh lạnh với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 199,
+    "CategoryName": "Set DIY bánh nướng",
+    "Description": "Nhóm hàng set DIY bánh nướng dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 19901,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 1",
+        "Description": "Phân loại con 1 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19902,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 2",
+        "Description": "Phân loại con 2 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 19903,
+        "SubCategoryName": "Set DIY bánh nướng - dòng 3",
+        "Description": "Phân loại con 3 của set DIY bánh nướng với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  },
+  {
+    "CategoryID": 200,
+    "CategoryName": "Bao bì thành phẩm",
+    "Description": "Nhóm hàng bao bì thành phẩm dành cho ngành bánh, đợt quản lý 2026.",
+    "Subcategories": [
+      {
+        "SubCategoryID": 20001,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 1",
+        "Description": "Phân loại con 1 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 20002,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 2",
+        "Description": "Phân loại con 2 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      },
+      {
+        "SubCategoryID": 20003,
+        "SubCategoryName": "Bao bì thành phẩm - dòng 3",
+        "Description": "Phân loại con 3 của bao bì thành phẩm với hàng hóa quay vòng năm 2026."
+      }
+    ]
+  }
+]

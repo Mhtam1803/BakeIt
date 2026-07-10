@@ -1,0 +1,98 @@
+[
+  {
+    "AdminID": 5001,
+    "FullName": "Sam Sam",
+    "Email": "samsam@mycogenbakery.com",
+    "Password": "admin123",
+    "Role": "Store Manager",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5002,
+    "FullName": "Alice Smith",
+    "Email": "alice@mycogenbakery.com",
+    "Password": "hashed_admin_002",
+    "Role": "Sales Staff",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5003,
+    "FullName": "Bob Johnson",
+    "Email": "bob@mycogenbakery.com",
+    "Password": "hashed_admin_003",
+    "Role": "Cashier",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5004,
+    "FullName": "BakeIt Admin 004",
+    "Email": "admin004@bakeit.example.com",
+    "Password": "hashed_admin_004",
+    "Role": "Content Manager",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5005,
+    "FullName": "BakeIt Admin 005",
+    "Email": "admin005@bakeit.example.com",
+    "Password": "hashed_admin_005",
+    "Role": "Support Agent",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5006,
+    "FullName": "BakeIt Admin 006",
+    "Email": "admin006@bakeit.example.com",
+    "Password": "hashed_admin_006",
+    "Role": "Store Manager",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5007,
+    "FullName": "BakeIt Admin 007",
+    "Email": "admin007@bakeit.example.com",
+    "Password": "hashed_admin_007",
+    "Role": "Product Manager",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5008,
+    "FullName": "BakeIt Admin 008",
+    "Email": "admin008@bakeit.example.com",
+    "Password": "hashed_admin_008",
+    "Role": "Order Manager",
+    "AdminStatus": "Suspended"
+  },
+  {
+    "AdminID": 5009,
+    "FullName": "BakeIt Admin 009",
+    "Email": "admin009@bakeit.example.com",
+    "Password": "hashed_admin_009",
+    "Role": "Content Manager",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5010,
+    "FullName": "BakeIt Admin 010",
+    "Email": "admin010@bakeit.example.com",
+    "Password": "hashed_admin_010",
+    "Role": "Support Agent",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5011,
+    "FullName": "BakeIt Admin 011",
+    "Email": "admin011@bakeit.example.com",
+    "Password": "hashed_admin_011",
+    "Role": "Store Manager",
+    "AdminStatus": "Active"
+  },
+  {
+    "AdminID": 5012,
+    "FullName": "BakeIt Admin 012",
+    "Email": "admin012@bakeit.example.com",
+    "Password": "hashed_admin_012",
+    "Role": "Product Manager",
+    "AdminStatus": "Active"
+  }
+]

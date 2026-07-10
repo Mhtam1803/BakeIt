@@ -1,0 +1,22 @@
+[
+  {
+    "PromotionID": 1,
+    "PromotionName": "Summer Sale",
+    "DiscountType": "Percentage",
+    "DiscountValue": 20,
+    "StartDate": "2025-06-01",
+    "EndDate": "2025-06-30",
+    "PromotionCode": "SUMMER20",
+    "PromotionStatus": "Active"
+  },
+  {
+    "PromotionID": 2,
+    "PromotionName": "Free Shipping",
+    "DiscountType": "Fixed",
+    "DiscountValue": 50000,
+    "StartDate": "2025-06-15",
+    "EndDate": "2025-07-15",
+    "PromotionCode": "SHIPFREE",
+    "PromotionStatus": "Draft"
+  }
+]

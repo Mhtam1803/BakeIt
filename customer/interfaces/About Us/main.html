@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Bake it!</title>
+    <!-- Vẫn liên kết với file style.css gốc của bạn -->
+    <link rel="stylesheet" href="Css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        /* CSS bổ sung riêng cho layout trang About Us */
+        .about-hero {
+            text-align: center;
+            padding: 0;
+            background-color: transparent;
+            border-radius: 16px;
+            margin-bottom: 24px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+        }
+
+        .about-hero img {
+            width: 100%;
+            height: auto;
+            display: block;
+            object-fit: cover;
+        }
+
+        .about-hero-text {
+            padding: 32px 24px;
+            background: #F8F3E8;
+        }
+
+        .about-hero-desc {
+            font-size: 16px;
+            line-height: 1.6;
+            max-width: 600px;
+            margin: 16px auto 0;
+            color: #4A3321;
+        }
+
+        .about-story-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 48px;
+            align-items: center;
+            margin: 48px 0;
+        }
+
+        .story-image-placeholder {
+            background-color: #C49F79;
+            height: 400px;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 64px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            border: 1px solid #E6DEC9;
+        }
+
+        .story-text p {
+            font-size: 15px;
+            color: #7A6655;
+            line-height: 1.7;
+            margin-top: 16px;
+        }
+
+        .core-values-section {
+            margin-top: 64px;
+        }
+
+        .faq-section {
+            margin: 64px 0 32px;
+            padding: 32px;
+            background: #FFF9F0;
+            border-radius: 20px;
+            box-shadow: 0 8px 24px rgba(92, 61, 46, 0.08);
+        }
+
+        .faq-list {
+            display: grid;
+            gap: 16px;
+            margin-top: 24px;
+        }
+
+        .faq-item {
+            background: #FFFFFF;
+            border: 1px solid #E9DDCA;
+            border-radius: 14px;
+            overflow: hidden;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .faq-item:hover {
+            border-color: #C49F79;
+            box-shadow: 0 6px 16px rgba(92, 61, 46, 0.08);
+        }
+
+        .faq-question-btn {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 18px 20px;
+            border: none;
+            background: transparent;
+            cursor: pointer;
+            font-family: inherit;
+            text-align: left;
+            color: #5C3D2E;
+            font-size: 17px;
+            font-weight: 600;
+        }
+
+        .faq-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            background: #F4E4C8;
+            color: #A46B3B;
+            font-size: 18px;
+            transition: transform 0.3s ease, background 0.3s ease, color 0.3s ease;
+            flex-shrink: 0;
+        }
+
+        .faq-item.active {
+            border-color: #8EC5FF;
+            box-shadow: 0 8px 20px rgba(78, 142, 255, 0.16);
+            background: linear-gradient(135deg, #ffffff 0%, #f6fbff 100%);
+        }
+
+        .faq-item.active .faq-icon {
+            transform: rotate(45deg);
+            background: linear-gradient(135deg, #5DADE2 0%, #4A90E2 100%);
+            color: #FFFFFF;
+        }
+
+        .faq-answer-panel {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.35s ease, padding 0.3s ease;
+            padding: 0 20px;
+        }
+
+        .faq-item.active .faq-answer-panel {
+            max-height: 180px;
+            padding: 0 20px 18px;
+        }
+
+        .faq-answer-panel p {
+            margin: 0;
+            color: #7A6655;
+            line-height: 1.7;
+        }
+
+        @media (max-width: 768px) {
+            .about-story-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .faq-section {
+                padding: 24px 18px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Khối Header đã được cập nhật từ yêu cầu trước -->
+    <div id="global-header-placeholder"></div>
+
+        <main class="site-main">
+        <!-- Banner Intro About Us -->
+        <section class="about-hero">
+            <img src="Images/banneraboutus.png" alt="Banner về chúng tôi của Bake it!">
+            <div class="about-hero-text">
+                <span class="section-tag">Về chúng tôi</span>
+                <h1 class="hero-title" style="color: #5C3D2E;">Câu chuyện của Bake it!</h1>
+                <p class="about-hero-desc">
+                    Khởi nguồn từ một căn bếp nhỏ ngập tràn hương bơ và vanilla, Bake it! ra đời với mong ước mang đến những nguyên liệu làm bánh tinh túy nhất cho những tâm hồn đam mê sáng tạo ngọt ngào.
+                </p>
+            </div>
+        </section>
+
+        <!-- Khối kể chuyện Hành trình -->
+        <section class="about-story-grid">
+            <div class="story-image-placeholder">
+                <img src="Images/banneraboutus2.png" alt="Banner About Us" style="width: 100%; height: 100%; object-fit: cover; border-radius: 16px; display: block;">
+            </div>
+            <div class="story-text">
+                <span class="section-tag">Khởi nguồn</span>
+                <h2 class="section-title">Hành trình lan tỏa niềm vui</h2>
+                <p>
+                    Chúng tôi tin rằng mỗi chiếc bánh ra lò không chỉ là một món ăn, mà còn là một tác phẩm nghệ thuật đong đầy tình cảm của người thợ. Dù bạn là một bếp trưởng chuyên nghiệp hay chỉ mới chập chững cầm phới lồng, Bake it! luôn ở đây để đồng hành cùng bạn trên từng chặng đường.
+                </p>
+                <p>
+                    Mọi nguyên liệu, dụng cụ trên kệ hàng của Bake it! đều được đích thân đội ngũ tuyển chọn khắt khe. Chúng tôi cam kết độ tươi mới, an toàn và nguồn gốc minh bạch, để mẻ bánh của bạn luôn nở bung hoàn hảo nhất.
+                </p>
+                <button class="btn-primary" style="margin-top: 24px;" onclick="location.href='../Category/ProductList/product-list.html'">Ghé thăm cửa hàng</button>
+            </div>
+        </section>
+
+        <!-- Khối Giá trị cốt lõi (Tận dụng lại class grid-three-columns và feature-card từ trang chủ) -->
+        <section class="core-values-section">
+            <div class="section-intro">
+                <span class="section-tag">Cam kết</span>
+                <h2 class="section-title">Giá trị cốt lõi</h2>
+            </div>
+            
+            <div class="grid-three-columns">
+                <div class="feature-card card-brown">
+                    <img src="Images/mascot1.png" alt="Mascot 1" class="feature-mascot">
+                    <h4 class="card-title">Chất lượng hàng đầu</h4>
+                    <p class="card-desc">Cung cấp nguyên liệu nguyên bản, không pha lẫn tạp chất, giúp bánh giữ trọn hương vị tự nhiên nhất.</p>
+                </div>
+                
+                <div class="feature-card card-blue">
+                    <img src="Images/mascot2.png" alt="Mascot 2" class="feature-mascot">
+                    <h4 class="card-title">Đam mê & Tận tâm</h4>
+                    <p class="card-desc">Luôn sẵn sàng tư vấn nhiệt tình, chia sẻ bí quyết và hàng ngàn công thức làm bánh hoàn toàn miễn phí.</p>
+                </div>
+                
+                <div class="feature-card card-beige">
+                    <img src="Images/mascot3.png" alt="Mascot 3" class="feature-mascot">
+                    <h4 class="card-title">Cộng đồng gắn kết</h4>
+                    <p class="card-desc">Xây dựng một sân chơi giao lưu, học hỏi và truyền cảm hứng cho những trái tim trót yêu hương vị ngọt ngào.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq-section">
+            <div class="section-intro">
+                <span class="section-tag">Hỏi đáp</span>
+                <h2 class="section-title">Câu hỏi thường gặp</h2>
+                <p class="about-hero-desc" style="margin-top: 12px;">Một vài câu hỏi mà nhiều bạn thường đặt trước khi bắt đầu khám phá thế giới làm bánh cùng Bake it!.</p>
+            </div>
+
+            <div class="faq-list">
+                <div class="faq-item active">
+                    <button class="faq-question-btn" type="button" aria-expanded="true">
+                        <span>Bake it! có giao hàng toàn quốc không?</span>
+                        <span class="faq-icon">+</span>
+                    </button>
+                    <div class="faq-answer-panel">
+                        <p>Có nhé. Bake it! hỗ trợ giao hàng toàn quốc để bạn có thể đặt những nguyên liệu yêu thích một cách dễ dàng, nhanh chóng và an tâm hơn mỗi khi cần chuẩn bị cho một mẻ bánh mới.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question-btn" type="button" aria-expanded="false">
+                        <span>Nếu tôi chưa từng làm bánh có thể mua ở đây không?</span>
+                        <span class="faq-icon">+</span>
+                    </button>
+                    <div class="faq-answer-panel">
+                        <p>Hoàn toàn có thể. Dù bạn mới chạm tay vào chiếc áo bếp lần đầu hay đã có kinh nghiệm lâu năm, đội ngũ của chúng tôi luôn sẵn sàng tư vấn những lựa chọn phù hợp, dễ dùng và rất thân thiện với người mới bắt đầu.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question-btn" type="button" aria-expanded="false">
+                        <span>Có thể nhận tư vấn công thức riêng không?</span>
+                        <span class="faq-icon">+</span>
+                    </button>
+                    <div class="faq-answer-panel">
+                        <p>Được nhé. Bạn có thể gửi cho chúng tôi nhu cầu của mình để được tư vấn chọn nguyên liệu, gợi ý công thức và chia sẻ những mẹo nhỏ giúp bạn làm bánh dễ thành hơn, thơm ngon hơn và đúng ý nhất.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question-btn" type="button" aria-expanded="false">
+                        <span>Nguyên liệu có được bảo quản lâu dài không?</span>
+                        <span class="faq-icon">+</span>
+                    </button>
+                    <div class="faq-answer-panel">
+                        <p>Chắc chắn rồi. Mỗi loại nguyên liệu đều có cách bảo quản riêng, và Bake it! sẽ luôn đồng hành cùng bạn với những lời khuyên đơn giản nhưng rất hữu ích để giữ nguyên vị ngon, độ tươi mới và chất lượng lâu dài hơn.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <div id="global-footer-placeholder"></div>
+
+    <script src="../../shared/cart-storage.js"></script>
+    <script src="../../shared/global-layout.js"></script>
+    <script src="Js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+/* CSS Custom Stylesheet cho Module Thông Tin Cá Nhân - Bake it! */
+body {
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* Tùy chỉnh thanh cuộn thanh lịch */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: #faf8f5;
+}
+::-webkit-scrollbar-thumb {
+    background: #ccb186;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #5a2d16;
+}
+
+/* Hiệu ứng chuyển tab mượt mà */
+.tab-content {
+    animation: fadeIn 0.4s ease-in-out;
+}
+
+.btn-cancel-order {
+    border: 1px solid #dc2626;
+    border-radius: 999px;
+    background: #fff;
+    color: #dc2626;
+    padding: 5px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+}
+
+.btn-cancel-order:hover {
+    background: #dc2626;
+    color: #fff;
+}
+
+.order-action-disabled {
+    border: 1px solid #e7d5cd;
+    border-radius: 999px;
+    background: #faf8f5;
+    color: #9c8476;
+    padding: 5px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: not-allowed;
+}
+
+.cancel-reason-option {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    border: 1px solid #e7d5cd;
+    border-radius: 12px;
+    background: #fff;
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s;
+}
+
+.cancel-reason-option:hover {
+    border-color: #ccb186;
+    background: #faf8f5;
+}
+
+.cancel-reason-option input {
+    accent-color: #dc2626;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(4px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

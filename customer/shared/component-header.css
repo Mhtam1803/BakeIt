@@ -1,0 +1,209 @@
+/* ============================================================
+   BAKE IT! — HEADER DÙNG CHUNG (đồng bộ toàn site)
+   File này được global-layout.js nạp SAU CÙNG trên mọi trang,
+   để đảm bảo header trông giống hệt nhau dù đang ở trang nào,
+   không bị các CSS riêng của từng trang đè lên nữa.
+   ============================================================ */
+.site-header {
+    width: 100%;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #E6DEC9;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.header-top {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 112px;
+    border-bottom: 1px solid #F3EFE0;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.header-logo-link {
+    display: inline-flex;
+    align-items: center;
+}
+
+.header-logo-img {
+    height: 86px;
+    width: auto;
+    display: block;
+}
+
+.search-container { margin-left: 24px; flex: 1; display: flex; justify-content: center; }
+.search-input {
+    width: 560px;
+    max-width: 52vw;
+    height: 56px;
+    padding: 0 22px;
+    border-radius: 18px;
+    border: 2px solid #E6DEC9;
+    background: #FFFFFF;
+    color: #4A3321;
+    font-size: 18px;
+    box-sizing: border-box;
+    font-family: "Baloo 2", cursive;
+}
+.site-header,
+.site-header input,
+.site-header button,
+.site-header a {
+    font-family: "Baloo 2", cursive;
+}
+.search-input::placeholder {
+    font-family: "Baloo 2", cursive;
+    font-weight: 500;
+}
+.auth-font-sans .site-header,
+.auth-font-sans .site-header input,
+.auth-font-sans .site-header button,
+.auth-font-sans .site-header a,
+.auth-font-sans .search-input,
+.auth-font-sans .search-input::placeholder,
+.auth-font-sans .account-menu-trigger,
+.auth-font-sans .account-dropdown-menu a,
+.auth-font-sans .account-logout-btn {
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.search-input:focus { outline: none; border-color: #A77B54; }
+
+.user-actions { display: flex; gap: 22px; align-items: center; }
+.cart-wrapper svg {
+    width: 32px;
+    height: 32px;
+    fill: #4A3321;
+}
+
+.site-navigation {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 28px;
+    display: flex;
+    gap: 38px;
+    min-height: 64px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.nav-tab {
+    font-size: 18px;
+    font-weight: 700;
+    color: #7A6655;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    transition: color 0.3s;
+}
+.nav-tab.active, .nav-tab:hover { color: #A77B54; }
+
+/* Dropdown menu Category — trước đây chỉ 2/9 trang có CSS này
+   nên menu bị "xổ tràn" luôn ra ngoài thay vì ẩn/hiện khi hover */
+.nav-item-dropdown { position: relative; display: flex; align-items: center; height: 100%; }
+.arrow-down { font-size: 13px; margin-left: 7px; }
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    min-width: 220px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    border: 1px solid #E6DEC9;
+    border-radius: 8px;
+    display: none;
+    flex-direction: column;
+    z-index: 200;
+    padding: 8px 0;
+}
+.nav-item-dropdown:hover .dropdown-menu { display: flex; }
+.dropdown-menu a {
+    padding: 12px 22px;
+    color: #4a3329;
+    text-decoration: none;
+    font-size: 16px;
+    text-transform: none;
+    font-weight: 500;
+    transition: background 0.2s, color 0.2s;
+}
+.dropdown-menu a:hover { background: #FBF7F0; color: #A77B54; font-weight: bold; }
+
+.avatar-placeholder {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.avatar-placeholder svg { width: 28px; height: 28px; fill: #4A3321; }
+
+.account-menu-wrapper {
+    position: relative;
+}
+
+.account-menu-trigger {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-family: "Baloo 2", cursive;
+}
+
+.account-dropdown-menu {
+    position: absolute;
+    top: calc(100% + 10px);
+    right: 0;
+    min-width: 180px;
+    display: none;
+    flex-direction: column;
+    padding: 8px 0;
+    background: #fff;
+    border: 1px solid #E6DEC9;
+    border-radius: 8px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    z-index: 250;
+}
+
+.account-menu-wrapper.open .account-dropdown-menu {
+    display: flex;
+}
+
+.account-dropdown-menu a,
+.account-logout-btn {
+    padding: 10px 16px;
+    color: #4a3329;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.account-logout-btn {
+    border: none;
+    background: transparent;
+    text-align: left;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    cursor: pointer;
+}
+
+.account-dropdown-menu a:hover,
+.account-logout-btn:hover {
+    background: #FBF7F0;
+    color: #A77B54;
+}
+
+@media (max-width: 768px) {
+    .search-container { display: none; }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "BannerID": 1,
+    "AdminID": 1,
+    "Title": "Banner Slide 1",
+    "ImageURL": "/admin/images/bannerslide1.png",
+    "LinkURL": "/admin/images/bannerslide1.png",
+    "StartDate": "2026-07-09",
+    "BannerStatus": "Active"
+  },
+  {
+    "BannerID": 2,
+    "AdminID": 1,
+    "Title": "Banner Slide 2",
+    "ImageURL": "/admin/images/bannerslide2.png",
+    "LinkURL": "/admin/images/bannerslide2.png",
+    "StartDate": "2026-07-09",
+    "BannerStatus": "Active"
+  },
+  {
+    "BannerID": 3,
+    "AdminID": 1,
+    "Title": "Banner Slide 3",
+    "ImageURL": "/admin/images/bannerslide3.png",
+    "LinkURL": "/admin/images/bannerslide3.png",
+    "StartDate": "2026-07-09",
+    "BannerStatus": "Active"
+  },
+  {
+    "BannerID": 4,
+    "AdminID": 1,
+    "Title": "Banner Slide 4",
+    "ImageURL": "/admin/images/bannerslide4.png",
+    "LinkURL": "/admin/images/bannerslide4.png",
+    "StartDate": "2026-07-09",
+    "BannerStatus": "Active"
+  },
+  {
+    "BannerID": 5,
+    "AdminID": 1,
+    "Title": "Banner Kit 1",
+    "ImageURL": "/admin/images/bannerkit1.png",
+    "LinkURL": "/admin/images/bannerkit1.png",
+    "StartDate": "2026-07-09",
+    "BannerStatus": "Active"
+  },
+  {
+    "BannerID": 6,
+    "AdminID": 1,
+    "Title": "Banner Kit 2",
+    "ImageURL": "/admin/images/bannerkit2.png",
+    "LinkURL": "/admin/images/bannerkit2.png",
+    "StartDate": "2026-07-09",
+    "BannerStatus": "Active"
+  },
+  {
+    "BannerID": 7,
+    "AdminID": 1,
+    "Title": "Banner Kit 3",
+    "ImageURL": "/admin/images/bannerkit3.png",
+    "LinkURL": "/admin/images/bannerkit3.png",
+    "StartDate": "2026-07-09",
+    "BannerStatus": "Active"
+  }
+]
